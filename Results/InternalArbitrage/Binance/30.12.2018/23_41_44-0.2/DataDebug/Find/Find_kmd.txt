@@ -1,0 +1,174 @@
+30/12/2018 23:42:10
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - kmd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.49
+request - 419.14000000,0.00022310,
+price - 0.00022310
+
+Sell	Symbol - kmd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.5
+request - 5.39000000,0.00022240,
+price - 0.00022240
+
+Buy	Symbol - kmd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.63
+request - 44.60000000,0.00618500,
+price - 0.0002237207275000
+
+Sell	Symbol - kmd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.64
+request - 5.39000000,0.00613100,
+price - 0.0002217674665000
+
+BuyPriceList
+kmd_btc,	0.00022310
+kmd_eth,	0.0002237207275000
+
+SellPriceList
+kmd_btc,	0.00022240
+kmd_eth,	0.0002217674665000
+
+BuyKey - kmd_btc	BuyPrice - 0.00022310
+SellKey - kmd_btc	SellPrice - 0.00022240
+BuyNextOffer - 0.00022310	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00022240	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+kmd_eth,	0.0002237207275000
+
+SellPriceList
+kmd_btc,	0.00022240
+kmd_eth,	0.0002217674665000
+
+BuyKey - kmd_eth	BuyPrice - 0.0002237207275000
+SellKey - kmd_btc	SellPrice - 0.00022240
+precent - -0.590%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00618500	buyPricePotential (ConversionPrice) - 0.00022372
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00022240	sellPricePotential (ConversionPrice) - 0.00022240
+percentPotential - -0.590%
+
+
+
+30/12/2018 23:42:39
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - kmd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.5
+request - 419.14000000,0.00022310,
+price - 0.00022310
+
+Sell	Symbol - kmd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.5
+request - 15.94000000,0.00022260,
+price - 0.00022260
+
+Buy	Symbol - kmd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.64
+request - 97.00000000,0.00618300,
+price - 0.0002233608750000
+
+Sell	Symbol - kmd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.63
+request - 44.02000000,0.00614200,
+price - 0.0002218797500000
+
+BuyPriceList
+kmd_btc,	0.00022310
+kmd_eth,	0.0002233608750000
+
+SellPriceList
+kmd_btc,	0.00022260
+kmd_eth,	0.0002218797500000
+
+BuyKey - kmd_btc	BuyPrice - 0.00022310
+SellKey - kmd_btc	SellPrice - 0.00022260
+BuyNextOffer - 0.00022310	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00022260	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+kmd_eth,	0.0002233608750000
+
+SellPriceList
+kmd_btc,	0.00022260
+kmd_eth,	0.0002218797500000
+
+BuyKey - kmd_eth	BuyPrice - 0.0002233608750000
+SellKey - kmd_btc	SellPrice - 0.00022260
+precent - -0.341%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00618300	buyPricePotential (ConversionPrice) - 0.00022336
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00022260	sellPricePotential (ConversionPrice) - 0.00022260
+percentPotential - -0.341%
+
+
+
+30/12/2018 23:43:07
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - kmd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.5
+request - 419.14000000,0.00022310,
+price - 0.00022310
+
+Sell	Symbol - kmd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.5
+request - 15.94000000,0.00022260,
+price - 0.00022260
+
+Buy	Symbol - kmd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.63
+request - 97.00000000,0.00618300,
+price - 0.0002233021365000
+
+Sell	Symbol - kmd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.63
+request - 44.02000000,0.00614100,
+price - 0.0002217852855000
+
+BuyPriceList
+kmd_btc,	0.00022310
+kmd_eth,	0.0002233021365000
+
+SellPriceList
+kmd_btc,	0.00022260
+kmd_eth,	0.0002217852855000
+
+BuyKey - kmd_btc	BuyPrice - 0.00022310
+SellKey - kmd_btc	SellPrice - 0.00022260
+BuyNextOffer - 0.00022310	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00022260	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+kmd_eth,	0.0002233021365000
+
+SellPriceList
+kmd_btc,	0.00022260
+kmd_eth,	0.0002217852855000
+
+BuyKey - kmd_eth	BuyPrice - 0.0002233021365000
+SellKey - kmd_btc	SellPrice - 0.00022260
+precent - -0.314%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00618300	buyPricePotential (ConversionPrice) - 0.00022330
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00022260	sellPricePotential (ConversionPrice) - 0.00022260
+percentPotential - -0.314%
+
+
+

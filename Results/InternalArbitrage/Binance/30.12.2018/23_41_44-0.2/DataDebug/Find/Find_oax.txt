@@ -1,0 +1,138 @@
+30/12/2018 23:42:12
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - oax_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 44
+request - 253.00000000,0.00002325,
+price - 0.00002325
+
+Sell	Symbol - oax_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 44
+request - 445.00000000,0.00002317,
+price - 0.00002317
+
+Buy	Symbol - oax_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16
+request - 183.00000000,0.00064450,
+price - 0.0000233125317500
+
+Sell	Symbol - oax_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16
+request - 79.00000000,0.00064160,
+price - 0.0000232076344000
+
+BuyPriceList
+oax_btc,	0.00002325
+oax_eth,	0.0000233125317500
+
+SellPriceList
+oax_btc,	0.00002317
+oax_eth,	0.0000232076344000
+
+BuyKey - oax_btc	BuyPrice - 0.00002325
+SellKey - oax_eth	SellPrice - 0.0000232076344000
+precent - -0.182%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00002325	buyPricePotential (ConversionPrice) - 0.00002325
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00064160	sellPricePotential (ConversionPrice) - 0.00002321
+percentPotential - -0.182%
+
+
+
+30/12/2018 23:42:41
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - oax_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 44
+request - 151.00000000,0.00002325,
+price - 0.00002325
+
+Sell	Symbol - oax_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 44
+request - 445.00000000,0.00002317,
+price - 0.00002317
+
+Buy	Symbol - oax_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16
+request - 183.00000000,0.00064450,
+price - 0.0000232825625000
+
+Sell	Symbol - oax_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16
+request - 79.00000000,0.00064160,
+price - 0.0000231778000000
+
+BuyPriceList
+oax_btc,	0.00002325
+oax_eth,	0.0000232825625000
+
+SellPriceList
+oax_btc,	0.00002317
+oax_eth,	0.0000231778000000
+
+BuyKey - oax_btc	BuyPrice - 0.00002325
+SellKey - oax_eth	SellPrice - 0.0000231778000000
+precent - -0.311%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00002325	buyPricePotential (ConversionPrice) - 0.00002325
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00064160	sellPricePotential (ConversionPrice) - 0.00002318
+percentPotential - -0.311%
+
+
+
+30/12/2018 23:43:09
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - oax_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 44
+request - 151.00000000,0.00002325,
+price - 0.00002325
+
+Sell	Symbol - oax_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 44
+request - 445.00000000,0.00002317,
+price - 0.00002317
+
+Buy	Symbol - oax_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16
+request - 183.00000000,0.00064450,
+price - 0.0000232764397500
+
+Sell	Symbol - oax_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16
+request - 79.00000000,0.00064160,
+price - 0.0000231717048000
+
+BuyPriceList
+oax_btc,	0.00002325
+oax_eth,	0.0000232764397500
+
+SellPriceList
+oax_btc,	0.00002317
+oax_eth,	0.0000231717048000
+
+BuyKey - oax_btc	BuyPrice - 0.00002325
+SellKey - oax_eth	SellPrice - 0.0000231717048000
+precent - -0.337%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00002325	buyPricePotential (ConversionPrice) - 0.00002325
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00064160	sellPricePotential (ConversionPrice) - 0.00002317
+percentPotential - -0.337%
+
+
+

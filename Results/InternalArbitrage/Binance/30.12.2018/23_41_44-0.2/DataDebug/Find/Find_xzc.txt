@@ -1,0 +1,180 @@
+30/12/2018 23:42:17
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - xzc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.009
+request - 8.72000000,0.98000000,
+price - 0.0015177260000000
+
+Sell	Symbol - xzc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.03
+request - 5.14400000,0.97100000,
+price - 0.0015037877000000
+
+Buy	Symbol - xzc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.67
+request - 2.18000000,0.00151400,
+price - 0.00151400
+
+Sell	Symbol - xzc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.67
+request - 1.88000000,0.00150700,
+price - 0.00150700
+
+Buy	Symbol - xzc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.24
+request - 3.00000000,0.04230600,
+price - 0.0015302714790000
+
+Sell	Symbol - xzc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.24
+request - 10.47000000,0.04178000,
+price - 0.0015112452700000
+
+BuyPriceList
+xzc_bnb,	0.0015177260000000
+xzc_btc,	0.00151400
+xzc_eth,	0.0015302714790000
+
+SellPriceList
+xzc_bnb,	0.0015037877000000
+xzc_btc,	0.00150700
+xzc_eth,	0.0015112452700000
+
+BuyKey - xzc_btc	BuyPrice - 0.00151400
+SellKey - xzc_eth	SellPrice - 0.0015112452700000
+precent - -0.182%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00151400	buyPricePotential (ConversionPrice) - 0.00151400
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.04178000	sellPricePotential (ConversionPrice) - 0.00151125
+percentPotential - -0.182%
+
+
+
+30/12/2018 23:42:47
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - xzc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.03
+request - 8.72000000,0.98000000,
+price - 0.0015167460000000
+
+Sell	Symbol - xzc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.031
+request - 13.36000000,0.97000000,
+price - 0.0015012690000000
+
+Buy	Symbol - xzc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.67
+request - 2.18000000,0.00151400,
+price - 0.00151400
+
+Sell	Symbol - xzc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.67
+request - 1.88000000,0.00150700,
+price - 0.00150700
+
+Buy	Symbol - xzc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.24
+request - 1.47000000,0.04230500,
+price - 0.0015282681250000
+
+Sell	Symbol - xzc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.24
+request - 10.47000000,0.04178800,
+price - 0.0015095915000000
+
+BuyPriceList
+xzc_bnb,	0.0015167460000000
+xzc_btc,	0.00151400
+xzc_eth,	0.0015282681250000
+
+SellPriceList
+xzc_bnb,	0.0015012690000000
+xzc_btc,	0.00150700
+xzc_eth,	0.0015095915000000
+
+BuyKey - xzc_btc	BuyPrice - 0.00151400
+SellKey - xzc_eth	SellPrice - 0.0015095915000000
+precent - -0.291%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00151400	buyPricePotential (ConversionPrice) - 0.00151400
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.04178800	sellPricePotential (ConversionPrice) - 0.00150959
+percentPotential - -0.291%
+
+
+
+30/12/2018 23:43:26
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - xzc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.031
+request - 8.72000000,0.98000000,
+price - 0.0015164520000000
+
+Sell	Symbol - xzc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.031
+request - 13.36000000,0.97000000,
+price - 0.0015009780000000
+
+Buy	Symbol - xzc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.67
+request - 2.18000000,0.00151400,
+price - 0.00151400
+
+Sell	Symbol - xzc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.67
+request - 3.20000000,0.00150700,
+price - 0.00150700
+
+Buy	Symbol - xzc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.24
+request - 11.72000000,0.04230200,
+price - 0.0015277578810000
+
+Sell	Symbol - xzc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.24
+request - 3.26000000,0.04180200,
+price - 0.0015097001310000
+
+BuyPriceList
+xzc_bnb,	0.0015164520000000
+xzc_btc,	0.00151400
+xzc_eth,	0.0015277578810000
+
+SellPriceList
+xzc_bnb,	0.0015009780000000
+xzc_btc,	0.00150700
+xzc_eth,	0.0015097001310000
+
+BuyKey - xzc_btc	BuyPrice - 0.00151400
+SellKey - xzc_eth	SellPrice - 0.0015097001310000
+precent - -0.284%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00151400	buyPricePotential (ConversionPrice) - 0.00151400
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.04180200	sellPricePotential (ConversionPrice) - 0.00150970
+percentPotential - -0.284%
+
+
+

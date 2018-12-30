@@ -1,0 +1,138 @@
+30/12/2018 23:42:08
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - edo_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.88
+request - 87.49000000,0.00020530,
+price - 0.00020530
+
+Sell	Symbol - edo_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.91
+request - 35.55000000,0.00020390,
+price - 0.00020390
+
+Buy	Symbol - edo_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.78
+request - 11.75000000,0.00569900,
+price - 0.0002061413785000
+
+Sell	Symbol - edo_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.78
+request - 19.83000000,0.00564800,
+price - 0.0002042966320000
+
+BuyPriceList
+edo_btc,	0.00020530
+edo_eth,	0.0002061413785000
+
+SellPriceList
+edo_btc,	0.00020390
+edo_eth,	0.0002042966320000
+
+BuyKey - edo_btc	BuyPrice - 0.00020530
+SellKey - edo_eth	SellPrice - 0.0002042966320000
+precent - -0.489%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00020530	buyPricePotential (ConversionPrice) - 0.00020530
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00564800	sellPricePotential (ConversionPrice) - 0.00020430
+percentPotential - -0.489%
+
+
+
+30/12/2018 23:42:37
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - edo_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.91
+request - 87.49000000,0.00020530,
+price - 0.00020530
+
+Sell	Symbol - edo_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.91
+request - 35.55000000,0.00020390,
+price - 0.00020390
+
+Buy	Symbol - edo_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.78
+request - 11.75000000,0.00569900,
+price - 0.0002058763750000
+
+Sell	Symbol - edo_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.78
+request - 19.83000000,0.00564800,
+price - 0.0002040340000000
+
+BuyPriceList
+edo_btc,	0.00020530
+edo_eth,	0.0002058763750000
+
+SellPriceList
+edo_btc,	0.00020390
+edo_eth,	0.0002040340000000
+
+BuyKey - edo_btc	BuyPrice - 0.00020530
+SellKey - edo_eth	SellPrice - 0.0002040340000000
+precent - -0.617%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00020530	buyPricePotential (ConversionPrice) - 0.00020530
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00564800	sellPricePotential (ConversionPrice) - 0.00020403
+percentPotential - -0.617%
+
+
+
+30/12/2018 23:43:06
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - edo_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.91
+request - 87.49000000,0.00020530,
+price - 0.00020530
+
+Sell	Symbol - edo_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.91
+request - 35.55000000,0.00020390,
+price - 0.00020390
+
+Buy	Symbol - edo_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.78
+request - 11.75000000,0.00569900,
+price - 0.0002058222345000
+
+Sell	Symbol - edo_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.78
+request - 19.83000000,0.00564800,
+price - 0.0002039803440000
+
+BuyPriceList
+edo_btc,	0.00020530
+edo_eth,	0.0002058222345000
+
+SellPriceList
+edo_btc,	0.00020390
+edo_eth,	0.0002039803440000
+
+BuyKey - edo_btc	BuyPrice - 0.00020530
+SellKey - edo_eth	SellPrice - 0.0002039803440000
+precent - -0.643%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00020530	buyPricePotential (ConversionPrice) - 0.00020530
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00564800	sellPricePotential (ConversionPrice) - 0.00020398
+percentPotential - -0.643%
+
+
+

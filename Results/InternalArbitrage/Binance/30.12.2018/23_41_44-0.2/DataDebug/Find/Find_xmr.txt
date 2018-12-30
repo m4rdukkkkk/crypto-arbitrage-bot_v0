@@ -1,0 +1,174 @@
+30/12/2018 23:42:17
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - xmr_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.08
+request - 2.02100000,0.01252300,
+price - 0.01252300
+
+Sell	Symbol - xmr_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.08
+request - 3.35800000,0.01250500,
+price - 0.01250500
+
+Buy	Symbol - xmr_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.029
+request - 4.71400000,0.34689000,
+price - 0.0125475316350000
+
+Sell	Symbol - xmr_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.029
+request - 0.39300000,0.34557000,
+price - 0.0124997852550000
+
+BuyPriceList
+xmr_btc,	0.01252300
+xmr_eth,	0.0125475316350000
+
+SellPriceList
+xmr_btc,	0.01250500
+xmr_eth,	0.0124997852550000
+
+BuyKey - xmr_btc	BuyPrice - 0.01252300
+SellKey - xmr_btc	SellPrice - 0.01250500
+BuyNextOffer - 0.01252300	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.01250500	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+xmr_eth,	0.0125475316350000
+
+SellPriceList
+xmr_btc,	0.01250500
+xmr_eth,	0.0124997852550000
+
+BuyKey - xmr_eth	BuyPrice - 0.0125475316350000
+SellKey - xmr_btc	SellPrice - 0.01250500
+precent - -0.339%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.34689000	buyPricePotential (ConversionPrice) - 0.01254753
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.01250500	sellPricePotential (ConversionPrice) - 0.01250500
+percentPotential - -0.339%
+
+
+
+30/12/2018 23:42:47
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - xmr_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.08
+request - 0.32000000,0.01252500,
+price - 0.01252500
+
+Sell	Symbol - xmr_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.08
+request - 60.00000000,0.01250800,
+price - 0.01250800
+
+Buy	Symbol - xmr_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.029
+request - 0.10000000,0.34692000,
+price - 0.0125324850000000
+
+Sell	Symbol - xmr_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.029
+request - 0.40200000,0.34561000,
+price - 0.0124851612500000
+
+BuyPriceList
+xmr_btc,	0.01252500
+xmr_eth,	0.0125324850000000
+
+SellPriceList
+xmr_btc,	0.01250800
+xmr_eth,	0.0124851612500000
+
+BuyKey - xmr_btc	BuyPrice - 0.01252500
+SellKey - xmr_btc	SellPrice - 0.01250800
+BuyNextOffer - 0.01252500	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.01250800	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+xmr_eth,	0.0125324850000000
+
+SellPriceList
+xmr_btc,	0.01250800
+xmr_eth,	0.0124851612500000
+
+BuyKey - xmr_eth	BuyPrice - 0.0125324850000000
+SellKey - xmr_btc	SellPrice - 0.01250800
+precent - -0.195%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.34692000	buyPricePotential (ConversionPrice) - 0.01253249
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.01250800	sellPricePotential (ConversionPrice) - 0.01250800
+percentPotential - -0.195%
+
+
+
+30/12/2018 23:43:26
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - xmr_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.08
+request - 1.51400000,0.01252500,
+price - 0.01252500
+
+Sell	Symbol - xmr_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.08
+request - 60.00000000,0.01250800,
+price - 0.01250800
+
+Buy	Symbol - xmr_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.029
+request - 0.10000000,0.34692000,
+price - 0.0125291892600000
+
+Sell	Symbol - xmr_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.029
+request - 0.40200000,0.34567000,
+price - 0.0124840448850000
+
+BuyPriceList
+xmr_btc,	0.01252500
+xmr_eth,	0.0125291892600000
+
+SellPriceList
+xmr_btc,	0.01250800
+xmr_eth,	0.0124840448850000
+
+BuyKey - xmr_btc	BuyPrice - 0.01252500
+SellKey - xmr_btc	SellPrice - 0.01250800
+BuyNextOffer - 0.01252500	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.01250800	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+xmr_eth,	0.0125291892600000
+
+SellPriceList
+xmr_btc,	0.01250800
+xmr_eth,	0.0124840448850000
+
+BuyKey - xmr_eth	BuyPrice - 0.0125291892600000
+SellKey - xmr_btc	SellPrice - 0.01250800
+precent - -0.169%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.34692000	buyPricePotential (ConversionPrice) - 0.01252919
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.01250800	sellPricePotential (ConversionPrice) - 0.01250800
+percentPotential - -0.169%
+
+
+

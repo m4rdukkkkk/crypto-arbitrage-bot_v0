@@ -1,0 +1,222 @@
+30/12/2018 23:42:06
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - adx_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 58.1
+request - 930.30000000,0.01733000,
+price - 0.0000268389710000
+
+Sell	Symbol - adx_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 58.5
+request - 755.90000000,0.01711000,
+price - 0.0000264982570000
+
+Buy	Symbol - adx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 38
+request - 182.00000000,0.00002662,
+price - 0.00002662
+
+Sell	Symbol - adx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 38
+request - 45.00000000,0.00002661,
+price - 0.00002661
+
+Buy	Symbol - adx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 14
+request - 27.00000000,0.00073870,
+price - 0.0000267198870500
+
+Sell	Symbol - adx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 14
+request - 90.00000000,0.00073230,
+price - 0.0000264883894500
+
+BuyPriceList
+adx_bnb,	0.0000268389710000
+adx_btc,	0.00002662
+adx_eth,	0.0000267198870500
+
+SellPriceList
+adx_bnb,	0.0000264982570000
+adx_btc,	0.00002661
+adx_eth,	0.0000264883894500
+
+BuyKey - adx_btc	BuyPrice - 0.00002662
+SellKey - adx_btc	SellPrice - 0.00002661
+BuyNextOffer - 0.00002662	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00002661	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+adx_bnb,	0.0000268389710000
+adx_eth,	0.0000267198870500
+
+SellPriceList
+adx_bnb,	0.0000264982570000
+adx_btc,	0.00002661
+adx_eth,	0.0000264883894500
+
+BuyKey - adx_eth	BuyPrice - 0.0000267198870500
+SellKey - adx_btc	SellPrice - 0.00002661
+precent - -0.411%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00073870	buyPricePotential (ConversionPrice) - 0.00002672
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00002661	sellPricePotential (ConversionPrice) - 0.00002661
+percentPotential - -0.411%
+
+
+
+30/12/2018 23:42:35
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - adx_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 58.5
+request - 930.30000000,0.01733000,
+price - 0.0000268216410000
+
+Sell	Symbol - adx_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 58.5
+request - 755.90000000,0.01711000,
+price - 0.0000264811470000
+
+Buy	Symbol - adx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 38
+request - 182.00000000,0.00002662,
+price - 0.00002662
+
+Sell	Symbol - adx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 38
+request - 45.00000000,0.00002661,
+price - 0.00002661
+
+Buy	Symbol - adx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 14
+request - 27.00000000,0.00073870,
+price - 0.0000266855375000
+
+Sell	Symbol - adx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 14
+request - 90.00000000,0.00073340,
+price - 0.0000264940750000
+
+BuyPriceList
+adx_bnb,	0.0000268216410000
+adx_btc,	0.00002662
+adx_eth,	0.0000266855375000
+
+SellPriceList
+adx_bnb,	0.0000264811470000
+adx_btc,	0.00002661
+adx_eth,	0.0000264940750000
+
+BuyKey - adx_btc	BuyPrice - 0.00002662
+SellKey - adx_btc	SellPrice - 0.00002661
+BuyNextOffer - 0.00002662	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00002661	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+adx_bnb,	0.0000268216410000
+adx_eth,	0.0000266855375000
+
+SellPriceList
+adx_bnb,	0.0000264811470000
+adx_btc,	0.00002661
+adx_eth,	0.0000264940750000
+
+BuyKey - adx_eth	BuyPrice - 0.0000266855375000
+SellKey - adx_btc	SellPrice - 0.00002661
+precent - -0.283%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00073870	buyPricePotential (ConversionPrice) - 0.00002669
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00002661	sellPricePotential (ConversionPrice) - 0.00002661
+percentPotential - -0.283%
+
+
+
+30/12/2018 23:43:04
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - adx_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 58.5
+request - 930.30000000,0.01733000,
+price - 0.0000268216410000
+
+Sell	Symbol - adx_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 58.5
+request - 755.90000000,0.01711000,
+price - 0.0000264811470000
+
+Buy	Symbol - adx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 38
+request - 182.00000000,0.00002662,
+price - 0.00002662
+
+Sell	Symbol - adx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 38
+request - 45.00000000,0.00002661,
+price - 0.00002661
+
+Buy	Symbol - adx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 14
+request - 27.00000000,0.00073870,
+price - 0.0000266855375000
+
+Sell	Symbol - adx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 14
+request - 90.00000000,0.00073340,
+price - 0.0000264940750000
+
+BuyPriceList
+adx_bnb,	0.0000268216410000
+adx_btc,	0.00002662
+adx_eth,	0.0000266855375000
+
+SellPriceList
+adx_bnb,	0.0000264811470000
+adx_btc,	0.00002661
+adx_eth,	0.0000264940750000
+
+BuyKey - adx_btc	BuyPrice - 0.00002662
+SellKey - adx_btc	SellPrice - 0.00002661
+BuyNextOffer - 0.00002662	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00002661	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+adx_bnb,	0.0000268216410000
+adx_eth,	0.0000266855375000
+
+SellPriceList
+adx_bnb,	0.0000264811470000
+adx_btc,	0.00002661
+adx_eth,	0.0000264940750000
+
+BuyKey - adx_eth	BuyPrice - 0.0000266855375000
+SellKey - adx_btc	SellPrice - 0.00002661
+precent - -0.283%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00073870	buyPricePotential (ConversionPrice) - 0.00002669
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00002661	sellPricePotential (ConversionPrice) - 0.00002661
+percentPotential - -0.283%
+
+
+

@@ -1,0 +1,138 @@
+30/12/2018 23:42:10
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - iotx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 477
+request - 79746.00000000,0.00000210,
+price - 0.00000210
+
+Sell	Symbol - iotx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 479
+request - 206541.00000000,0.00000209,
+price - 0.00000209
+
+Buy	Symbol - iotx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 172
+request - 3542.00000000,0.00005832,
+price - 0.0000021095218800
+
+Sell	Symbol - iotx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 173
+request - 317.00000000,0.00005788,
+price - 0.0000020936064200
+
+BuyPriceList
+iotx_btc,	0.00000210
+iotx_eth,	0.0000021095218800
+
+SellPriceList
+iotx_btc,	0.00000209
+iotx_eth,	0.0000020936064200
+
+BuyKey - iotx_btc	BuyPrice - 0.00000210
+SellKey - iotx_eth	SellPrice - 0.0000020936064200
+precent - -0.304%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000210	buyPricePotential (ConversionPrice) - 0.00000210
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00005788	sellPricePotential (ConversionPrice) - 0.00000209
+percentPotential - -0.304%
+
+
+
+30/12/2018 23:42:39
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - iotx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 479
+request - 79746.00000000,0.00000210,
+price - 0.00000210
+
+Sell	Symbol - iotx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 479
+request - 426053.00000000,0.00000209,
+price - 0.00000209
+
+Buy	Symbol - iotx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 173
+request - 3542.00000000,0.00005832,
+price - 0.0000021068100000
+
+Sell	Symbol - iotx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 173
+request - 317.00000000,0.00005788,
+price - 0.0000020909150000
+
+BuyPriceList
+iotx_btc,	0.00000210
+iotx_eth,	0.0000021068100000
+
+SellPriceList
+iotx_btc,	0.00000209
+iotx_eth,	0.0000020909150000
+
+BuyKey - iotx_btc	BuyPrice - 0.00000210
+SellKey - iotx_eth	SellPrice - 0.0000020909150000
+precent - -0.433%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000210	buyPricePotential (ConversionPrice) - 0.00000210
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00005788	sellPricePotential (ConversionPrice) - 0.00000209
+percentPotential - -0.433%
+
+
+
+30/12/2018 23:43:07
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - iotx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 479
+request - 79746.00000000,0.00000210,
+price - 0.00000210
+
+Sell	Symbol - iotx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 479
+request - 426053.00000000,0.00000209,
+price - 0.00000209
+
+Buy	Symbol - iotx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 173
+request - 3542.00000000,0.00005832,
+price - 0.0000021062559600
+
+Sell	Symbol - iotx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 173
+request - 317.00000000,0.00005788,
+price - 0.0000020903651400
+
+BuyPriceList
+iotx_btc,	0.00000210
+iotx_eth,	0.0000021062559600
+
+SellPriceList
+iotx_btc,	0.00000209
+iotx_eth,	0.0000020903651400
+
+BuyKey - iotx_btc	BuyPrice - 0.00000210
+SellKey - iotx_eth	SellPrice - 0.0000020903651400
+precent - -0.459%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000210	buyPricePotential (ConversionPrice) - 0.00000210
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00005788	sellPricePotential (ConversionPrice) - 0.00000209
+percentPotential - -0.459%
+
+
+

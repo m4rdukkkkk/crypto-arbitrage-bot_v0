@@ -1,0 +1,174 @@
+30/12/2018 23:42:07
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - dash_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.048
+request - 1.04700000,0.02110100,
+price - 0.02110100
+
+Sell	Symbol - dash_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.048
+request - 8.42100000,0.02104100,
+price - 0.02104100
+
+Buy	Symbol - dash_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.018
+request - 23.71100000,0.58406000,
+price - 0.0211263262900000
+
+Sell	Symbol - dash_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.018
+request - 0.46500000,0.58123000,
+price - 0.0210239609450000
+
+BuyPriceList
+dash_btc,	0.02110100
+dash_eth,	0.0211263262900000
+
+SellPriceList
+dash_btc,	0.02104100
+dash_eth,	0.0210239609450000
+
+BuyKey - dash_btc	BuyPrice - 0.02110100
+SellKey - dash_btc	SellPrice - 0.02104100
+BuyNextOffer - 0.02110100	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.02104100	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+dash_eth,	0.0211263262900000
+
+SellPriceList
+dash_btc,	0.02104100
+dash_eth,	0.0210239609450000
+
+BuyKey - dash_eth	BuyPrice - 0.0211263262900000
+SellKey - dash_btc	SellPrice - 0.02104100
+precent - -0.404%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.58406000	buyPricePotential (ConversionPrice) - 0.02112633
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.02104100	sellPricePotential (ConversionPrice) - 0.02104100
+percentPotential - -0.404%
+
+
+
+30/12/2018 23:42:37
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - dash_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.048
+request - 2.24000000,0.02106700,
+price - 0.02106700
+
+Sell	Symbol - dash_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.048
+request - 5.07200000,0.02103200,
+price - 0.02103200
+
+Buy	Symbol - dash_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.018
+request - 0.88200000,0.58339000,
+price - 0.0210749637500000
+
+Sell	Symbol - dash_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.018
+request - 0.51400000,0.58134000,
+price - 0.0210009075000000
+
+BuyPriceList
+dash_btc,	0.02106700
+dash_eth,	0.0210749637500000
+
+SellPriceList
+dash_btc,	0.02103200
+dash_eth,	0.0210009075000000
+
+BuyKey - dash_btc	BuyPrice - 0.02106700
+SellKey - dash_btc	SellPrice - 0.02103200
+BuyNextOffer - 0.02106700	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.02103200	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+dash_eth,	0.0210749637500000
+
+SellPriceList
+dash_btc,	0.02103200
+dash_eth,	0.0210009075000000
+
+BuyKey - dash_eth	BuyPrice - 0.0210749637500000
+SellKey - dash_btc	SellPrice - 0.02103200
+precent - -0.204%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.58339000	buyPricePotential (ConversionPrice) - 0.02107496
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.02103200	sellPricePotential (ConversionPrice) - 0.02103200
+percentPotential - -0.204%
+
+
+
+30/12/2018 23:43:05
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - dash_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.048
+request - 2.24000000,0.02106700,
+price - 0.02106700
+
+Sell	Symbol - dash_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.048
+request - 5.07200000,0.02103200,
+price - 0.02103200
+
+Buy	Symbol - dash_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.018
+request - 0.88200000,0.58339000,
+price - 0.0210749637500000
+
+Sell	Symbol - dash_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.018
+request - 0.51400000,0.58134000,
+price - 0.0210009075000000
+
+BuyPriceList
+dash_btc,	0.02106700
+dash_eth,	0.0210749637500000
+
+SellPriceList
+dash_btc,	0.02103200
+dash_eth,	0.0210009075000000
+
+BuyKey - dash_btc	BuyPrice - 0.02106700
+SellKey - dash_btc	SellPrice - 0.02103200
+BuyNextOffer - 0.02106700	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.02103200	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+dash_eth,	0.0210749637500000
+
+SellPriceList
+dash_btc,	0.02103200
+dash_eth,	0.0210009075000000
+
+BuyKey - dash_eth	BuyPrice - 0.0210749637500000
+SellKey - dash_btc	SellPrice - 0.02103200
+precent - -0.204%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.58339000	buyPricePotential (ConversionPrice) - 0.02107496
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.02103200	sellPricePotential (ConversionPrice) - 0.02103200
+percentPotential - -0.204%
+
+
+

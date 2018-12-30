@@ -1,0 +1,208 @@
+30/12/2018 23:42:13
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - qlc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 231
+request - 466.00000000,0.00439300,
+price - 0.0000068034391000
+
+Sell	Symbol - qlc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 232
+request - 717.00000000,0.00432600,
+price - 0.0000066996762000
+
+Buy	Symbol - qlc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 149
+request - 910.00000000,0.00000674,
+price - 0.00000674
+
+Sell	Symbol - qlc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 149
+request - 3547.00000000,0.00000673,
+price - 0.00000673
+
+Buy	Symbol - qlc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 54
+request - 893.00000000,0.00018698,
+price - 0.0000067633470700
+
+Sell	Symbol - qlc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 55
+request - 198.00000000,0.00018493,
+price - 0.0000066891954950
+
+BuyPriceList
+qlc_bnb,	0.0000068034391000
+qlc_btc,	0.00000674
+qlc_eth,	0.0000067633470700
+
+SellPriceList
+qlc_bnb,	0.0000066996762000
+qlc_btc,	0.00000673
+qlc_eth,	0.0000066891954950
+
+BuyKey - qlc_btc	BuyPrice - 0.00000674
+SellKey - qlc_btc	SellPrice - 0.00000673
+BuyNextOffer - 0.00000674	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00000673	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+qlc_bnb,	0.0000068034391000
+qlc_eth,	0.0000067633470700
+
+SellPriceList
+qlc_bnb,	0.0000066996762000
+qlc_btc,	0.00000673
+qlc_eth,	0.0000066891954950
+
+BuyKey - qlc_eth	BuyPrice - 0.0000067633470700
+SellKey - qlc_btc	SellPrice - 0.00000673
+precent - -0.493%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00018698	buyPricePotential (ConversionPrice) - 0.00000676
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000673	sellPricePotential (ConversionPrice) - 0.00000673
+percentPotential - -0.493%
+
+
+
+30/12/2018 23:42:42
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - qlc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 232
+request - 466.00000000,0.00439300,
+price - 0.0000067990461000
+
+Sell	Symbol - qlc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 232
+request - 4366.00000000,0.00432700,
+price - 0.0000066968979000
+
+Buy	Symbol - qlc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 149
+request - 910.00000000,0.00000674,
+price - 0.00000674
+
+Sell	Symbol - qlc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 149
+request - 3547.00000000,0.00000673,
+price - 0.00000673
+
+Buy	Symbol - qlc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 55
+request - 804.00000000,0.00018700,
+price - 0.0000067553750000
+
+Sell	Symbol - qlc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 54
+request - 3567.00000000,0.00018553,
+price - 0.0000067022712500
+
+BuyPriceList
+qlc_bnb,	0.0000067990461000
+qlc_btc,	0.00000674
+qlc_eth,	0.0000067553750000
+
+SellPriceList
+qlc_bnb,	0.0000066968979000
+qlc_btc,	0.00000673
+qlc_eth,	0.0000067022712500
+
+BuyKey - qlc_btc	BuyPrice - 0.00000674
+SellKey - qlc_btc	SellPrice - 0.00000673
+BuyNextOffer - 0.00000674	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00000673	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+qlc_bnb,	0.0000067990461000
+qlc_eth,	0.0000067553750000
+
+SellPriceList
+qlc_bnb,	0.0000066968979000
+qlc_btc,	0.00000673
+qlc_eth,	0.0000067022712500
+
+BuyKey - qlc_eth	BuyPrice - 0.0000067553750000
+SellKey - qlc_btc	SellPrice - 0.00000673
+precent - -0.376%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00018700	buyPricePotential (ConversionPrice) - 0.00000676
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000673	sellPricePotential (ConversionPrice) - 0.00000673
+percentPotential - -0.376%
+
+
+
+30/12/2018 23:43:10
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - qlc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 232
+request - 466.00000000,0.00441100,
+price - 0.0000068255814000
+
+Sell	Symbol - qlc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 231
+request - 1154.00000000,0.00433000,
+price - 0.0000067002420000
+
+Buy	Symbol - qlc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 149
+request - 2453.00000000,0.00000676,
+price - 0.00000676
+
+Sell	Symbol - qlc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 149
+request - 15211.00000000,0.00000674,
+price - 0.00000674
+
+Buy	Symbol - qlc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 54
+request - 804.00000000,0.00018700,
+price - 0.0000067535985000
+
+Sell	Symbol - qlc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 54
+request - 7945.00000000,0.00018587,
+price - 0.0000067127879850
+
+BuyPriceList
+qlc_bnb,	0.0000068255814000
+qlc_btc,	0.00000676
+qlc_eth,	0.0000067535985000
+
+SellPriceList
+qlc_bnb,	0.0000067002420000
+qlc_btc,	0.00000674
+qlc_eth,	0.0000067127879850
+
+BuyKey - qlc_eth	BuyPrice - 0.0000067535985000
+SellKey - qlc_btc	SellPrice - 0.00000674
+precent - -0.201%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00018700	buyPricePotential (ConversionPrice) - 0.00000675
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000674	sellPricePotential (ConversionPrice) - 0.00000674
+percentPotential - -0.201%
+
+
+

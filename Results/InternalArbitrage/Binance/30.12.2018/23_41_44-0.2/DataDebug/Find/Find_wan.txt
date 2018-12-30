@@ -1,0 +1,222 @@
+30/12/2018 23:42:17
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - wan_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.8
+request - 512.20000000,0.06000000,
+price - 0.0000929220000000
+
+Sell	Symbol - wan_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.8
+request - 106.80000000,0.05967000,
+price - 0.0000924109290000
+
+Buy	Symbol - wan_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 10.82
+request - 2162.53000000,0.00009290,
+price - 0.00009290
+
+Sell	Symbol - wan_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 10.82
+request - 64.86000000,0.00009250,
+price - 0.00009250
+
+Buy	Symbol - wan_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.91
+request - 39.09000000,0.00256400,
+price - 0.0000927437260000
+
+Sell	Symbol - wan_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.91
+request - 80.00000000,0.00256000,
+price - 0.0000925990400000
+
+BuyPriceList
+wan_bnb,	0.0000929220000000
+wan_btc,	0.00009290
+wan_eth,	0.0000927437260000
+
+SellPriceList
+wan_bnb,	0.0000924109290000
+wan_btc,	0.00009250
+wan_eth,	0.0000925990400000
+
+BuyKey - wan_eth	BuyPrice - 0.0000927437260000
+SellKey - wan_eth	SellPrice - 0.0000925990400000
+BuyNextOffer - 0.00009290	BuyNextOfferDifrent - 0.0000001562740000
+SellNextOffer - 0.00009250	SellNextOfferDifrent - 0.0000000990400000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - True
+BuyPriceList
+wan_bnb,	0.0000929220000000
+wan_btc,	0.00009290
+wan_eth,	0.0000927437260000
+
+SellPriceList
+wan_bnb,	0.0000924109290000
+wan_btc,	0.00009250
+
+BuyKey - wan_eth	BuyPrice - 0.0000927437260000
+SellKey - wan_btc	SellPrice - 0.00009250
+precent - -0.263%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00256400	buyPricePotential (ConversionPrice) - 0.00009274
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00009250	sellPricePotential (ConversionPrice) - 0.00009250
+percentPotential - -0.263%
+
+
+
+30/12/2018 23:42:45
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - wan_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.8
+request - 85.60000000,0.06000000,
+price - 0.0000928620000000
+
+Sell	Symbol - wan_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.8
+request - 106.80000000,0.05967000,
+price - 0.0000923512590000
+
+Buy	Symbol - wan_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 10.82
+request - 1918.80000000,0.00009280,
+price - 0.00009280
+
+Sell	Symbol - wan_btc
+while (amaunt < item.MinAmount) count - 2
+MinAmount - 10.83
+request - 789.00000000,0.00009240,
+price - 0.00009240
+
+Buy	Symbol - wan_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.91
+request - 39.09000000,0.00256400,
+price - 0.0000926245000000
+
+Sell	Symbol - wan_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.91
+request - 80.00000000,0.00256000,
+price - 0.0000924800000000
+
+BuyPriceList
+wan_bnb,	0.0000928620000000
+wan_btc,	0.00009280
+wan_eth,	0.0000926245000000
+
+SellPriceList
+wan_bnb,	0.0000923512590000
+wan_btc,	0.00009240
+wan_eth,	0.0000924800000000
+
+BuyKey - wan_eth	BuyPrice - 0.0000926245000000
+SellKey - wan_eth	SellPrice - 0.0000924800000000
+BuyNextOffer - 0.00009280	BuyNextOfferDifrent - 0.0000001755000000
+SellNextOffer - 0.00009240	SellNextOfferDifrent - 0.0000000800000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - True
+BuyPriceList
+wan_bnb,	0.0000928620000000
+wan_btc,	0.00009280
+wan_eth,	0.0000926245000000
+
+SellPriceList
+wan_bnb,	0.0000923512590000
+wan_btc,	0.00009240
+
+BuyKey - wan_eth	BuyPrice - 0.0000926245000000
+SellKey - wan_btc	SellPrice - 0.00009240
+precent - -0.242%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00256400	buyPricePotential (ConversionPrice) - 0.00009262
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00009240	sellPricePotential (ConversionPrice) - 0.00009240
+percentPotential - -0.242%
+
+
+
+30/12/2018 23:43:25
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - wan_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.8
+request - 234.00000000,0.05999000,
+price - 0.0000928285260000
+
+Sell	Symbol - wan_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.8
+request - 106.80000000,0.05967000,
+price - 0.0000923333580000
+
+Buy	Symbol - wan_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 10.83
+request - 1918.80000000,0.00009280,
+price - 0.00009280
+
+Sell	Symbol - wan_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 10.83
+request - 142.83000000,0.00009240,
+price - 0.00009240
+
+Buy	Symbol - wan_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.91
+request - 39.09000000,0.00256400,
+price - 0.0000926001420000
+
+Sell	Symbol - wan_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.91
+request - 80.00000000,0.00256000,
+price - 0.0000924556800000
+
+BuyPriceList
+wan_bnb,	0.0000928285260000
+wan_btc,	0.00009280
+wan_eth,	0.0000926001420000
+
+SellPriceList
+wan_bnb,	0.0000923333580000
+wan_btc,	0.00009240
+wan_eth,	0.0000924556800000
+
+BuyKey - wan_eth	BuyPrice - 0.0000926001420000
+SellKey - wan_eth	SellPrice - 0.0000924556800000
+BuyNextOffer - 0.00009280	BuyNextOfferDifrent - 0.0000001998580000
+SellNextOffer - 0.00009240	SellNextOfferDifrent - 0.0000000556800000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - True
+BuyPriceList
+wan_bnb,	0.0000928285260000
+wan_btc,	0.00009280
+wan_eth,	0.0000926001420000
+
+SellPriceList
+wan_bnb,	0.0000923333580000
+wan_btc,	0.00009240
+
+BuyKey - wan_eth	BuyPrice - 0.0000926001420000
+SellKey - wan_btc	SellPrice - 0.00009240
+precent - -0.216%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00256400	buyPricePotential (ConversionPrice) - 0.00009260
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00009240	sellPricePotential (ConversionPrice) - 0.00009240
+percentPotential - -0.216%
+
+
+

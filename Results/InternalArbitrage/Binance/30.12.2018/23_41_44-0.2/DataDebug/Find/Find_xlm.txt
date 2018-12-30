@@ -1,0 +1,254 @@
+30/12/2018 23:42:17
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - xlm_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 51.2
+request - 402.00000000,0.01959000,
+price - 0.0000303390330000
+
+Sell	Symbol - xlm_bnb
+while (amaunt < item.MinAmount) count - 2
+MinAmount - 51.3
+request - 141.00000000,0.01953000,
+price - 0.0000302461110000
+
+Buy	Symbol - xlm_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 33
+request - 39.00000000,0.00003034,
+price - 0.00003034
+
+Sell	Symbol - xlm_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 33
+request - 39.00000000,0.00003032,
+price - 0.00003032
+
+Buy	Symbol - xlm_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 12
+request - 890.00000000,0.00083962,
+price - 0.0000303703148300
+
+Sell	Symbol - xlm_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 12
+request - 78.00000000,0.00083762,
+price - 0.0000302979718300
+
+Buy	Symbol - xlm_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 8.7
+request - 370.00000000,0.11514000,
+price - 0.0000303481977298156414199920
+
+Sell	Symbol - xlm_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 8.8
+request - 79.90000000,0.11484000,
+price - 0.0000302691247810667731515710
+
+BuyPriceList
+xlm_bnb,	0.0000303390330000
+xlm_btc,	0.00003034
+xlm_eth,	0.0000303703148300
+xlm_usdt,	0.0000303481977298156414199920
+
+SellPriceList
+xlm_bnb,	0.0000302461110000
+xlm_btc,	0.00003032
+xlm_eth,	0.0000302979718300
+xlm_usdt,	0.0000302691247810667731515710
+
+BuyKey - xlm_bnb	BuyPrice - 0.0000303390330000
+SellKey - xlm_btc	SellPrice - 0.00003032
+precent - -0.063%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.01959000	buyPricePotential (ConversionPrice) - 0.00003034
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00003032	sellPricePotential (ConversionPrice) - 0.00003032
+percentPotential - -0.063%
+
+
+
+30/12/2018 23:42:46
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - xlm_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 51.3
+request - 402.00000000,0.01959000,
+price - 0.0000303194430000
+
+Sell	Symbol - xlm_bnb
+while (amaunt < item.MinAmount) count - 2
+MinAmount - 51.3
+request - 141.00000000,0.01953000,
+price - 0.0000302265810000
+
+Buy	Symbol - xlm_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 33
+request - 78.00000000,0.00003031,
+price - 0.00003031
+
+Sell	Symbol - xlm_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 34
+request - 39.00000000,0.00003027,
+price - 0.00003027
+
+Buy	Symbol - xlm_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 12
+request - 78.00000000,0.00083910,
+price - 0.0000303124875000
+
+Sell	Symbol - xlm_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 12
+request - 462.00000000,0.00083781,
+price - 0.0000302658862500
+
+Buy	Symbol - xlm_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 8.8
+request - 2803.70000000,0.11482000,
+price - 0.0000303133906142540521917278
+
+Sell	Symbol - xlm_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 8.8
+request - 2608.30000000,0.11464000,
+price - 0.0000302658691867103687794781
+
+BuyPriceList
+xlm_bnb,	0.0000303194430000
+xlm_btc,	0.00003031
+xlm_eth,	0.0000303124875000
+xlm_usdt,	0.0000303133906142540521917278
+
+SellPriceList
+xlm_bnb,	0.0000302265810000
+xlm_btc,	0.00003027
+xlm_eth,	0.0000302658862500
+xlm_usdt,	0.0000302658691867103687794781
+
+BuyKey - xlm_btc	BuyPrice - 0.00003031
+SellKey - xlm_btc	SellPrice - 0.00003027
+BuyNextOffer - 0.0000303124875000	BuyNextOfferDifrent - 0.0000000024875000
+SellNextOffer - 0.0000302658862500	SellNextOfferDifrent - 0.0000000041137500
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+xlm_bnb,	0.0000303194430000
+xlm_eth,	0.0000303124875000
+xlm_usdt,	0.0000303133906142540521917278
+
+SellPriceList
+xlm_bnb,	0.0000302265810000
+xlm_btc,	0.00003027
+xlm_eth,	0.0000302658862500
+xlm_usdt,	0.0000302658691867103687794781
+
+BuyKey - xlm_eth	BuyPrice - 0.0000303124875000
+SellKey - xlm_btc	SellPrice - 0.00003027
+precent - -0.140%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00083910	buyPricePotential (ConversionPrice) - 0.00003031
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00003027	sellPricePotential (ConversionPrice) - 0.00003027
+percentPotential - -0.140%
+
+
+
+30/12/2018 23:43:25
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - xlm_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 51.3
+request - 402.00000000,0.01959000,
+price - 0.0000303135660000
+
+Sell	Symbol - xlm_bnb
+while (amaunt < item.MinAmount) count - 2
+MinAmount - 51.3
+request - 856.00000000,0.01953000,
+price - 0.0000302207220000
+
+Buy	Symbol - xlm_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 34
+request - 272.00000000,0.00003030,
+price - 0.00003030
+
+Sell	Symbol - xlm_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 34
+request - 39.00000000,0.00003029,
+price - 0.00003029
+
+Buy	Symbol - xlm_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 12
+request - 546.00000000,0.00083962,
+price - 0.0000303232961100
+
+Sell	Symbol - xlm_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 12
+request - 462.00000000,0.00083781,
+price - 0.0000302579270550
+
+Buy	Symbol - xlm_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 8.8
+request - 2958.50000000,0.11476000,
+price - 0.0000303378375699064301358673
+
+Sell	Symbol - xlm_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 8.8
+request - 2861.10000000,0.11451000,
+price - 0.0000302717478226732774037832
+
+BuyPriceList
+xlm_bnb,	0.0000303135660000
+xlm_btc,	0.00003030
+xlm_eth,	0.0000303232961100
+xlm_usdt,	0.0000303378375699064301358673
+
+SellPriceList
+xlm_bnb,	0.0000302207220000
+xlm_btc,	0.00003029
+xlm_eth,	0.0000302579270550
+xlm_usdt,	0.0000302717478226732774037832
+
+BuyKey - xlm_btc	BuyPrice - 0.00003030
+SellKey - xlm_btc	SellPrice - 0.00003029
+BuyNextOffer - 0.0000303232961100	BuyNextOfferDifrent - 0.0000000232961100
+SellNextOffer - 0.0000302579270550	SellNextOfferDifrent - 0.0000000320729450
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+xlm_bnb,	0.0000303135660000
+xlm_eth,	0.0000303232961100
+xlm_usdt,	0.0000303378375699064301358673
+
+SellPriceList
+xlm_bnb,	0.0000302207220000
+xlm_btc,	0.00003029
+xlm_eth,	0.0000302579270550
+xlm_usdt,	0.0000302717478226732774037832
+
+BuyKey - xlm_bnb	BuyPrice - 0.0000303135660000
+SellKey - xlm_btc	SellPrice - 0.00003029
+precent - -0.078%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.01959000	buyPricePotential (ConversionPrice) - 0.00003031
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00003029	sellPricePotential (ConversionPrice) - 0.00003029
+percentPotential - -0.078%
+
+
+

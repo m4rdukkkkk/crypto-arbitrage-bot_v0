@@ -1,0 +1,180 @@
+30/12/2018 23:42:06
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - appc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 134.5
+request - 837.00000000,0.00746000,
+price - 0.0000115533020000
+
+Sell	Symbol - appc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 136.1
+request - 398.80000000,0.00735000,
+price - 0.0000113829450000
+
+Buy	Symbol - appc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 88
+request - 104.00000000,0.00001144,
+price - 0.00001144
+
+Sell	Symbol - appc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 88
+request - 132.00000000,0.00001137,
+price - 0.00001137
+
+Buy	Symbol - appc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 32
+request - 314.00000000,0.00031790,
+price - 0.0000114989198500
+
+Sell	Symbol - appc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 32
+request - 47.00000000,0.00031550,
+price - 0.0000114121082500
+
+BuyPriceList
+appc_bnb,	0.0000115533020000
+appc_btc,	0.00001144
+appc_eth,	0.0000114989198500
+
+SellPriceList
+appc_bnb,	0.0000113829450000
+appc_btc,	0.00001137
+appc_eth,	0.0000114121082500
+
+BuyKey - appc_btc	BuyPrice - 0.00001144
+SellKey - appc_eth	SellPrice - 0.0000114121082500
+precent - -0.244%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00001144	buyPricePotential (ConversionPrice) - 0.00001144
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00031550	sellPricePotential (ConversionPrice) - 0.00001141
+percentPotential - -0.244%
+
+
+
+30/12/2018 23:42:35
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - appc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 136.1
+request - 399.00000000,0.00748000,
+price - 0.0000115767960000
+
+Sell	Symbol - appc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 136.1
+request - 398.80000000,0.00735000,
+price - 0.0000113755950000
+
+Buy	Symbol - appc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 88
+request - 104.00000000,0.00001144,
+price - 0.00001144
+
+Sell	Symbol - appc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 88
+request - 132.00000000,0.00001137,
+price - 0.00001137
+
+Buy	Symbol - appc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 32
+request - 314.00000000,0.00031790,
+price - 0.0000114841375000
+
+Sell	Symbol - appc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 32
+request - 47.00000000,0.00031550,
+price - 0.0000113974375000
+
+BuyPriceList
+appc_bnb,	0.0000115767960000
+appc_btc,	0.00001144
+appc_eth,	0.0000114841375000
+
+SellPriceList
+appc_bnb,	0.0000113755950000
+appc_btc,	0.00001137
+appc_eth,	0.0000113974375000
+
+BuyKey - appc_btc	BuyPrice - 0.00001144
+SellKey - appc_eth	SellPrice - 0.0000113974375000
+precent - -0.372%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00001144	buyPricePotential (ConversionPrice) - 0.00001144
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00031550	sellPricePotential (ConversionPrice) - 0.00001140
+percentPotential - -0.372%
+
+
+
+30/12/2018 23:43:04
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - appc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 136.1
+request - 399.00000000,0.00748000,
+price - 0.0000115767960000
+
+Sell	Symbol - appc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 136.1
+request - 398.80000000,0.00735000,
+price - 0.0000113755950000
+
+Buy	Symbol - appc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 88
+request - 104.00000000,0.00001144,
+price - 0.00001144
+
+Sell	Symbol - appc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 88
+request - 132.00000000,0.00001137,
+price - 0.00001137
+
+Buy	Symbol - appc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 32
+request - 314.00000000,0.00031790,
+price - 0.0000114841375000
+
+Sell	Symbol - appc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 32
+request - 47.00000000,0.00031550,
+price - 0.0000113974375000
+
+BuyPriceList
+appc_bnb,	0.0000115767960000
+appc_btc,	0.00001144
+appc_eth,	0.0000114841375000
+
+SellPriceList
+appc_bnb,	0.0000113755950000
+appc_btc,	0.00001137
+appc_eth,	0.0000113974375000
+
+BuyKey - appc_btc	BuyPrice - 0.00001144
+SellKey - appc_eth	SellPrice - 0.0000113974375000
+precent - -0.372%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00001144	buyPricePotential (ConversionPrice) - 0.00001144
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00031550	sellPricePotential (ConversionPrice) - 0.00001140
+percentPotential - -0.372%
+
+
+

@@ -1,0 +1,138 @@
+30/12/2018 23:42:14
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - salt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 15.98
+request - 1484.92000000,0.00006280,
+price - 0.00006280
+
+Sell	Symbol - salt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 15.98
+request - 3101.35000000,0.00006260,
+price - 0.00006260
+
+Buy	Symbol - salt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.76
+request - 14.18000000,0.00173800,
+price - 0.0000628660670000
+
+Sell	Symbol - salt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.78
+request - 51.08000000,0.00173100,
+price - 0.0000626128665000
+
+BuyPriceList
+salt_btc,	0.00006280
+salt_eth,	0.0000628660670000
+
+SellPriceList
+salt_btc,	0.00006260
+salt_eth,	0.0000626128665000
+
+BuyKey - salt_btc	BuyPrice - 0.00006280
+SellKey - salt_eth	SellPrice - 0.0000626128665000
+precent - -0.298%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00006280	buyPricePotential (ConversionPrice) - 0.00006280
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00173100	sellPricePotential (ConversionPrice) - 0.00006261
+percentPotential - -0.298%
+
+
+
+30/12/2018 23:42:43
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - salt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 15.98
+request - 1465.92000000,0.00006280,
+price - 0.00006280
+
+Sell	Symbol - salt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 15.98
+request - 3101.35000000,0.00006260,
+price - 0.00006260
+
+Buy	Symbol - salt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.78
+request - 14.18000000,0.00173800,
+price - 0.0000627852500000
+
+Sell	Symbol - salt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.78
+request - 397.08000000,0.00173100,
+price - 0.0000625323750000
+
+BuyPriceList
+salt_btc,	0.00006280
+salt_eth,	0.0000627852500000
+
+SellPriceList
+salt_btc,	0.00006260
+salt_eth,	0.0000625323750000
+
+BuyKey - salt_eth	BuyPrice - 0.0000627852500000
+SellKey - salt_btc	SellPrice - 0.00006260
+precent - -0.295%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00173800	buyPricePotential (ConversionPrice) - 0.00006279
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00006260	sellPricePotential (ConversionPrice) - 0.00006260
+percentPotential - -0.295%
+
+
+
+30/12/2018 23:43:10
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - salt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 15.98
+request - 1465.92000000,0.00006280,
+price - 0.00006280
+
+Sell	Symbol - salt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 15.98
+request - 3101.35000000,0.00006260,
+price - 0.00006260
+
+Buy	Symbol - salt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.78
+request - 14.18000000,0.00173800,
+price - 0.0000627687390000
+
+Sell	Symbol - salt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.78
+request - 932.71000000,0.00173200,
+price - 0.0000625520460000
+
+BuyPriceList
+salt_btc,	0.00006280
+salt_eth,	0.0000627687390000
+
+SellPriceList
+salt_btc,	0.00006260
+salt_eth,	0.0000625520460000
+
+BuyKey - salt_eth	BuyPrice - 0.0000627687390000
+SellKey - salt_btc	SellPrice - 0.00006260
+precent - -0.269%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00173800	buyPricePotential (ConversionPrice) - 0.00006277
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00006260	sellPricePotential (ConversionPrice) - 0.00006260
+percentPotential - -0.269%
+
+
+

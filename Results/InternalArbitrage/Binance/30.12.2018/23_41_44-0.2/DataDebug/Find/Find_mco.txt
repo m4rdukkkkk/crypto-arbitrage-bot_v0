@@ -1,0 +1,208 @@
+30/12/2018 23:42:10
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - mco_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2.5
+request - 6.60000000,0.40091000,
+price - 0.0006208893170000
+
+Sell	Symbol - mco_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2.6
+request - 9.80000000,0.39639000,
+price - 0.0006138891930000
+
+Buy	Symbol - mco_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.62
+request - 232.42000000,0.00061800,
+price - 0.00061800
+
+Sell	Symbol - mco_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.63
+request - 4.87000000,0.00061700,
+price - 0.00061700
+
+Buy	Symbol - mco_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.59
+request - 35.00000000,0.01708600,
+price - 0.0006180262490000
+
+Sell	Symbol - mco_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.59
+request - 11.53000000,0.01701500,
+price - 0.0006154580725000
+
+BuyPriceList
+mco_bnb,	0.0006208893170000
+mco_btc,	0.00061800
+mco_eth,	0.0006180262490000
+
+SellPriceList
+mco_bnb,	0.0006138891930000
+mco_btc,	0.00061700
+mco_eth,	0.0006154580725000
+
+BuyKey - mco_btc	BuyPrice - 0.00061800
+SellKey - mco_btc	SellPrice - 0.00061700
+BuyNextOffer - 0.00061800	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00061700	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+mco_bnb,	0.0006208893170000
+mco_eth,	0.0006180262490000
+
+SellPriceList
+mco_bnb,	0.0006138891930000
+mco_btc,	0.00061700
+mco_eth,	0.0006154580725000
+
+BuyKey - mco_eth	BuyPrice - 0.0006180262490000
+SellKey - mco_btc	SellPrice - 0.00061700
+precent - -0.166%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.01708600	buyPricePotential (ConversionPrice) - 0.00061803
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00061700	sellPricePotential (ConversionPrice) - 0.00061700
+percentPotential - -0.166%
+
+
+
+30/12/2018 23:42:39
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - mco_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2.6
+request - 2.80000000,0.40089000,
+price - 0.0006204574530000
+
+Sell	Symbol - mco_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2.6
+request - 9.80000000,0.39639000,
+price - 0.0006134928030000
+
+Buy	Symbol - mco_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.63
+request - 3.33000000,0.00061700,
+price - 0.00061700
+
+Sell	Symbol - mco_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.63
+request - 63.58000000,0.00061500,
+price - 0.00061500
+
+Buy	Symbol - mco_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.59
+request - 17.57000000,0.01709000,
+price - 0.0006173762500000
+
+Sell	Symbol - mco_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.59
+request - 6.66000000,0.01701500,
+price - 0.0006146668750000
+
+BuyPriceList
+mco_bnb,	0.0006204574530000
+mco_btc,	0.00061700
+mco_eth,	0.0006173762500000
+
+SellPriceList
+mco_bnb,	0.0006134928030000
+mco_btc,	0.00061500
+mco_eth,	0.0006146668750000
+
+BuyKey - mco_btc	BuyPrice - 0.00061700
+SellKey - mco_btc	SellPrice - 0.00061500
+BuyNextOffer - 0.00061700	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00061500	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+mco_bnb,	0.0006204574530000
+mco_eth,	0.0006173762500000
+
+SellPriceList
+mco_bnb,	0.0006134928030000
+mco_btc,	0.00061500
+mco_eth,	0.0006146668750000
+
+BuyKey - mco_eth	BuyPrice - 0.0006173762500000
+SellKey - mco_btc	SellPrice - 0.00061500
+precent - -0.385%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.01709000	buyPricePotential (ConversionPrice) - 0.00061738
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00061500	sellPricePotential (ConversionPrice) - 0.00061500
+percentPotential - -0.385%
+
+
+
+30/12/2018 23:43:07
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - mco_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2.6
+request - 2.80000000,0.40081000,
+price - 0.0006202133940000
+
+Sell	Symbol - mco_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2.6
+request - 9.80000000,0.39639000,
+price - 0.0006133738860000
+
+Buy	Symbol - mco_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.63
+request - 3.33000000,0.00061600,
+price - 0.00061600
+
+Sell	Symbol - mco_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.63
+request - 241.38000000,0.00061400,
+price - 0.00061400
+
+Buy	Symbol - mco_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.59
+request - 17.57000000,0.01708200,
+price - 0.0006169249710000
+
+Sell	Symbol - mco_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.59
+request - 6.66000000,0.01701500,
+price - 0.0006145052325000
+
+BuyPriceList
+mco_bnb,	0.0006202133940000
+mco_btc,	0.00061600
+mco_eth,	0.0006169249710000
+
+SellPriceList
+mco_bnb,	0.0006133738860000
+mco_btc,	0.00061400
+mco_eth,	0.0006145052325000
+
+BuyKey - mco_btc	BuyPrice - 0.00061600
+SellKey - mco_eth	SellPrice - 0.0006145052325000
+precent - -0.243%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00061600	buyPricePotential (ConversionPrice) - 0.00061600
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.01701500	sellPricePotential (ConversionPrice) - 0.00061451
+percentPotential - -0.243%
+
+
+

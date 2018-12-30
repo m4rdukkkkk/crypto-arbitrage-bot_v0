@@ -1,0 +1,208 @@
+30/12/2018 23:42:13
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - pivx_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.9
+request - 89.80000000,0.17423000,
+price - 0.0002698300010000
+
+Sell	Symbol - pivx_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.9
+request - 11.60000000,0.17032000,
+price - 0.0002637745840000
+
+Buy	Symbol - pivx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.78
+request - 14.37000000,0.00026520,
+price - 0.00026520
+
+Sell	Symbol - pivx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.78
+request - 62.31000000,0.00026500,
+price - 0.00026500
+
+Buy	Symbol - pivx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.37
+request - 6.40000000,0.00733200,
+price - 0.0002652094380000
+
+Sell	Symbol - pivx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.37
+request - 19.65000000,0.00730300,
+price - 0.0002641604645000
+
+BuyPriceList
+pivx_bnb,	0.0002698300010000
+pivx_btc,	0.00026520
+pivx_eth,	0.0002652094380000
+
+SellPriceList
+pivx_bnb,	0.0002637745840000
+pivx_btc,	0.00026500
+pivx_eth,	0.0002641604645000
+
+BuyKey - pivx_btc	BuyPrice - 0.00026520
+SellKey - pivx_btc	SellPrice - 0.00026500
+BuyNextOffer - 0.00026520	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00026500	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+pivx_bnb,	0.0002698300010000
+pivx_eth,	0.0002652094380000
+
+SellPriceList
+pivx_bnb,	0.0002637745840000
+pivx_btc,	0.00026500
+pivx_eth,	0.0002641604645000
+
+BuyKey - pivx_eth	BuyPrice - 0.0002652094380000
+SellKey - pivx_btc	SellPrice - 0.00026500
+precent - -0.079%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00733200	buyPricePotential (ConversionPrice) - 0.00026521
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00026500	sellPricePotential (ConversionPrice) - 0.00026500
+percentPotential - -0.079%
+
+
+
+30/12/2018 23:42:42
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - pivx_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.9
+request - 91.10000000,0.17422000,
+price - 0.0002696402940000
+
+Sell	Symbol - pivx_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6
+request - 578.10000000,0.16946000,
+price - 0.0002622732420000
+
+Buy	Symbol - pivx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.78
+request - 319.29000000,0.00026400,
+price - 0.00026400
+
+Sell	Symbol - pivx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.79
+request - 28.43000000,0.00026390,
+price - 0.00026390
+
+Buy	Symbol - pivx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.37
+request - 500.11000000,0.00736600,
+price - 0.0002660967500000
+
+Sell	Symbol - pivx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.37
+request - 42.80000000,0.00730000,
+price - 0.0002637125000000
+
+BuyPriceList
+pivx_bnb,	0.0002696402940000
+pivx_btc,	0.00026400
+pivx_eth,	0.0002660967500000
+
+SellPriceList
+pivx_bnb,	0.0002622732420000
+pivx_btc,	0.00026390
+pivx_eth,	0.0002637125000000
+
+BuyKey - pivx_btc	BuyPrice - 0.00026400
+SellKey - pivx_btc	SellPrice - 0.00026390
+BuyNextOffer - 0.00026400	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00026390	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+pivx_bnb,	0.0002696402940000
+pivx_eth,	0.0002660967500000
+
+SellPriceList
+pivx_bnb,	0.0002622732420000
+pivx_btc,	0.00026390
+pivx_eth,	0.0002637125000000
+
+BuyKey - pivx_eth	BuyPrice - 0.0002660967500000
+SellKey - pivx_btc	SellPrice - 0.00026390
+precent - -0.826%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00736600	buyPricePotential (ConversionPrice) - 0.00026610
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00026390	sellPricePotential (ConversionPrice) - 0.00026390
+percentPotential - -0.826%
+
+
+
+30/12/2018 23:43:09
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - pivx_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6
+request - 42.80000000,0.17419000,
+price - 0.0002695416060000
+
+Sell	Symbol - pivx_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.9
+request - 40.30000000,0.16986000,
+price - 0.0002628413640000
+
+Buy	Symbol - pivx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.79
+request - 5.71000000,0.00026340,
+price - 0.00026340
+
+Sell	Symbol - pivx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.81
+request - 21.40000000,0.00026280,
+price - 0.00026280
+
+Buy	Symbol - pivx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.37
+request - 18.56000000,0.00735100,
+price - 0.0002654850405000
+
+Sell	Symbol - pivx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.38
+request - 4.50000000,0.00728700,
+price - 0.0002631736485000
+
+BuyPriceList
+pivx_bnb,	0.0002695416060000
+pivx_btc,	0.00026340
+pivx_eth,	0.0002654850405000
+
+SellPriceList
+pivx_bnb,	0.0002628413640000
+pivx_btc,	0.00026280
+pivx_eth,	0.0002631736485000
+
+BuyKey - pivx_btc	BuyPrice - 0.00026340
+SellKey - pivx_eth	SellPrice - 0.0002631736485000
+precent - -0.086%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00026340	buyPricePotential (ConversionPrice) - 0.00026340
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00728700	sellPricePotential (ConversionPrice) - 0.00026317
+percentPotential - -0.086%
+
+
+

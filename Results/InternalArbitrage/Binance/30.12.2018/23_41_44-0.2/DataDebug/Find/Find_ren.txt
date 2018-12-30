@@ -1,0 +1,174 @@
+30/12/2018 23:42:14
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - ren_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 278.6
+request - 698.50000000,0.00355000,
+price - 0.0000054978850000
+
+Sell	Symbol - ren_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 283.3
+request - 600.50000000,0.00353000,
+price - 0.0000054669110000
+
+Buy	Symbol - ren_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 183
+request - 6366.00000000,0.00000549,
+price - 0.00000549
+
+Sell	Symbol - ren_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 183
+request - 79933.00000000,0.00000548,
+price - 0.00000548
+
+BuyPriceList
+ren_bnb,	0.0000054978850000
+ren_btc,	0.00000549
+
+SellPriceList
+ren_bnb,	0.0000054669110000
+ren_btc,	0.00000548
+
+BuyKey - ren_btc	BuyPrice - 0.00000549
+SellKey - ren_btc	SellPrice - 0.00000548
+BuyNextOffer - 0.0000054978850000	BuyNextOfferDifrent - 0.0000000078850000
+SellNextOffer - 0.0000054669110000	SellNextOfferDifrent - 0.0000000130890000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+ren_bnb,	0.0000054978850000
+
+SellPriceList
+ren_bnb,	0.0000054669110000
+ren_btc,	0.00000548
+
+BuyKey - ren_bnb	BuyPrice - 0.0000054978850000
+SellKey - ren_btc	SellPrice - 0.00000548
+precent - -0.325%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00355000	buyPricePotential (ConversionPrice) - 0.00000550
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000548	sellPricePotential (ConversionPrice) - 0.00000548
+percentPotential - -0.325%
+
+
+
+30/12/2018 23:42:43
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - ren_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 283.3
+request - 698.50000000,0.00355000,
+price - 0.0000054943350000
+
+Sell	Symbol - ren_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 283.3
+request - 600.50000000,0.00353000,
+price - 0.0000054633810000
+
+Buy	Symbol - ren_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 183
+request - 6366.00000000,0.00000549,
+price - 0.00000549
+
+Sell	Symbol - ren_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 183
+request - 79933.00000000,0.00000548,
+price - 0.00000548
+
+BuyPriceList
+ren_bnb,	0.0000054943350000
+ren_btc,	0.00000549
+
+SellPriceList
+ren_bnb,	0.0000054633810000
+ren_btc,	0.00000548
+
+BuyKey - ren_btc	BuyPrice - 0.00000549
+SellKey - ren_btc	SellPrice - 0.00000548
+BuyNextOffer - 0.0000054943350000	BuyNextOfferDifrent - 0.0000000043350000
+SellNextOffer - 0.0000054633810000	SellNextOfferDifrent - 0.0000000166190000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+ren_bnb,	0.0000054943350000
+
+SellPriceList
+ren_bnb,	0.0000054633810000
+ren_btc,	0.00000548
+
+BuyKey - ren_bnb	BuyPrice - 0.0000054943350000
+SellKey - ren_btc	SellPrice - 0.00000548
+precent - -0.261%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00355000	buyPricePotential (ConversionPrice) - 0.00000549
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000548	sellPricePotential (ConversionPrice) - 0.00000548
+percentPotential - -0.261%
+
+
+
+30/12/2018 23:43:10
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - ren_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 283.3
+request - 698.50000000,0.00355000,
+price - 0.0000054932700000
+
+Sell	Symbol - ren_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 283.3
+request - 600.50000000,0.00353000,
+price - 0.0000054623220000
+
+Buy	Symbol - ren_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 183
+request - 6366.00000000,0.00000549,
+price - 0.00000549
+
+Sell	Symbol - ren_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 183
+request - 79933.00000000,0.00000548,
+price - 0.00000548
+
+BuyPriceList
+ren_bnb,	0.0000054932700000
+ren_btc,	0.00000549
+
+SellPriceList
+ren_bnb,	0.0000054623220000
+ren_btc,	0.00000548
+
+BuyKey - ren_btc	BuyPrice - 0.00000549
+SellKey - ren_btc	SellPrice - 0.00000548
+BuyNextOffer - 0.0000054932700000	BuyNextOfferDifrent - 0.0000000032700000
+SellNextOffer - 0.0000054623220000	SellNextOfferDifrent - 0.0000000176780000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+ren_bnb,	0.0000054932700000
+
+SellPriceList
+ren_bnb,	0.0000054623220000
+ren_btc,	0.00000548
+
+BuyKey - ren_bnb	BuyPrice - 0.0000054932700000
+SellKey - ren_btc	SellPrice - 0.00000548
+precent - -0.242%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00355000	buyPricePotential (ConversionPrice) - 0.00000549
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000548	sellPricePotential (ConversionPrice) - 0.00000548
+percentPotential - -0.242%
+
+
+

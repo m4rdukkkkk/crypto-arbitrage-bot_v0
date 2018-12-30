@@ -1,0 +1,194 @@
+30/12/2018 23:42:18
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - zil_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 287
+request - 10591.00000000,0.00351000,
+price - 0.0000054359370000
+
+Sell	Symbol - zil_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 288
+request - 1006.00000000,0.00348400,
+price - 0.0000053956708000
+
+Buy	Symbol - zil_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 186
+request - 116565.00000000,0.00000542,
+price - 0.00000542
+
+Sell	Symbol - zil_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 186
+request - 5029.00000000,0.00000540,
+price - 0.00000540
+
+Buy	Symbol - zil_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 67
+request - 907.00000000,0.00015006,
+price - 0.0000054278952900
+
+Sell	Symbol - zil_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 67
+request - 226.00000000,0.00014948,
+price - 0.0000054069158200
+
+BuyPriceList
+zil_bnb,	0.0000054359370000
+zil_btc,	0.00000542
+zil_eth,	0.0000054278952900
+
+SellPriceList
+zil_bnb,	0.0000053956708000
+zil_btc,	0.00000540
+zil_eth,	0.0000054069158200
+
+BuyKey - zil_btc	BuyPrice - 0.00000542
+SellKey - zil_eth	SellPrice - 0.0000054069158200
+precent - -0.241%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000542	buyPricePotential (ConversionPrice) - 0.00000542
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00014948	sellPricePotential (ConversionPrice) - 0.00000541
+percentPotential - -0.241%
+
+
+
+30/12/2018 23:42:47
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - zil_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 288
+request - 10591.00000000,0.00351000,
+price - 0.0000054324270000
+
+Sell	Symbol - zil_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 288
+request - 1006.00000000,0.00348400,
+price - 0.0000053921868000
+
+Buy	Symbol - zil_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 186
+request - 545394.00000000,0.00000540,
+price - 0.00000540
+
+Sell	Symbol - zil_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 186
+request - 9375.00000000,0.00000539,
+price - 0.00000539
+
+Buy	Symbol - zil_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 67
+request - 26643.00000000,0.00014996,
+price - 0.0000054173050000
+
+Sell	Symbol - zil_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 68
+request - 1247.00000000,0.00014924,
+price - 0.0000053912950000
+
+BuyPriceList
+zil_bnb,	0.0000054324270000
+zil_btc,	0.00000540
+zil_eth,	0.0000054173050000
+
+SellPriceList
+zil_bnb,	0.0000053921868000
+zil_btc,	0.00000539
+zil_eth,	0.0000053912950000
+
+BuyKey - zil_btc	BuyPrice - 0.00000540
+SellKey - zil_bnb	SellPrice - 0.0000053921868000
+precent - -0.145%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000540	buyPricePotential (ConversionPrice) - 0.00000540
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00348400	sellPricePotential (ConversionPrice) - 0.00000539
+percentPotential - -0.145%
+
+
+
+30/12/2018 23:43:26
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - zil_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 288
+request - 993.00000000,0.00350900,
+price - 0.0000054298266000
+
+Sell	Symbol - zil_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 288
+request - 295.00000000,0.00348300,
+price - 0.0000053895942000
+
+Buy	Symbol - zil_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 186
+request - 353926.00000000,0.00000540,
+price - 0.00000540
+
+Sell	Symbol - zil_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 186
+request - 625.00000000,0.00000539,
+price - 0.00000539
+
+Buy	Symbol - zil_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 68
+request - 55150.00000000,0.00014980,
+price - 0.0000054101019000
+
+Sell	Symbol - zil_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 68
+request - 1247.00000000,0.00014924,
+price - 0.0000053898772200
+
+BuyPriceList
+zil_bnb,	0.0000054298266000
+zil_btc,	0.00000540
+zil_eth,	0.0000054101019000
+
+SellPriceList
+zil_bnb,	0.0000053895942000
+zil_btc,	0.00000539
+zil_eth,	0.0000053898772200
+
+BuyKey - zil_btc	BuyPrice - 0.00000540
+SellKey - zil_btc	SellPrice - 0.00000539
+BuyNextOffer - 0.00000540	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00000539	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+zil_bnb,	0.0000054298266000
+zil_eth,	0.0000054101019000
+
+SellPriceList
+zil_bnb,	0.0000053895942000
+zil_btc,	0.00000539
+zil_eth,	0.0000053898772200
+
+BuyKey - zil_eth	BuyPrice - 0.0000054101019000
+SellKey - zil_btc	SellPrice - 0.00000539
+precent - -0.372%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00014980	buyPricePotential (ConversionPrice) - 0.00000541
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000539	sellPricePotential (ConversionPrice) - 0.00000539
+percentPotential - -0.372%
+
+
+

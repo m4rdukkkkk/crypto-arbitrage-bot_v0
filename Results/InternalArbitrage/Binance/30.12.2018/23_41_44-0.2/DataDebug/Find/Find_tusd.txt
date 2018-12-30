@@ -1,0 +1,222 @@
+30/12/2018 23:42:16
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - tusd_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.9
+request - 44251.40000000,0.16943000,
+price - 0.0002623962410000
+
+Sell	Symbol - tusd_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6
+request - 9.70000000,0.16881000,
+price - 0.0002614360470000
+
+Buy	Symbol - tusd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4
+request - 52.00000000,0.00026198,
+price - 0.00026198
+
+Sell	Symbol - tusd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4
+request - 1191.00000000,0.00026163,
+price - 0.00026163
+
+Buy	Symbol - tusd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2
+request - 20.00000000,0.00725869,
+price - 0.0002625577053350
+
+Sell	Symbol - tusd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2
+request - 20.00000000,0.00724064,
+price - 0.0002619048097600
+
+Buy	Symbol - tusd_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 10.06
+request - 234.09000000,0.99410000,
+price - 0.0002620213945041664854578257
+
+Sell	Symbol - tusd_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 10.07
+request - 428.00000000,0.99340000,
+price - 0.0002618368909570857928315100
+
+BuyPriceList
+tusd_bnb,	0.0002623962410000
+tusd_btc,	0.00026198
+tusd_eth,	0.0002625577053350
+tusd_usdt,	0.0002620213945041664854578257
+
+SellPriceList
+tusd_bnb,	0.0002614360470000
+tusd_btc,	0.00026163
+tusd_eth,	0.0002619048097600
+tusd_usdt,	0.0002618368909570857928315100
+
+BuyKey - tusd_btc	BuyPrice - 0.00026198
+SellKey - tusd_eth	SellPrice - 0.0002619048097600
+precent - -0.029%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00026198	buyPricePotential (ConversionPrice) - 0.00026198
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00724064	sellPricePotential (ConversionPrice) - 0.00026190
+percentPotential - -0.029%
+
+
+
+30/12/2018 23:42:45
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - tusd_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6
+request - 37.00000000,0.16981000,
+price - 0.0002628149370000
+
+Sell	Symbol - tusd_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6
+request - 8877.50000000,0.16920000,
+price - 0.0002618708400000
+
+Buy	Symbol - tusd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4
+request - 214.00000000,0.00026263,
+price - 0.00026263
+
+Sell	Symbol - tusd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4
+request - 38.00000000,0.00026241,
+price - 0.00026241
+
+Buy	Symbol - tusd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2
+request - 107.00000000,0.00728041,
+price - 0.0002630048112500
+
+Sell	Symbol - tusd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2
+request - 13.00000000,0.00725729,
+price - 0.0002621696012500
+
+Buy	Symbol - tusd_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 10.07
+request - 150.84000000,0.99410000,
+price - 0.0002624502840065315562079485
+
+Sell	Symbol - tusd_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 10.07
+request - 346.88000000,0.99310000,
+price - 0.0002621862760757333150287834
+
+BuyPriceList
+tusd_bnb,	0.0002628149370000
+tusd_btc,	0.00026263
+tusd_eth,	0.0002630048112500
+tusd_usdt,	0.0002624502840065315562079485
+
+SellPriceList
+tusd_bnb,	0.0002618708400000
+tusd_btc,	0.00026241
+tusd_eth,	0.0002621696012500
+tusd_usdt,	0.0002621862760757333150287834
+
+BuyKey - tusd_usdt	BuyPrice - 0.0002624502840065315562079485
+SellKey - tusd_btc	SellPrice - 0.00026241
+precent - -0.015%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.99410000	buyPricePotential (ConversionPrice) - 0.00026245
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00026241	sellPricePotential (ConversionPrice) - 0.00026241
+percentPotential - -0.015%
+
+
+
+30/12/2018 23:43:12
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - tusd_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6
+request - 37.00000000,0.17016000,
+price - 0.0002633055840000
+
+Sell	Symbol - tusd_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6
+request - 9.60000000,0.16948000,
+price - 0.0002622533520000
+
+Buy	Symbol - tusd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4
+request - 171.00000000,0.00026286,
+price - 0.00026286
+
+Sell	Symbol - tusd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4
+request - 384.00000000,0.00026259,
+price - 0.00026259
+
+Buy	Symbol - tusd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2
+request - 321.00000000,0.00728889,
+price - 0.0002632419067950
+
+Sell	Symbol - tusd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2
+request - 13.00000000,0.00726867,
+price - 0.0002625116513850
+
+Buy	Symbol - tusd_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 10.07
+request - 150.84000000,0.99410000,
+price - 0.0002627992708979085238590597
+
+Sell	Symbol - tusd_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 10.07
+request - 339.89000000,0.99310000,
+price - 0.0002625349119089759129307234
+
+BuyPriceList
+tusd_bnb,	0.0002633055840000
+tusd_btc,	0.00026286
+tusd_eth,	0.0002632419067950
+tusd_usdt,	0.0002627992708979085238590597
+
+SellPriceList
+tusd_bnb,	0.0002622533520000
+tusd_btc,	0.00026259
+tusd_eth,	0.0002625116513850
+tusd_usdt,	0.0002625349119089759129307234
+
+BuyKey - tusd_usdt	BuyPrice - 0.0002627992708979085238590597
+SellKey - tusd_btc	SellPrice - 0.00026259
+precent - -0.080%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.99410000	buyPricePotential (ConversionPrice) - 0.00026280
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00026259	sellPricePotential (ConversionPrice) - 0.00026259
+percentPotential - -0.080%
+
+
+

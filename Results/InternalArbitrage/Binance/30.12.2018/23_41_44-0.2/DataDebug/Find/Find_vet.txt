@@ -1,0 +1,254 @@
+30/12/2018 23:42:16
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - vet_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1428.6
+request - 34438.40000000,0.00071000,
+price - 0.0000010995770000
+
+Sell	Symbol - vet_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1428.6
+request - 565652.00000000,0.00070000,
+price - 0.0000010840900000
+
+Buy	Symbol - vet_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 910
+request - 16759942.00000000,0.00000110,
+price - 0.00000110
+
+Sell	Symbol - vet_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 918
+request - 22262561.00000000,0.00000109,
+price - 0.00000109
+
+Buy	Symbol - vet_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 332
+request - 1863.00000000,0.00003020,
+price - 0.0000010923793000
+
+Sell	Symbol - vet_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 332
+request - 29064.00000000,0.00003019,
+price - 0.0000010920175850
+
+Buy	Symbol - vet_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2408
+request - 114791.00000000,0.00417100,
+price - 0.0000010993775641050984919471
+
+Sell	Symbol - vet_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2418
+request - 2648.00000000,0.00413700,
+price - 0.0000010904159632468934215260
+
+BuyPriceList
+vet_bnb,	0.0000010995770000
+vet_btc,	0.00000110
+vet_eth,	0.0000010923793000
+vet_usdt,	0.0000010993775641050984919471
+
+SellPriceList
+vet_bnb,	0.0000010840900000
+vet_btc,	0.00000109
+vet_eth,	0.0000010920175850
+vet_usdt,	0.0000010904159632468934215260
+
+BuyKey - vet_eth	BuyPrice - 0.0000010923793000
+SellKey - vet_eth	SellPrice - 0.0000010920175850
+BuyNextOffer - 0.0000010923793000	BuyNextOfferDifrent - 0.0000000000000000
+SellNextOffer - 0.0000010920175850	SellNextOfferDifrent - 0.0000000000000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+vet_bnb,	0.0000010995770000
+vet_btc,	0.00000110
+vet_usdt,	0.0000010993775641050984919471
+
+SellPriceList
+vet_bnb,	0.0000010840900000
+vet_btc,	0.00000109
+vet_eth,	0.0000010920175850
+vet_usdt,	0.0000010904159632468934215260
+
+BuyKey - vet_usdt	BuyPrice - 0.0000010993775641050984919471
+SellKey - vet_eth	SellPrice - 0.0000010920175850
+precent - -0.669%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00417100	buyPricePotential (ConversionPrice) - 0.00000110
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00003019	sellPricePotential (ConversionPrice) - 0.00000109
+percentPotential - -0.669%
+
+
+
+30/12/2018 23:42:45
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - vet_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1428.6
+request - 34438.40000000,0.00071000,
+price - 0.0000010988670000
+
+Sell	Symbol - vet_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1428.6
+request - 554536.30000000,0.00070000,
+price - 0.0000010833900000
+
+Buy	Symbol - vet_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 918
+request - 16743652.00000000,0.00000110,
+price - 0.00000110
+
+Sell	Symbol - vet_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 918
+request - 22268539.00000000,0.00000109,
+price - 0.00000109
+
+Buy	Symbol - vet_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 332
+request - 1863.00000000,0.00003031,
+price - 0.0000010949487500
+
+Sell	Symbol - vet_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 332
+request - 978.00000000,0.00003020,
+price - 0.0000010909750000
+
+Buy	Symbol - vet_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2418
+request - 26273.00000000,0.00416100,
+price - 0.0000010985370000514815465057
+
+Sell	Symbol - vet_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2419
+request - 78786.00000000,0.00413500,
+price - 0.0000010916727938507272758474
+
+BuyPriceList
+vet_bnb,	0.0000010988670000
+vet_btc,	0.00000110
+vet_eth,	0.0000010949487500
+vet_usdt,	0.0000010985370000514815465057
+
+SellPriceList
+vet_bnb,	0.0000010833900000
+vet_btc,	0.00000109
+vet_eth,	0.0000010909750000
+vet_usdt,	0.0000010916727938507272758474
+
+BuyKey - vet_eth	BuyPrice - 0.0000010949487500
+SellKey - vet_usdt	SellPrice - 0.0000010916727938507272758474
+precent - -0.299%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00003031	buyPricePotential (ConversionPrice) - 0.00000109
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00413500	sellPricePotential (ConversionPrice) - 0.00000109
+percentPotential - -0.299%
+
+
+
+30/12/2018 23:43:12
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - vet_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1428.6
+request - 34438.40000000,0.00071000,
+price - 0.0000010986540000
+
+Sell	Symbol - vet_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1428.6
+request - 969123.50000000,0.00070000,
+price - 0.0000010831800000
+
+Buy	Symbol - vet_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 918
+request - 16743652.00000000,0.00000110,
+price - 0.00000110
+
+Sell	Symbol - vet_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 918
+request - 22305456.00000000,0.00000109,
+price - 0.00000109
+
+Buy	Symbol - vet_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 332
+request - 3784.00000000,0.00003036,
+price - 0.0000010964665800
+
+Sell	Symbol - vet_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 330
+request - 24641.00000000,0.00003035,
+price - 0.0000010961054250
+
+Buy	Symbol - vet_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2419
+request - 12420.00000000,0.00416000,
+price - 0.0000010997333939596614618788
+
+Sell	Symbol - vet_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2419
+request - 103427.00000000,0.00413500,
+price - 0.0000010931244192363461886704
+
+BuyPriceList
+vet_bnb,	0.0000010986540000
+vet_btc,	0.00000110
+vet_eth,	0.0000010964665800
+vet_usdt,	0.0000010997333939596614618788
+
+SellPriceList
+vet_bnb,	0.0000010831800000
+vet_btc,	0.00000109
+vet_eth,	0.0000010961054250
+vet_usdt,	0.0000010931244192363461886704
+
+BuyKey - vet_eth	BuyPrice - 0.0000010964665800
+SellKey - vet_eth	SellPrice - 0.0000010961054250
+BuyNextOffer - 0.0000010964665800	BuyNextOfferDifrent - 0.0000000000000000
+SellNextOffer - 0.0000010961054250	SellNextOfferDifrent - 0.0000000000000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+vet_bnb,	0.0000010986540000
+vet_btc,	0.00000110
+vet_usdt,	0.0000010997333939596614618788
+
+SellPriceList
+vet_bnb,	0.0000010831800000
+vet_btc,	0.00000109
+vet_eth,	0.0000010961054250
+vet_usdt,	0.0000010931244192363461886704
+
+BuyKey - vet_bnb	BuyPrice - 0.0000010986540000
+SellKey - vet_eth	SellPrice - 0.0000010961054250
+precent - -0.232%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00070000	buyPricePotential (ConversionPrice) - 0.00000108
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00003035	sellPricePotential (ConversionPrice) - 0.00000110
+percentPotential - 1.193%
+
+
+

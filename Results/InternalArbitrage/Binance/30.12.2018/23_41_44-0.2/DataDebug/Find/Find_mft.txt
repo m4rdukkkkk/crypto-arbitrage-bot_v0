@@ -1,0 +1,208 @@
+30/12/2018 23:42:10
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - mft_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2013
+request - 27172.00000000,0.00050500,
+price - 0.0000007820935000
+
+Sell	Symbol - mft_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2013
+request - 4024.00000000,0.00049700,
+price - 0.0000007697039000
+
+Buy	Symbol - mft_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1283
+request - 9135628.00000000,0.00000078,
+price - 0.00000078
+
+Sell	Symbol - mft_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1299
+request - 2541051.00000000,0.00000077,
+price - 0.00000077
+
+Buy	Symbol - mft_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 465
+request - 4689.00000000,0.00002150,
+price - 0.0000007776872500
+
+Sell	Symbol - mft_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 470
+request - 1891.00000000,0.00002132,
+price - 0.0000007711763800
+
+BuyPriceList
+mft_bnb,	0.0000007820935000
+mft_btc,	0.00000078
+mft_eth,	0.0000007776872500
+
+SellPriceList
+mft_bnb,	0.0000007697039000
+mft_btc,	0.00000077
+mft_eth,	0.0000007711763800
+
+BuyKey - mft_eth	BuyPrice - 0.0000007776872500
+SellKey - mft_eth	SellPrice - 0.0000007711763800
+BuyNextOffer - 0.00000078	BuyNextOfferDifrent - 0.0000000023127500
+SellNextOffer - 0.00000077	SellNextOfferDifrent - 0.0000000011763800
+(BuyNextOfferDifrent > SellNextOfferDifrent) - True
+BuyPriceList
+mft_bnb,	0.0000007820935000
+mft_btc,	0.00000078
+mft_eth,	0.0000007776872500
+
+SellPriceList
+mft_bnb,	0.0000007697039000
+mft_btc,	0.00000077
+
+BuyKey - mft_eth	BuyPrice - 0.0000007776872500
+SellKey - mft_btc	SellPrice - 0.00000077
+precent - -0.988%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00002150	buyPricePotential (ConversionPrice) - 0.00000078
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000077	sellPricePotential (ConversionPrice) - 0.00000077
+percentPotential - -0.988%
+
+
+
+30/12/2018 23:42:39
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - mft_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2013
+request - 27172.00000000,0.00050500,
+price - 0.0000007815885000
+
+Sell	Symbol - mft_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2013
+request - 4024.00000000,0.00049700,
+price - 0.0000007692069000
+
+Buy	Symbol - mft_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1299
+request - 9230385.00000000,0.00000078,
+price - 0.00000078
+
+Sell	Symbol - mft_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1299
+request - 2541051.00000000,0.00000077,
+price - 0.00000077
+
+Buy	Symbol - mft_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 470
+request - 4689.00000000,0.00002150,
+price - 0.0000007766875000
+
+Sell	Symbol - mft_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 470
+request - 1891.00000000,0.00002132,
+price - 0.0000007701850000
+
+BuyPriceList
+mft_bnb,	0.0000007815885000
+mft_btc,	0.00000078
+mft_eth,	0.0000007766875000
+
+SellPriceList
+mft_bnb,	0.0000007692069000
+mft_btc,	0.00000077
+mft_eth,	0.0000007701850000
+
+BuyKey - mft_eth	BuyPrice - 0.0000007766875000
+SellKey - mft_eth	SellPrice - 0.0000007701850000
+BuyNextOffer - 0.00000078	BuyNextOfferDifrent - 0.0000000033125000
+SellNextOffer - 0.00000077	SellNextOfferDifrent - 0.0000000001850000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - True
+BuyPriceList
+mft_bnb,	0.0000007815885000
+mft_btc,	0.00000078
+mft_eth,	0.0000007766875000
+
+SellPriceList
+mft_bnb,	0.0000007692069000
+mft_btc,	0.00000077
+
+BuyKey - mft_eth	BuyPrice - 0.0000007766875000
+SellKey - mft_btc	SellPrice - 0.00000077
+precent - -0.861%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00002150	buyPricePotential (ConversionPrice) - 0.00000078
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000077	sellPricePotential (ConversionPrice) - 0.00000077
+percentPotential - -0.861%
+
+
+
+30/12/2018 23:43:08
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - mft_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2013
+request - 27172.00000000,0.00050500,
+price - 0.0000007814370000
+
+Sell	Symbol - mft_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2013
+request - 4024.00000000,0.00049700,
+price - 0.0000007690578000
+
+Buy	Symbol - mft_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1299
+request - 9230385.00000000,0.00000078,
+price - 0.00000078
+
+Sell	Symbol - mft_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1299
+request - 2541051.00000000,0.00000077,
+price - 0.00000077
+
+Buy	Symbol - mft_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 470
+request - 4689.00000000,0.00002150,
+price - 0.0000007764832500
+
+Sell	Symbol - mft_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 470
+request - 1891.00000000,0.00002132,
+price - 0.0000007699824600
+
+BuyPriceList
+mft_bnb,	0.0000007814370000
+mft_btc,	0.00000078
+mft_eth,	0.0000007764832500
+
+SellPriceList
+mft_bnb,	0.0000007690578000
+mft_btc,	0.00000077
+mft_eth,	0.0000007699824600
+
+BuyKey - mft_eth	BuyPrice - 0.0000007764832500
+SellKey - mft_btc	SellPrice - 0.00000077
+precent - -0.835%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00002150	buyPricePotential (ConversionPrice) - 0.00000078
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000077	sellPricePotential (ConversionPrice) - 0.00000077
+percentPotential - -0.835%
+
+
+

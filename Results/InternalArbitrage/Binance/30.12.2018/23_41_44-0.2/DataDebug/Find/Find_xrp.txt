@@ -1,0 +1,238 @@
+30/12/2018 23:42:17
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - xrp_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.3
+request - 25.60000000,0.06177000,
+price - 0.0000956631990000
+
+Sell	Symbol - xrp_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.3
+request - 423.80000000,0.06161000,
+price - 0.0000954154070000
+
+Buy	Symbol - xrp_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 11
+request - 150.00000000,0.00009559,
+price - 0.00009559
+
+Sell	Symbol - xrp_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 11
+request - 263.00000000,0.00009553,
+price - 0.00009553
+
+Buy	Symbol - xrp_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4
+request - 199.00000000,0.00264228,
+price - 0.0000955752310200
+
+Sell	Symbol - xrp_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4
+request - 1391.00000000,0.00263878,
+price - 0.0000954486307700
+
+Buy	Symbol - xrp_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 27.6
+request - 3000.00000000,0.36263000,
+price - 0.0000955807446826736672583959
+
+Sell	Symbol - xrp_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 27.6
+request - 2213.70000000,0.36240000,
+price - 0.0000955201220886328682526064
+
+BuyPriceList
+xrp_bnb,	0.0000956631990000
+xrp_btc,	0.00009559
+xrp_eth,	0.0000955752310200
+xrp_usdt,	0.0000955807446826736672583959
+
+SellPriceList
+xrp_bnb,	0.0000954154070000
+xrp_btc,	0.00009553
+xrp_eth,	0.0000954486307700
+xrp_usdt,	0.0000955201220886328682526064
+
+BuyKey - xrp_eth	BuyPrice - 0.0000955752310200
+SellKey - xrp_btc	SellPrice - 0.00009553
+precent - -0.047%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00264228	buyPricePotential (ConversionPrice) - 0.00009558
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00009553	sellPricePotential (ConversionPrice) - 0.00009553
+percentPotential - -0.047%
+
+
+
+30/12/2018 23:42:47
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - xrp_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.3
+request - 214.00000000,0.06174000,
+price - 0.0000955549980000
+
+Sell	Symbol - xrp_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.3
+request - 735.40000000,0.06152000,
+price - 0.0000952145040000
+
+Buy	Symbol - xrp_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 11
+request - 219.00000000,0.00009551,
+price - 0.00009551
+
+Sell	Symbol - xrp_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 11
+request - 947.00000000,0.00009549,
+price - 0.00009549
+
+Buy	Symbol - xrp_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4
+request - 162.00000000,0.00264719,
+price - 0.0000956297387500
+
+Sell	Symbol - xrp_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4
+request - 67.00000000,0.00264056,
+price - 0.0000953902300000
+
+Buy	Symbol - xrp_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 27.6
+request - 2217.90000000,0.36182000,
+price - 0.0000955233495214196234454883
+
+Sell	Symbol - xrp_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 27.7
+request - 939.00000000,0.36159000,
+price - 0.0000954626276973360279742803
+
+BuyPriceList
+xrp_bnb,	0.0000955549980000
+xrp_btc,	0.00009551
+xrp_eth,	0.0000956297387500
+xrp_usdt,	0.0000955233495214196234454883
+
+SellPriceList
+xrp_bnb,	0.0000952145040000
+xrp_btc,	0.00009549
+xrp_eth,	0.0000953902300000
+xrp_usdt,	0.0000954626276973360279742803
+
+BuyKey - xrp_btc	BuyPrice - 0.00009551
+SellKey - xrp_btc	SellPrice - 0.00009549
+BuyNextOffer - 0.0000956297387500	BuyNextOfferDifrent - 0.0000001197387500
+SellNextOffer - 0.0000953902300000	SellNextOfferDifrent - 0.0000000997700000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - True
+BuyPriceList
+xrp_bnb,	0.0000955549980000
+xrp_btc,	0.00009551
+xrp_eth,	0.0000956297387500
+xrp_usdt,	0.0000955233495214196234454883
+
+SellPriceList
+xrp_bnb,	0.0000952145040000
+xrp_eth,	0.0000953902300000
+xrp_usdt,	0.0000954626276973360279742803
+
+BuyKey - xrp_btc	BuyPrice - 0.00009551
+SellKey - xrp_usdt	SellPrice - 0.0000954626276973360279742803
+precent - -0.050%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00009551	buyPricePotential (ConversionPrice) - 0.00009551
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.36159000	sellPricePotential (ConversionPrice) - 0.00009546
+percentPotential - -0.050%
+
+
+
+30/12/2018 23:43:26
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - xrp_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.3
+request - 214.00000000,0.06174000,
+price - 0.0000955364760000
+
+Sell	Symbol - xrp_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.3
+request - 735.40000000,0.06152000,
+price - 0.0000951960480000
+
+Buy	Symbol - xrp_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 11
+request - 12.00000000,0.00009548,
+price - 0.00009548
+
+Sell	Symbol - xrp_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 11
+request - 96.00000000,0.00009543,
+price - 0.00009543
+
+Buy	Symbol - xrp_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4
+request - 162.00000000,0.00264690,
+price - 0.0000955941169500
+
+Sell	Symbol - xrp_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4
+request - 67.00000000,0.00264056,
+price - 0.0000953651446800
+
+Buy	Symbol - xrp_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 27.7
+request - 64.20000000,0.36109000,
+price - 0.0000954573873136764801129342
+
+Sell	Symbol - xrp_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 27.8
+request - 858.30000000,0.36078000,
+price - 0.0000953754360271073707251499
+
+BuyPriceList
+xrp_bnb,	0.0000955364760000
+xrp_btc,	0.00009548
+xrp_eth,	0.0000955941169500
+xrp_usdt,	0.0000954573873136764801129342
+
+SellPriceList
+xrp_bnb,	0.0000951960480000
+xrp_btc,	0.00009543
+xrp_eth,	0.0000953651446800
+xrp_usdt,	0.0000953754360271073707251499
+
+BuyKey - xrp_usdt	BuyPrice - 0.0000954573873136764801129342
+SellKey - xrp_btc	SellPrice - 0.00009543
+precent - -0.029%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.36109000	buyPricePotential (ConversionPrice) - 0.00009546
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00009543	sellPricePotential (ConversionPrice) - 0.00009543
+percentPotential - -0.029%
+
+
+

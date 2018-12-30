@@ -1,0 +1,194 @@
+30/12/2018 23:42:08
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - enj_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 147
+request - 648.00000000,0.00685000,
+price - 0.0000106085950000
+
+Sell	Symbol - enj_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 148
+request - 1782.00000000,0.00680200,
+price - 0.0000105342574000
+
+Buy	Symbol - enj_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 95
+request - 3555.00000000,0.00001057,
+price - 0.00001057
+
+Sell	Symbol - enj_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 95
+request - 130.00000000,0.00001055,
+price - 0.00001055
+
+Buy	Symbol - enj_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 35
+request - 676.00000000,0.00029240,
+price - 0.0000105765466000
+
+Sell	Symbol - enj_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 35
+request - 678.00000000,0.00029152,
+price - 0.0000105447156800
+
+BuyPriceList
+enj_bnb,	0.0000106085950000
+enj_btc,	0.00001057
+enj_eth,	0.0000105765466000
+
+SellPriceList
+enj_bnb,	0.0000105342574000
+enj_btc,	0.00001055
+enj_eth,	0.0000105447156800
+
+BuyKey - enj_btc	BuyPrice - 0.00001057
+SellKey - enj_btc	SellPrice - 0.00001055
+BuyNextOffer - 0.00001057	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00001055	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+enj_bnb,	0.0000106085950000
+enj_eth,	0.0000105765466000
+
+SellPriceList
+enj_bnb,	0.0000105342574000
+enj_btc,	0.00001055
+enj_eth,	0.0000105447156800
+
+BuyKey - enj_eth	BuyPrice - 0.0000105765466000
+SellKey - enj_btc	SellPrice - 0.00001055
+precent - -0.251%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00029240	buyPricePotential (ConversionPrice) - 0.00001058
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00001055	sellPricePotential (ConversionPrice) - 0.00001055
+percentPotential - -0.251%
+
+
+
+30/12/2018 23:42:37
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - enj_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 148
+request - 648.00000000,0.00685000,
+price - 0.0000106017450000
+
+Sell	Symbol - enj_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 148
+request - 1782.00000000,0.00680200,
+price - 0.0000105274554000
+
+Buy	Symbol - enj_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 95
+request - 3555.00000000,0.00001057,
+price - 0.00001057
+
+Sell	Symbol - enj_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 95
+request - 130.00000000,0.00001055,
+price - 0.00001055
+
+Buy	Symbol - enj_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 35
+request - 676.00000000,0.00029240,
+price - 0.0000105629500000
+
+Sell	Symbol - enj_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 35
+request - 678.00000000,0.00029152,
+price - 0.0000105311600000
+
+BuyPriceList
+enj_bnb,	0.0000106017450000
+enj_btc,	0.00001057
+enj_eth,	0.0000105629500000
+
+SellPriceList
+enj_bnb,	0.0000105274554000
+enj_btc,	0.00001055
+enj_eth,	0.0000105311600000
+
+BuyKey - enj_eth	BuyPrice - 0.0000105629500000
+SellKey - enj_btc	SellPrice - 0.00001055
+precent - -0.123%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00029240	buyPricePotential (ConversionPrice) - 0.00001056
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00001055	sellPricePotential (ConversionPrice) - 0.00001055
+percentPotential - -0.123%
+
+
+
+30/12/2018 23:43:06
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - enj_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 148
+request - 648.00000000,0.00685000,
+price - 0.0000105996900000
+
+Sell	Symbol - enj_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 148
+request - 1782.00000000,0.00680200,
+price - 0.0000105254148000
+
+Buy	Symbol - enj_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 95
+request - 44823.00000000,0.00001057,
+price - 0.00001057
+
+Sell	Symbol - enj_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 95
+request - 130.00000000,0.00001055,
+price - 0.00001055
+
+Buy	Symbol - enj_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 35
+request - 676.00000000,0.00029240,
+price - 0.0000105601722000
+
+Sell	Symbol - enj_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 35
+request - 678.00000000,0.00029152,
+price - 0.0000105283905600
+
+BuyPriceList
+enj_bnb,	0.0000105996900000
+enj_btc,	0.00001057
+enj_eth,	0.0000105601722000
+
+SellPriceList
+enj_bnb,	0.0000105254148000
+enj_btc,	0.00001055
+enj_eth,	0.0000105283905600
+
+BuyKey - enj_eth	BuyPrice - 0.0000105601722000
+SellKey - enj_btc	SellPrice - 0.00001055
+precent - -0.096%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00029240	buyPricePotential (ConversionPrice) - 0.00001056
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00001055	sellPricePotential (ConversionPrice) - 0.00001055
+percentPotential - -0.096%
+
+
+

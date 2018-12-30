@@ -1,0 +1,150 @@
+30/12/2018 23:42:08
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - dock_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 426
+request - 89730.00000000,0.00000236,
+price - 0.00000236
+
+Sell	Symbol - dock_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 428
+request - 43061.00000000,0.00000234,
+price - 0.00000234
+
+Buy	Symbol - dock_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 155
+request - 232.00000000,0.00006485,
+price - 0.0000023457217750
+
+Sell	Symbol - dock_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 156
+request - 43061.00000000,0.00006449,
+price - 0.0000023327000350
+
+BuyPriceList
+dock_btc,	0.00000236
+dock_eth,	0.0000023457217750
+
+SellPriceList
+dock_btc,	0.00000234
+dock_eth,	0.0000023327000350
+
+BuyKey - dock_eth	BuyPrice - 0.0000023457217750
+SellKey - dock_btc	SellPrice - 0.00000234
+precent - -0.244%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00006485	buyPricePotential (ConversionPrice) - 0.00000235
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000234	sellPricePotential (ConversionPrice) - 0.00000234
+percentPotential - -0.244%
+
+
+
+30/12/2018 23:42:37
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - dock_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 428
+request - 123597.00000000,0.00000235,
+price - 0.00000235
+
+Sell	Symbol - dock_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 428
+request - 3504.00000000,0.00000234,
+price - 0.00000234
+
+Buy	Symbol - dock_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 156
+request - 1402.00000000,0.00006519,
+price - 0.0000023549887500
+
+Sell	Symbol - dock_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 155
+request - 1544.00000000,0.00006474,
+price - 0.0000023387325000
+
+BuyPriceList
+dock_btc,	0.00000235
+dock_eth,	0.0000023549887500
+
+SellPriceList
+dock_btc,	0.00000234
+dock_eth,	0.0000023387325000
+
+BuyKey - dock_btc	BuyPrice - 0.00000235
+SellKey - dock_btc	SellPrice - 0.00000234
+BuyNextOffer - 0.00000235	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00000234	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+dock_eth,	0.0000023549887500
+
+SellPriceList
+dock_btc,	0.00000234
+dock_eth,	0.0000023387325000
+
+BuyKey - dock_eth	BuyPrice - 0.0000023549887500
+SellKey - dock_btc	SellPrice - 0.00000234
+precent - -0.636%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00006519	buyPricePotential (ConversionPrice) - 0.00000235
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000234	sellPricePotential (ConversionPrice) - 0.00000234
+percentPotential - -0.636%
+
+
+
+30/12/2018 23:43:06
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - dock_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 428
+request - 91831.00000000,0.00000236,
+price - 0.00000236
+
+Sell	Symbol - dock_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 426
+request - 158927.00000000,0.00000235,
+price - 0.00000235
+
+Buy	Symbol - dock_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 155
+request - 1402.00000000,0.00006519,
+price - 0.0000023543694450
+
+Sell	Symbol - dock_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 155
+request - 61239.00000000,0.00006478,
+price - 0.0000023395620900
+
+BuyPriceList
+dock_btc,	0.00000236
+dock_eth,	0.0000023543694450
+
+SellPriceList
+dock_btc,	0.00000235
+dock_eth,	0.0000023395620900
+
+BuyKey - dock_eth	BuyPrice - 0.0000023543694450
+SellKey - dock_btc	SellPrice - 0.00000235
+precent - -0.186%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00006519	buyPricePotential (ConversionPrice) - 0.00000235
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000235	sellPricePotential (ConversionPrice) - 0.00000235
+percentPotential - -0.186%
+
+
+

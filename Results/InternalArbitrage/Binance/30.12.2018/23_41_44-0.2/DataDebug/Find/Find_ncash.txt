@@ -1,0 +1,180 @@
+30/12/2018 23:42:12
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - ncash_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3068
+request - 10352.00000000,0.00032600,
+price - 0.0000005048762000
+
+Sell	Symbol - ncash_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3106
+request - 707538.00000000,0.00032200,
+price - 0.0000004986814000
+
+Buy	Symbol - ncash_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2000
+request - 4457412.00000000,0.00000051,
+price - 0.00000051
+
+Sell	Symbol - ncash_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2000
+request - 23916545.00000000,0.00000050,
+price - 0.00000050
+
+Buy	Symbol - ncash_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 722
+request - 176004.00000000,0.00001407,
+price - 0.0000005089330050
+
+Sell	Symbol - ncash_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 722
+request - 7209.00000000,0.00001386,
+price - 0.0000005013369900
+
+BuyPriceList
+ncash_bnb,	0.0000005048762000
+ncash_btc,	0.00000051
+ncash_eth,	0.0000005089330050
+
+SellPriceList
+ncash_bnb,	0.0000004986814000
+ncash_btc,	0.00000050
+ncash_eth,	0.0000005013369900
+
+BuyKey - ncash_bnb	BuyPrice - 0.0000005048762000
+SellKey - ncash_eth	SellPrice - 0.0000005013369900
+precent - -0.701%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00032600	buyPricePotential (ConversionPrice) - 0.00000050
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00001386	sellPricePotential (ConversionPrice) - 0.00000050
+percentPotential - -0.701%
+
+
+
+30/12/2018 23:42:41
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - ncash_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3106
+request - 10352.00000000,0.00032600,
+price - 0.0000005045502000
+
+Sell	Symbol - ncash_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3106
+request - 707538.00000000,0.00032200,
+price - 0.0000004983594000
+
+Buy	Symbol - ncash_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2000
+request - 4844186.00000000,0.00000051,
+price - 0.00000051
+
+Sell	Symbol - ncash_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2000
+request - 23589208.00000000,0.00000050,
+price - 0.00000050
+
+Buy	Symbol - ncash_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 722
+request - 176004.00000000,0.00001407,
+price - 0.0000005082787500
+
+Sell	Symbol - ncash_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 722
+request - 7209.00000000,0.00001386,
+price - 0.0000005006925000
+
+BuyPriceList
+ncash_bnb,	0.0000005045502000
+ncash_btc,	0.00000051
+ncash_eth,	0.0000005082787500
+
+SellPriceList
+ncash_bnb,	0.0000004983594000
+ncash_btc,	0.00000050
+ncash_eth,	0.0000005006925000
+
+BuyKey - ncash_bnb	BuyPrice - 0.0000005045502000
+SellKey - ncash_eth	SellPrice - 0.0000005006925000
+precent - -0.765%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00032600	buyPricePotential (ConversionPrice) - 0.00000050
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00001386	sellPricePotential (ConversionPrice) - 0.00000050
+percentPotential - -0.765%
+
+
+
+30/12/2018 23:43:09
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - ncash_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3106
+request - 10352.00000000,0.00032600,
+price - 0.0000005044524000
+
+Sell	Symbol - ncash_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3106
+request - 707538.00000000,0.00032200,
+price - 0.0000004982628000
+
+Buy	Symbol - ncash_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2000
+request - 4877412.00000000,0.00000051,
+price - 0.00000051
+
+Sell	Symbol - ncash_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2000
+request - 23589207.00000000,0.00000050,
+price - 0.00000050
+
+Buy	Symbol - ncash_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 722
+request - 176004.00000000,0.00001407,
+price - 0.0000005081450850
+
+Sell	Symbol - ncash_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 721
+request - 31973.00000000,0.00001387,
+price - 0.0000005009219850
+
+BuyPriceList
+ncash_bnb,	0.0000005044524000
+ncash_btc,	0.00000051
+ncash_eth,	0.0000005081450850
+
+SellPriceList
+ncash_bnb,	0.0000004982628000
+ncash_btc,	0.00000050
+ncash_eth,	0.0000005009219850
+
+BuyKey - ncash_bnb	BuyPrice - 0.0000005044524000
+SellKey - ncash_eth	SellPrice - 0.0000005009219850
+precent - -0.700%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00032600	buyPricePotential (ConversionPrice) - 0.00000050
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00001387	sellPricePotential (ConversionPrice) - 0.00000050
+percentPotential - -0.700%
+
+
+

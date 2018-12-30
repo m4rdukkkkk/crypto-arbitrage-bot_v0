@@ -1,0 +1,138 @@
+30/12/2018 23:42:08
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - fun_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 878
+request - 127325.00000000,0.00000114,
+price - 0.00000114
+
+Sell	Symbol - fun_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 885
+request - 1212890.00000000,0.00000113,
+price - 0.00000113
+
+Buy	Symbol - fun_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 317
+request - 616.00000000,0.00003157,
+price - 0.0000011419342550
+
+Sell	Symbol - fun_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 319
+request - 321.00000000,0.00003142,
+price - 0.0000011365085300
+
+BuyPriceList
+fun_btc,	0.00000114
+fun_eth,	0.0000011419342550
+
+SellPriceList
+fun_btc,	0.00000113
+fun_eth,	0.0000011365085300
+
+BuyKey - fun_btc	BuyPrice - 0.00000114
+SellKey - fun_eth	SellPrice - 0.0000011365085300
+precent - -0.306%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000114	buyPricePotential (ConversionPrice) - 0.00000114
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00003142	sellPricePotential (ConversionPrice) - 0.00000114
+percentPotential - -0.306%
+
+
+
+30/12/2018 23:42:37
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - fun_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 885
+request - 780529.00000000,0.00000114,
+price - 0.00000114
+
+Sell	Symbol - fun_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 885
+request - 1193440.00000000,0.00000113,
+price - 0.00000113
+
+Buy	Symbol - fun_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 319
+request - 616.00000000,0.00003157,
+price - 0.0000011404662500
+
+Sell	Symbol - fun_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 319
+request - 321.00000000,0.00003142,
+price - 0.0000011350475000
+
+BuyPriceList
+fun_btc,	0.00000114
+fun_eth,	0.0000011404662500
+
+SellPriceList
+fun_btc,	0.00000113
+fun_eth,	0.0000011350475000
+
+BuyKey - fun_btc	BuyPrice - 0.00000114
+SellKey - fun_eth	SellPrice - 0.0000011350475000
+precent - -0.434%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000114	buyPricePotential (ConversionPrice) - 0.00000114
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00003142	sellPricePotential (ConversionPrice) - 0.00000114
+percentPotential - -0.434%
+
+
+
+30/12/2018 23:43:06
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - fun_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 885
+request - 759048.00000000,0.00000114,
+price - 0.00000114
+
+Sell	Symbol - fun_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 885
+request - 1171959.00000000,0.00000113,
+price - 0.00000113
+
+Buy	Symbol - fun_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 319
+request - 616.00000000,0.00003157,
+price - 0.0000011401663350
+
+Sell	Symbol - fun_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 319
+request - 321.00000000,0.00003142,
+price - 0.0000011347490100
+
+BuyPriceList
+fun_btc,	0.00000114
+fun_eth,	0.0000011401663350
+
+SellPriceList
+fun_btc,	0.00000113
+fun_eth,	0.0000011347490100
+
+BuyKey - fun_btc	BuyPrice - 0.00000114
+SellKey - fun_eth	SellPrice - 0.0000011347490100
+precent - -0.461%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000114	buyPricePotential (ConversionPrice) - 0.00000114
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00003142	sellPricePotential (ConversionPrice) - 0.00000113
+percentPotential - -0.461%
+
+
+

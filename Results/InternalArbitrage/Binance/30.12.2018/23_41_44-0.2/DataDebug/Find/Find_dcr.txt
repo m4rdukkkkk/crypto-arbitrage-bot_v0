@@ -1,0 +1,174 @@
+30/12/2018 23:42:07
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - dcr_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.32
+request - 1.40400000,3.18700000,
+price - 0.0049357069000000
+
+Sell	Symbol - dcr_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.321
+request - 6.53600000,3.12400000,
+price - 0.0048381388000000
+
+Buy	Symbol - dcr_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.206
+request - 1.49200000,0.00486900,
+price - 0.00486900
+
+Sell	Symbol - dcr_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.207
+request - 135.15800000,0.00484200,
+price - 0.00484200
+
+BuyPriceList
+dcr_bnb,	0.0049357069000000
+dcr_btc,	0.00486900
+
+SellPriceList
+dcr_bnb,	0.0048381388000000
+dcr_btc,	0.00484200
+
+BuyKey - dcr_btc	BuyPrice - 0.00486900
+SellKey - dcr_btc	SellPrice - 0.00484200
+BuyNextOffer - 0.0049357069000000	BuyNextOfferDifrent - 0.0000667069000000
+SellNextOffer - 0.0048381388000000	SellNextOfferDifrent - 0.0000038612000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - True
+BuyPriceList
+dcr_bnb,	0.0049357069000000
+dcr_btc,	0.00486900
+
+SellPriceList
+dcr_bnb,	0.0048381388000000
+
+BuyKey - dcr_btc	BuyPrice - 0.00486900
+SellKey - dcr_bnb	SellPrice - 0.0048381388000000
+precent - -0.634%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00486900	buyPricePotential (ConversionPrice) - 0.00486900
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 3.12400000	sellPricePotential (ConversionPrice) - 0.00483814
+percentPotential - -0.634%
+
+
+
+30/12/2018 23:42:37
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - dcr_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.321
+request - 2.09700000,3.18200000,
+price - 0.0049247814000000
+
+Sell	Symbol - dcr_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.321
+request - 6.53600000,3.12400000,
+price - 0.0048350148000000
+
+Buy	Symbol - dcr_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.207
+request - 2.56300000,0.00486300,
+price - 0.00486300
+
+Sell	Symbol - dcr_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.207
+request - 135.15800000,0.00484200,
+price - 0.00484200
+
+BuyPriceList
+dcr_bnb,	0.0049247814000000
+dcr_btc,	0.00486300
+
+SellPriceList
+dcr_bnb,	0.0048350148000000
+dcr_btc,	0.00484200
+
+BuyKey - dcr_btc	BuyPrice - 0.00486300
+SellKey - dcr_btc	SellPrice - 0.00484200
+BuyNextOffer - 0.0049247814000000	BuyNextOfferDifrent - 0.0000617814000000
+SellNextOffer - 0.0048350148000000	SellNextOfferDifrent - 0.0000069852000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - True
+BuyPriceList
+dcr_bnb,	0.0049247814000000
+dcr_btc,	0.00486300
+
+SellPriceList
+dcr_bnb,	0.0048350148000000
+
+BuyKey - dcr_btc	BuyPrice - 0.00486300
+SellKey - dcr_bnb	SellPrice - 0.0048350148000000
+precent - -0.575%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00486300	buyPricePotential (ConversionPrice) - 0.00486300
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 3.12400000	sellPricePotential (ConversionPrice) - 0.00483501
+percentPotential - -0.575%
+
+
+
+30/12/2018 23:43:05
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - dcr_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.321
+request - 2.09700000,3.18200000,
+price - 0.0049247814000000
+
+Sell	Symbol - dcr_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.321
+request - 6.53600000,3.12400000,
+price - 0.0048350148000000
+
+Buy	Symbol - dcr_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.207
+request - 2.56300000,0.00486300,
+price - 0.00486300
+
+Sell	Symbol - dcr_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.207
+request - 135.15800000,0.00484200,
+price - 0.00484200
+
+BuyPriceList
+dcr_bnb,	0.0049247814000000
+dcr_btc,	0.00486300
+
+SellPriceList
+dcr_bnb,	0.0048350148000000
+dcr_btc,	0.00484200
+
+BuyKey - dcr_btc	BuyPrice - 0.00486300
+SellKey - dcr_btc	SellPrice - 0.00484200
+BuyNextOffer - 0.0049247814000000	BuyNextOfferDifrent - 0.0000617814000000
+SellNextOffer - 0.0048350148000000	SellNextOfferDifrent - 0.0000069852000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - True
+BuyPriceList
+dcr_bnb,	0.0049247814000000
+dcr_btc,	0.00486300
+
+SellPriceList
+dcr_bnb,	0.0048350148000000
+
+BuyKey - dcr_btc	BuyPrice - 0.00486300
+SellKey - dcr_bnb	SellPrice - 0.0048350148000000
+precent - -0.575%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00486300	buyPricePotential (ConversionPrice) - 0.00486300
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 3.12400000	sellPricePotential (ConversionPrice) - 0.00483501
+percentPotential - -0.575%
+
+
+

@@ -1,0 +1,194 @@
+30/12/2018 23:42:09
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - gto_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 237.6
+request - 244.00000000,0.00422000,
+price - 0.0000065355140000
+
+Sell	Symbol - gto_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 238.1
+request - 2104.00000000,0.00420000,
+price - 0.0000065045400000
+
+Buy	Symbol - gto_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 154
+request - 1580.00000000,0.00000652,
+price - 0.00000652
+
+Sell	Symbol - gto_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 154
+request - 168.00000000,0.00000651,
+price - 0.00000651
+
+Buy	Symbol - gto_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 56
+request - 2013.00000000,0.00018098,
+price - 0.0000065463180700
+
+Sell	Symbol - gto_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 56
+request - 186.00000000,0.00018006,
+price - 0.0000065130402900
+
+BuyPriceList
+gto_bnb,	0.0000065355140000
+gto_btc,	0.00000652
+gto_eth,	0.0000065463180700
+
+SellPriceList
+gto_bnb,	0.0000065045400000
+gto_btc,	0.00000651
+gto_eth,	0.0000065130402900
+
+BuyKey - gto_btc	BuyPrice - 0.00000652
+SellKey - gto_eth	SellPrice - 0.0000065130402900
+precent - -0.107%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000652	buyPricePotential (ConversionPrice) - 0.00000652
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00018006	sellPricePotential (ConversionPrice) - 0.00000651
+percentPotential - -0.107%
+
+
+
+30/12/2018 23:42:38
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - gto_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 238.1
+request - 244.00000000,0.00422000,
+price - 0.0000065312940000
+
+Sell	Symbol - gto_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 238.1
+request - 2104.00000000,0.00420000,
+price - 0.0000065003400000
+
+Buy	Symbol - gto_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 154
+request - 1580.00000000,0.00000652,
+price - 0.00000652
+
+Sell	Symbol - gto_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 154
+request - 168.00000000,0.00000651,
+price - 0.00000651
+
+Buy	Symbol - gto_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 56
+request - 181.00000000,0.00018098,
+price - 0.0000065379025000
+
+Sell	Symbol - gto_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 56
+request - 1583.00000000,0.00018007,
+price - 0.0000065050287500
+
+BuyPriceList
+gto_bnb,	0.0000065312940000
+gto_btc,	0.00000652
+gto_eth,	0.0000065379025000
+
+SellPriceList
+gto_bnb,	0.0000065003400000
+gto_btc,	0.00000651
+gto_eth,	0.0000065050287500
+
+BuyKey - gto_btc	BuyPrice - 0.00000652
+SellKey - gto_btc	SellPrice - 0.00000651
+BuyNextOffer - 0.00000652	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00000651	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+gto_bnb,	0.0000065312940000
+gto_eth,	0.0000065379025000
+
+SellPriceList
+gto_bnb,	0.0000065003400000
+gto_btc,	0.00000651
+gto_eth,	0.0000065050287500
+
+BuyKey - gto_bnb	BuyPrice - 0.0000065312940000
+SellKey - gto_btc	SellPrice - 0.00000651
+precent - -0.326%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00422000	buyPricePotential (ConversionPrice) - 0.00000653
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000651	sellPricePotential (ConversionPrice) - 0.00000651
+percentPotential - -0.326%
+
+
+
+30/12/2018 23:43:06
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - gto_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 238.1
+request - 244.00000000,0.00422000,
+price - 0.0000065300280000
+
+Sell	Symbol - gto_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 238.1
+request - 2104.00000000,0.00420000,
+price - 0.0000064990800000
+
+Buy	Symbol - gto_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 154
+request - 1580.00000000,0.00000652,
+price - 0.00000652
+
+Sell	Symbol - gto_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 154
+request - 168.00000000,0.00000651,
+price - 0.00000651
+
+Buy	Symbol - gto_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 56
+request - 1297.00000000,0.00018053,
+price - 0.0000065199312150
+
+Sell	Symbol - gto_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 56
+request - 1582.00000000,0.00018007,
+price - 0.0000065033180850
+
+BuyPriceList
+gto_bnb,	0.0000065300280000
+gto_btc,	0.00000652
+gto_eth,	0.0000065199312150
+
+SellPriceList
+gto_bnb,	0.0000064990800000
+gto_btc,	0.00000651
+gto_eth,	0.0000065033180850
+
+BuyKey - gto_eth	BuyPrice - 0.0000065199312150
+SellKey - gto_btc	SellPrice - 0.00000651
+precent - -0.152%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00018053	buyPricePotential (ConversionPrice) - 0.00000652
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000651	sellPricePotential (ConversionPrice) - 0.00000651
+percentPotential - -0.152%
+
+
+

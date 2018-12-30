@@ -1,0 +1,116 @@
+30/12/2018 23:42:11
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - mith_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 90.8
+request - 91.10000000,0.01100000,
+price - 0.0000170357000000
+
+Sell	Symbol - mith_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 92.1
+request - 2044.20000000,0.01086000,
+price - 0.0000168188820000
+
+Buy	Symbol - mith_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 59
+request - 7824.00000000,0.00001698,
+price - 0.00001698
+
+Sell	Symbol - mith_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 59
+request - 582.00000000,0.00001695,
+price - 0.00001695
+
+BuyPriceList
+mith_bnb,	0.0000170357000000
+mith_btc,	0.00001698
+
+SellPriceList
+mith_bnb,	0.0000168188820000
+mith_btc,	0.00001695
+
+BuyKey - mith_btc	BuyPrice - 0.00001698
+SellKey - mith_btc	SellPrice - 0.00001695
+BuyNextOffer - 0.0000170357000000	BuyNextOfferDifrent - 0.0000000557000000
+SellNextOffer - 0.0000168188820000	SellNextOfferDifrent - 0.0000001311180000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+mith_bnb,	0.0000170357000000
+
+SellPriceList
+mith_bnb,	0.0000168188820000
+mith_btc,	0.00001695
+
+BuyKey - mith_bnb	BuyPrice - 0.0000170357000000
+SellKey - mith_btc	SellPrice - 0.00001695
+precent - -0.503%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.01100000	buyPricePotential (ConversionPrice) - 0.00001704
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00001695	sellPricePotential (ConversionPrice) - 0.00001695
+percentPotential - -0.503%
+
+
+
+30/12/2018 23:43:08
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - mith_bnb
+while (amaunt < item.MinAmount) count - 5
+MinAmount - 92
+request - 3715.90000000,0.01108000,
+price - 0.0000171451920000
+
+Sell	Symbol - mith_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 92
+request - 3385.10000000,0.01088000,
+price - 0.0000168357120000
+
+Buy	Symbol - mith_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 60
+request - 7824.00000000,0.00001698,
+price - 0.00001698
+
+Sell	Symbol - mith_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 60
+request - 6898.00000000,0.00001692,
+price - 0.00001692
+
+BuyPriceList
+mith_bnb,	0.0000171451920000
+mith_btc,	0.00001698
+
+SellPriceList
+mith_bnb,	0.0000168357120000
+mith_btc,	0.00001692
+
+BuyKey - mith_btc	BuyPrice - 0.00001698
+SellKey - mith_btc	SellPrice - 0.00001692
+BuyNextOffer - 0.0000171451920000	BuyNextOfferDifrent - 0.0000001651920000
+SellNextOffer - 0.0000168357120000	SellNextOfferDifrent - 0.0000000842880000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - True
+BuyPriceList
+mith_bnb,	0.0000171451920000
+mith_btc,	0.00001698
+
+SellPriceList
+mith_bnb,	0.0000168357120000
+
+BuyKey - mith_btc	BuyPrice - 0.00001698
+SellKey - mith_bnb	SellPrice - 0.0000168357120000
+precent - -0.850%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00001698	buyPricePotential (ConversionPrice) - 0.00001698
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.01088000	sellPricePotential (ConversionPrice) - 0.00001684
+percentPotential - -0.850%
+
+
+

@@ -1,0 +1,174 @@
+30/12/2018 23:42:18
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - zrx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 13
+request - 14.00000000,0.00008325,
+price - 0.00008325
+
+Sell	Symbol - zrx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 13
+request - 110.00000000,0.00008311,
+price - 0.00008311
+
+Buy	Symbol - zrx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5
+request - 342.00000000,0.00230335,
+price - 0.0000833156245250
+
+Sell	Symbol - zrx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5
+request - 340.00000000,0.00229489,
+price - 0.0000830096136350
+
+BuyPriceList
+zrx_btc,	0.00008325
+zrx_eth,	0.0000833156245250
+
+SellPriceList
+zrx_btc,	0.00008311
+zrx_eth,	0.0000830096136350
+
+BuyKey - zrx_btc	BuyPrice - 0.00008325
+SellKey - zrx_btc	SellPrice - 0.00008311
+BuyNextOffer - 0.00008325	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00008311	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+zrx_eth,	0.0000833156245250
+
+SellPriceList
+zrx_btc,	0.00008311
+zrx_eth,	0.0000830096136350
+
+BuyKey - zrx_eth	BuyPrice - 0.0000833156245250
+SellKey - zrx_btc	SellPrice - 0.00008311
+precent - -0.247%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00230335	buyPricePotential (ConversionPrice) - 0.00008332
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00008311	sellPricePotential (ConversionPrice) - 0.00008311
+percentPotential - -0.247%
+
+
+
+30/12/2018 23:42:47
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - zrx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 13
+request - 110.00000000,0.00008326,
+price - 0.00008326
+
+Sell	Symbol - zrx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 13
+request - 110.00000000,0.00008311,
+price - 0.00008311
+
+Buy	Symbol - zrx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5
+request - 342.00000000,0.00230730,
+price - 0.0000833512125000
+
+Sell	Symbol - zrx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5
+request - 340.00000000,0.00229908,
+price - 0.0000830542650000
+
+BuyPriceList
+zrx_btc,	0.00008326
+zrx_eth,	0.0000833512125000
+
+SellPriceList
+zrx_btc,	0.00008311
+zrx_eth,	0.0000830542650000
+
+BuyKey - zrx_btc	BuyPrice - 0.00008326
+SellKey - zrx_btc	SellPrice - 0.00008311
+BuyNextOffer - 0.00008326	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00008311	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+zrx_eth,	0.0000833512125000
+
+SellPriceList
+zrx_btc,	0.00008311
+zrx_eth,	0.0000830542650000
+
+BuyKey - zrx_eth	BuyPrice - 0.0000833512125000
+SellKey - zrx_btc	SellPrice - 0.00008311
+precent - -0.289%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00230730	buyPricePotential (ConversionPrice) - 0.00008335
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00008311	sellPricePotential (ConversionPrice) - 0.00008311
+percentPotential - -0.289%
+
+
+
+30/12/2018 23:43:26
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - zrx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 13
+request - 110.00000000,0.00008324,
+price - 0.00008324
+
+Sell	Symbol - zrx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 13
+request - 222.00000000,0.00008308,
+price - 0.00008308
+
+Buy	Symbol - zrx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5
+request - 5.00000000,0.00230545,
+price - 0.0000832624794750
+
+Sell	Symbol - zrx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5
+request - 61.00000000,0.00229610,
+price - 0.0000829247995500
+
+BuyPriceList
+zrx_btc,	0.00008324
+zrx_eth,	0.0000832624794750
+
+SellPriceList
+zrx_btc,	0.00008308
+zrx_eth,	0.0000829247995500
+
+BuyKey - zrx_btc	BuyPrice - 0.00008324
+SellKey - zrx_btc	SellPrice - 0.00008308
+BuyNextOffer - 0.00008324	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00008308	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+zrx_eth,	0.0000832624794750
+
+SellPriceList
+zrx_btc,	0.00008308
+zrx_eth,	0.0000829247995500
+
+BuyKey - zrx_eth	BuyPrice - 0.0000832624794750
+SellKey - zrx_btc	SellPrice - 0.00008308
+precent - -0.219%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00230545	buyPricePotential (ConversionPrice) - 0.00008326
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00008308	sellPricePotential (ConversionPrice) - 0.00008308
+percentPotential - -0.219%
+
+
+

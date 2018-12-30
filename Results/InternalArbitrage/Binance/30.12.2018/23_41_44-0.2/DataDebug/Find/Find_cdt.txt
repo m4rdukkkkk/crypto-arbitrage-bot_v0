@@ -1,0 +1,174 @@
+30/12/2018 23:42:07
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - cdt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 486
+request - 89283.00000000,0.00000207,
+price - 0.00000207
+
+Sell	Symbol - cdt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 486
+request - 3361.00000000,0.00000206,
+price - 0.00000206
+
+Buy	Symbol - cdt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 174
+request - 1044.00000000,0.00005747,
+price - 0.0000020787761050
+
+Sell	Symbol - cdt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 176
+request - 1456.00000000,0.00005692,
+price - 0.0000020588817800
+
+BuyPriceList
+cdt_btc,	0.00000207
+cdt_eth,	0.0000020787761050
+
+SellPriceList
+cdt_btc,	0.00000206
+cdt_eth,	0.0000020588817800
+
+BuyKey - cdt_btc	BuyPrice - 0.00000207
+SellKey - cdt_btc	SellPrice - 0.00000206
+BuyNextOffer - 0.00000207	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00000206	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+cdt_eth,	0.0000020787761050
+
+SellPriceList
+cdt_btc,	0.00000206
+cdt_eth,	0.0000020588817800
+
+BuyKey - cdt_eth	BuyPrice - 0.0000020787761050
+SellKey - cdt_btc	SellPrice - 0.00000206
+precent - -0.903%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00005747	buyPricePotential (ConversionPrice) - 0.00000208
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000206	sellPricePotential (ConversionPrice) - 0.00000206
+percentPotential - -0.903%
+
+
+
+30/12/2018 23:42:36
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - cdt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 486
+request - 89283.00000000,0.00000207,
+price - 0.00000207
+
+Sell	Symbol - cdt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 486
+request - 3361.00000000,0.00000206,
+price - 0.00000206
+
+Buy	Symbol - cdt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 176
+request - 1044.00000000,0.00005747,
+price - 0.0000020761037500
+
+Sell	Symbol - cdt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 176
+request - 1456.00000000,0.00005692,
+price - 0.0000020562350000
+
+BuyPriceList
+cdt_btc,	0.00000207
+cdt_eth,	0.0000020761037500
+
+SellPriceList
+cdt_btc,	0.00000206
+cdt_eth,	0.0000020562350000
+
+BuyKey - cdt_btc	BuyPrice - 0.00000207
+SellKey - cdt_btc	SellPrice - 0.00000206
+BuyNextOffer - 0.00000207	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00000206	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+cdt_eth,	0.0000020761037500
+
+SellPriceList
+cdt_btc,	0.00000206
+cdt_eth,	0.0000020562350000
+
+BuyKey - cdt_eth	BuyPrice - 0.0000020761037500
+SellKey - cdt_btc	SellPrice - 0.00000206
+precent - -0.776%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00005747	buyPricePotential (ConversionPrice) - 0.00000208
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000206	sellPricePotential (ConversionPrice) - 0.00000206
+percentPotential - -0.776%
+
+
+
+30/12/2018 23:43:05
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - cdt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 486
+request - 89283.00000000,0.00000207,
+price - 0.00000207
+
+Sell	Symbol - cdt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 486
+request - 3361.00000000,0.00000206,
+price - 0.00000206
+
+Buy	Symbol - cdt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 176
+request - 1044.00000000,0.00005747,
+price - 0.0000020761037500
+
+Sell	Symbol - cdt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 176
+request - 1456.00000000,0.00005692,
+price - 0.0000020562350000
+
+BuyPriceList
+cdt_btc,	0.00000207
+cdt_eth,	0.0000020761037500
+
+SellPriceList
+cdt_btc,	0.00000206
+cdt_eth,	0.0000020562350000
+
+BuyKey - cdt_btc	BuyPrice - 0.00000207
+SellKey - cdt_btc	SellPrice - 0.00000206
+BuyNextOffer - 0.00000207	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00000206	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+cdt_eth,	0.0000020761037500
+
+SellPriceList
+cdt_btc,	0.00000206
+cdt_eth,	0.0000020562350000
+
+BuyKey - cdt_eth	BuyPrice - 0.0000020761037500
+SellKey - cdt_btc	SellPrice - 0.00000206
+precent - -0.776%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00005747	buyPricePotential (ConversionPrice) - 0.00000208
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000206	sellPricePotential (ConversionPrice) - 0.00000206
+percentPotential - -0.776%
+
+
+

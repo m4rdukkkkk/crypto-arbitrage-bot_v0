@@ -1,0 +1,174 @@
+30/12/2018 23:42:10
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - lun_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2.39
+request - 95.24000000,0.00042000,
+price - 0.00042000
+
+Sell	Symbol - lun_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2.39
+request - 91.59000000,0.00041900,
+price - 0.00041900
+
+Buy	Symbol - lun_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.86
+request - 52.00000000,0.01165900,
+price - 0.0004217235185000
+
+Sell	Symbol - lun_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.87
+request - 91.59000000,0.01154100,
+price - 0.0004174552815000
+
+BuyPriceList
+lun_btc,	0.00042000
+lun_eth,	0.0004217235185000
+
+SellPriceList
+lun_btc,	0.00041900
+lun_eth,	0.0004174552815000
+
+BuyKey - lun_btc	BuyPrice - 0.00042000
+SellKey - lun_btc	SellPrice - 0.00041900
+BuyNextOffer - 0.00042000	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00041900	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+lun_eth,	0.0004217235185000
+
+SellPriceList
+lun_btc,	0.00041900
+lun_eth,	0.0004174552815000
+
+BuyKey - lun_eth	BuyPrice - 0.0004217235185000
+SellKey - lun_btc	SellPrice - 0.00041900
+precent - -0.646%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.01165900	buyPricePotential (ConversionPrice) - 0.00042172
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00041900	sellPricePotential (ConversionPrice) - 0.00041900
+percentPotential - -0.646%
+
+
+
+30/12/2018 23:42:39
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - lun_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2.39
+request - 5.69000000,0.00041990,
+price - 0.00041990
+
+Sell	Symbol - lun_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2.4
+request - 2.85000000,0.00041820,
+price - 0.00041820
+
+Buy	Symbol - lun_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.87
+request - 52.00000000,0.01165900,
+price - 0.0004211813750000
+
+Sell	Symbol - lun_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.87
+request - 2.85000000,0.01154500,
+price - 0.0004170631250000
+
+BuyPriceList
+lun_btc,	0.00041990
+lun_eth,	0.0004211813750000
+
+SellPriceList
+lun_btc,	0.00041820
+lun_eth,	0.0004170631250000
+
+BuyKey - lun_btc	BuyPrice - 0.00041990
+SellKey - lun_btc	SellPrice - 0.00041820
+BuyNextOffer - 0.00041990	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00041820	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+lun_eth,	0.0004211813750000
+
+SellPriceList
+lun_btc,	0.00041820
+lun_eth,	0.0004170631250000
+
+BuyKey - lun_eth	BuyPrice - 0.0004211813750000
+SellKey - lun_btc	SellPrice - 0.00041820
+precent - -0.708%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.01165900	buyPricePotential (ConversionPrice) - 0.00042118
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00041820	sellPricePotential (ConversionPrice) - 0.00041820
+percentPotential - -0.708%
+
+
+
+30/12/2018 23:43:07
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - lun_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2.4
+request - 5.69000000,0.00041990,
+price - 0.00041990
+
+Sell	Symbol - lun_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2.4
+request - 2.85000000,0.00041820,
+price - 0.00041820
+
+Buy	Symbol - lun_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.87
+request - 2.28000000,0.01165800,
+price - 0.0004210344990000
+
+Sell	Symbol - lun_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.87
+request - 68.46000000,0.01154700,
+price - 0.0004170256785000
+
+BuyPriceList
+lun_btc,	0.00041990
+lun_eth,	0.0004210344990000
+
+SellPriceList
+lun_btc,	0.00041820
+lun_eth,	0.0004170256785000
+
+BuyKey - lun_btc	BuyPrice - 0.00041990
+SellKey - lun_btc	SellPrice - 0.00041820
+BuyNextOffer - 0.00041990	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00041820	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+lun_eth,	0.0004210344990000
+
+SellPriceList
+lun_btc,	0.00041820
+lun_eth,	0.0004170256785000
+
+BuyKey - lun_eth	BuyPrice - 0.0004210344990000
+SellKey - lun_btc	SellPrice - 0.00041820
+precent - -0.673%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.01165800	buyPricePotential (ConversionPrice) - 0.00042103
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00041820	sellPricePotential (ConversionPrice) - 0.00041820
+percentPotential - -0.673%
+
+
+

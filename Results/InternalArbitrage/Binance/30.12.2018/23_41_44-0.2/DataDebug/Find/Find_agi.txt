@@ -1,0 +1,194 @@
+30/12/2018 23:42:06
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - agi_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 125.2
+request - 262.50000000,0.00806000,
+price - 0.0000124825220000
+
+Sell	Symbol - agi_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 124.9
+request - 763.60000000,0.00801000,
+price - 0.0000124050870000
+
+Buy	Symbol - agi_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 81
+request - 96.00000000,0.00001245,
+price - 0.00001245
+
+Sell	Symbol - agi_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 81
+request - 260.00000000,0.00001244,
+price - 0.00001244
+
+Buy	Symbol - agi_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 30
+request - 49.00000000,0.00034472,
+price - 0.0000124690394800
+
+Sell	Symbol - agi_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 30
+request - 260.00000000,0.00034287,
+price - 0.0000124021222050
+
+BuyPriceList
+agi_bnb,	0.0000124825220000
+agi_btc,	0.00001245
+agi_eth,	0.0000124690394800
+
+SellPriceList
+agi_bnb,	0.0000124050870000
+agi_btc,	0.00001244
+agi_eth,	0.0000124021222050
+
+BuyKey - agi_btc	BuyPrice - 0.00001245
+SellKey - agi_btc	SellPrice - 0.00001244
+BuyNextOffer - 0.00001245	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00001244	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+agi_bnb,	0.0000124825220000
+agi_eth,	0.0000124690394800
+
+SellPriceList
+agi_bnb,	0.0000124050870000
+agi_btc,	0.00001244
+agi_eth,	0.0000124021222050
+
+BuyKey - agi_eth	BuyPrice - 0.0000124690394800
+SellKey - agi_btc	SellPrice - 0.00001244
+precent - -0.233%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00034472	buyPricePotential (ConversionPrice) - 0.00001247
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00001244	sellPricePotential (ConversionPrice) - 0.00001244
+percentPotential - -0.233%
+
+
+
+30/12/2018 23:42:35
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - agi_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 124.9
+request - 262.50000000,0.00806000,
+price - 0.0000124744620000
+
+Sell	Symbol - agi_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 124.9
+request - 763.60000000,0.00801000,
+price - 0.0000123970770000
+
+Buy	Symbol - agi_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 81
+request - 2537.00000000,0.00001246,
+price - 0.00001246
+
+Sell	Symbol - agi_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 81
+request - 260.00000000,0.00001244,
+price - 0.00001244
+
+Buy	Symbol - agi_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 30
+request - 49.00000000,0.00034472,
+price - 0.0000124530100000
+
+Sell	Symbol - agi_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 30
+request - 260.00000000,0.00034304,
+price - 0.0000123923200000
+
+BuyPriceList
+agi_bnb,	0.0000124744620000
+agi_btc,	0.00001246
+agi_eth,	0.0000124530100000
+
+SellPriceList
+agi_bnb,	0.0000123970770000
+agi_btc,	0.00001244
+agi_eth,	0.0000123923200000
+
+BuyKey - agi_eth	BuyPrice - 0.0000124530100000
+SellKey - agi_btc	SellPrice - 0.00001244
+precent - -0.104%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00034472	buyPricePotential (ConversionPrice) - 0.00001245
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00001244	sellPricePotential (ConversionPrice) - 0.00001244
+percentPotential - -0.104%
+
+
+
+30/12/2018 23:43:04
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - agi_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 124.9
+request - 262.50000000,0.00806000,
+price - 0.0000124744620000
+
+Sell	Symbol - agi_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 124.9
+request - 763.60000000,0.00801000,
+price - 0.0000123970770000
+
+Buy	Symbol - agi_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 81
+request - 2537.00000000,0.00001246,
+price - 0.00001246
+
+Sell	Symbol - agi_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 81
+request - 260.00000000,0.00001244,
+price - 0.00001244
+
+Buy	Symbol - agi_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 30
+request - 49.00000000,0.00034472,
+price - 0.0000124530100000
+
+Sell	Symbol - agi_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 30
+request - 260.00000000,0.00034304,
+price - 0.0000123923200000
+
+BuyPriceList
+agi_bnb,	0.0000124744620000
+agi_btc,	0.00001246
+agi_eth,	0.0000124530100000
+
+SellPriceList
+agi_bnb,	0.0000123970770000
+agi_btc,	0.00001244
+agi_eth,	0.0000123923200000
+
+BuyKey - agi_eth	BuyPrice - 0.0000124530100000
+SellKey - agi_btc	SellPrice - 0.00001244
+precent - -0.104%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00034472	buyPricePotential (ConversionPrice) - 0.00001245
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00001244	sellPricePotential (ConversionPrice) - 0.00001244
+percentPotential - -0.104%
+
+
+

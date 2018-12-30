@@ -1,0 +1,222 @@
+30/12/2018 23:42:07
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - blz_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 128.6
+request - 449.90000000,0.00780000,
+price - 0.0000120798600000
+
+Sell	Symbol - blz_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 131.3
+request - 168.00000000,0.00762000,
+price - 0.0000118010940000
+
+Buy	Symbol - blz_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 84
+request - 367.00000000,0.00001191,
+price - 0.00001191
+
+Sell	Symbol - blz_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 85
+request - 168.00000000,0.00001186,
+price - 0.00001186
+
+Buy	Symbol - blz_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 31
+request - 938.00000000,0.00033106,
+price - 0.0000119749367900
+
+Sell	Symbol - blz_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 31
+request - 75.00000000,0.00032772,
+price - 0.0000118541239800
+
+BuyPriceList
+blz_bnb,	0.0000120798600000
+blz_btc,	0.00001191
+blz_eth,	0.0000119749367900
+
+SellPriceList
+blz_bnb,	0.0000118010940000
+blz_btc,	0.00001186
+blz_eth,	0.0000118541239800
+
+BuyKey - blz_btc	BuyPrice - 0.00001191
+SellKey - blz_btc	SellPrice - 0.00001186
+BuyNextOffer - 0.00001191	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00001186	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+blz_bnb,	0.0000120798600000
+blz_eth,	0.0000119749367900
+
+SellPriceList
+blz_bnb,	0.0000118010940000
+blz_btc,	0.00001186
+blz_eth,	0.0000118541239800
+
+BuyKey - blz_eth	BuyPrice - 0.0000119749367900
+SellKey - blz_btc	SellPrice - 0.00001186
+precent - -0.960%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00033106	buyPricePotential (ConversionPrice) - 0.00001197
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00001186	sellPricePotential (ConversionPrice) - 0.00001186
+percentPotential - -0.960%
+
+
+
+30/12/2018 23:42:36
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - blz_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 131.3
+request - 449.90000000,0.00780000,
+price - 0.0000120720600000
+
+Sell	Symbol - blz_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 131.3
+request - 884.00000000,0.00762000,
+price - 0.0000117934740000
+
+Buy	Symbol - blz_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 85
+request - 2354.00000000,0.00001187,
+price - 0.00001187
+
+Sell	Symbol - blz_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 85
+request - 783.00000000,0.00001185,
+price - 0.00001185
+
+Buy	Symbol - blz_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 31
+request - 898.00000000,0.00033096,
+price - 0.0000119559300000
+
+Sell	Symbol - blz_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 31
+request - 641.00000000,0.00032741,
+price - 0.0000118276862500
+
+BuyPriceList
+blz_bnb,	0.0000120720600000
+blz_btc,	0.00001187
+blz_eth,	0.0000119559300000
+
+SellPriceList
+blz_bnb,	0.0000117934740000
+blz_btc,	0.00001185
+blz_eth,	0.0000118276862500
+
+BuyKey - blz_btc	BuyPrice - 0.00001187
+SellKey - blz_btc	SellPrice - 0.00001185
+BuyNextOffer - 0.00001187	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00001185	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+blz_bnb,	0.0000120720600000
+blz_eth,	0.0000119559300000
+
+SellPriceList
+blz_bnb,	0.0000117934740000
+blz_btc,	0.00001185
+blz_eth,	0.0000118276862500
+
+BuyKey - blz_eth	BuyPrice - 0.0000119559300000
+SellKey - blz_btc	SellPrice - 0.00001185
+precent - -0.886%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00033096	buyPricePotential (ConversionPrice) - 0.00001196
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00001185	sellPricePotential (ConversionPrice) - 0.00001185
+percentPotential - -0.886%
+
+
+
+30/12/2018 23:43:04
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - blz_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 131.3
+request - 449.90000000,0.00780000,
+price - 0.0000120720600000
+
+Sell	Symbol - blz_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 131.3
+request - 884.00000000,0.00762000,
+price - 0.0000117934740000
+
+Buy	Symbol - blz_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 85
+request - 2354.00000000,0.00001187,
+price - 0.00001187
+
+Sell	Symbol - blz_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 85
+request - 783.00000000,0.00001185,
+price - 0.00001185
+
+Buy	Symbol - blz_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 31
+request - 898.00000000,0.00033096,
+price - 0.0000119559300000
+
+Sell	Symbol - blz_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 31
+request - 641.00000000,0.00032741,
+price - 0.0000118276862500
+
+BuyPriceList
+blz_bnb,	0.0000120720600000
+blz_btc,	0.00001187
+blz_eth,	0.0000119559300000
+
+SellPriceList
+blz_bnb,	0.0000117934740000
+blz_btc,	0.00001185
+blz_eth,	0.0000118276862500
+
+BuyKey - blz_btc	BuyPrice - 0.00001187
+SellKey - blz_btc	SellPrice - 0.00001185
+BuyNextOffer - 0.00001187	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00001185	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+blz_bnb,	0.0000120720600000
+blz_eth,	0.0000119559300000
+
+SellPriceList
+blz_bnb,	0.0000117934740000
+blz_btc,	0.00001185
+blz_eth,	0.0000118276862500
+
+BuyKey - blz_eth	BuyPrice - 0.0000119559300000
+SellKey - blz_btc	SellPrice - 0.00001185
+precent - -0.886%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00033096	buyPricePotential (ConversionPrice) - 0.00001196
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00001185	sellPricePotential (ConversionPrice) - 0.00001185
+percentPotential - -0.886%
+
+
+

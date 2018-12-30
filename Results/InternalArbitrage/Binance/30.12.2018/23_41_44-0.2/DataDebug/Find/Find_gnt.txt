@@ -1,0 +1,208 @@
+30/12/2018 23:42:08
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - gnt_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 84.5
+request - 530.00000000,0.01189000,
+price - 0.0000184140430000
+
+Sell	Symbol - gnt_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 84.9
+request - 7664.40000000,0.01178000,
+price - 0.0000182436860000
+
+Buy	Symbol - gnt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 55
+request - 10000.00000000,0.00001835,
+price - 0.00001835
+
+Sell	Symbol - gnt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 55
+request - 1240.00000000,0.00001830,
+price - 0.00001830
+
+Buy	Symbol - gnt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 20
+request - 740.00000000,0.00050881,
+price - 0.0000184044209150
+
+Sell	Symbol - gnt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 20
+request - 147.00000000,0.00050610,
+price - 0.0000183063961500
+
+BuyPriceList
+gnt_bnb,	0.0000184140430000
+gnt_btc,	0.00001835
+gnt_eth,	0.0000184044209150
+
+SellPriceList
+gnt_bnb,	0.0000182436860000
+gnt_btc,	0.00001830
+gnt_eth,	0.0000183063961500
+
+BuyKey - gnt_btc	BuyPrice - 0.00001835
+SellKey - gnt_eth	SellPrice - 0.0000183063961500
+precent - -0.238%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00001835	buyPricePotential (ConversionPrice) - 0.00001835
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00050610	sellPricePotential (ConversionPrice) - 0.00001831
+percentPotential - -0.238%
+
+
+
+30/12/2018 23:42:37
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - gnt_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 84.9
+request - 530.00000000,0.01189000,
+price - 0.0000184021530000
+
+Sell	Symbol - gnt_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 84.9
+request - 8847.40000000,0.01178000,
+price - 0.0000182319060000
+
+Buy	Symbol - gnt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 55
+request - 527.00000000,0.00001837,
+price - 0.00001837
+
+Sell	Symbol - gnt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 55
+request - 1240.00000000,0.00001830,
+price - 0.00001830
+
+Buy	Symbol - gnt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 20
+request - 213.00000000,0.00050869,
+price - 0.0000183764262500
+
+Sell	Symbol - gnt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 20
+request - 147.00000000,0.00050610,
+price - 0.0000182828625000
+
+BuyPriceList
+gnt_bnb,	0.0000184021530000
+gnt_btc,	0.00001837
+gnt_eth,	0.0000183764262500
+
+SellPriceList
+gnt_bnb,	0.0000182319060000
+gnt_btc,	0.00001830
+gnt_eth,	0.0000182828625000
+
+BuyKey - gnt_btc	BuyPrice - 0.00001837
+SellKey - gnt_btc	SellPrice - 0.00001830
+BuyNextOffer - 0.00001837	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00001830	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+gnt_bnb,	0.0000184021530000
+gnt_eth,	0.0000183764262500
+
+SellPriceList
+gnt_bnb,	0.0000182319060000
+gnt_btc,	0.00001830
+gnt_eth,	0.0000182828625000
+
+BuyKey - gnt_eth	BuyPrice - 0.0000183764262500
+SellKey - gnt_btc	SellPrice - 0.00001830
+precent - -0.416%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00050869	buyPricePotential (ConversionPrice) - 0.00001838
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00001830	sellPricePotential (ConversionPrice) - 0.00001830
+percentPotential - -0.416%
+
+
+
+30/12/2018 23:43:06
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - gnt_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 84.9
+request - 530.00000000,0.01189000,
+price - 0.0000183985860000
+
+Sell	Symbol - gnt_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 84.9
+request - 8847.40000000,0.01178000,
+price - 0.0000182283720000
+
+Buy	Symbol - gnt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 55
+request - 314.00000000,0.00001837,
+price - 0.00001837
+
+Sell	Symbol - gnt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 55
+request - 1240.00000000,0.00001828,
+price - 0.00001828
+
+Buy	Symbol - gnt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 20
+request - 193.00000000,0.00050869,
+price - 0.0000183715936950
+
+Sell	Symbol - gnt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 20
+request - 147.00000000,0.00050610,
+price - 0.0000182780545500
+
+BuyPriceList
+gnt_bnb,	0.0000183985860000
+gnt_btc,	0.00001837
+gnt_eth,	0.0000183715936950
+
+SellPriceList
+gnt_bnb,	0.0000182283720000
+gnt_btc,	0.00001828
+gnt_eth,	0.0000182780545500
+
+BuyKey - gnt_btc	BuyPrice - 0.00001837
+SellKey - gnt_btc	SellPrice - 0.00001828
+BuyNextOffer - 0.00001837	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00001828	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+gnt_bnb,	0.0000183985860000
+gnt_eth,	0.0000183715936950
+
+SellPriceList
+gnt_bnb,	0.0000182283720000
+gnt_btc,	0.00001828
+gnt_eth,	0.0000182780545500
+
+BuyKey - gnt_eth	BuyPrice - 0.0000183715936950
+SellKey - gnt_btc	SellPrice - 0.00001828
+precent - -0.499%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00050869	buyPricePotential (ConversionPrice) - 0.00001837
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00001828	sellPricePotential (ConversionPrice) - 0.00001828
+percentPotential - -0.499%
+
+
+

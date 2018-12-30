@@ -1,0 +1,138 @@
+30/12/2018 23:42:15
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - snt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 215
+request - 14501.00000000,0.00000466,
+price - 0.00000466
+
+Sell	Symbol - snt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 216
+request - 236.00000000,0.00000465,
+price - 0.00000465
+
+Buy	Symbol - snt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 78
+request - 16911.00000000,0.00012896,
+price - 0.0000046646766400
+
+Sell	Symbol - snt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 78
+request - 7773.00000000,0.00012864,
+price - 0.0000046531017600
+
+BuyPriceList
+snt_btc,	0.00000466
+snt_eth,	0.0000046646766400
+
+SellPriceList
+snt_btc,	0.00000465
+snt_eth,	0.0000046531017600
+
+BuyKey - snt_btc	BuyPrice - 0.00000466
+SellKey - snt_eth	SellPrice - 0.0000046531017600
+precent - -0.148%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000466	buyPricePotential (ConversionPrice) - 0.00000466
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00012864	sellPricePotential (ConversionPrice) - 0.00000465
+percentPotential - -0.148%
+
+
+
+30/12/2018 23:42:44
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - snt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 216
+request - 43670.00000000,0.00000466,
+price - 0.00000466
+
+Sell	Symbol - snt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 216
+request - 236.00000000,0.00000465,
+price - 0.00000465
+
+Buy	Symbol - snt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 78
+request - 16911.00000000,0.00012896,
+price - 0.0000046586800000
+
+Sell	Symbol - snt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 78
+request - 264.00000000,0.00012853,
+price - 0.0000046431462500
+
+BuyPriceList
+snt_btc,	0.00000466
+snt_eth,	0.0000046586800000
+
+SellPriceList
+snt_btc,	0.00000465
+snt_eth,	0.0000046431462500
+
+BuyKey - snt_eth	BuyPrice - 0.0000046586800000
+SellKey - snt_btc	SellPrice - 0.00000465
+precent - -0.186%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00012896	buyPricePotential (ConversionPrice) - 0.00000466
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000465	sellPricePotential (ConversionPrice) - 0.00000465
+percentPotential - -0.186%
+
+
+
+30/12/2018 23:43:11
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - snt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 216
+request - 43670.00000000,0.00000466,
+price - 0.00000466
+
+Sell	Symbol - snt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 216
+request - 236.00000000,0.00000465,
+price - 0.00000465
+
+Buy	Symbol - snt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 78
+request - 3885.00000000,0.00012896,
+price - 0.0000046574548800
+
+Sell	Symbol - snt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 78
+request - 264.00000000,0.00012853,
+price - 0.0000046419252150
+
+BuyPriceList
+snt_btc,	0.00000466
+snt_eth,	0.0000046574548800
+
+SellPriceList
+snt_btc,	0.00000465
+snt_eth,	0.0000046419252150
+
+BuyKey - snt_eth	BuyPrice - 0.0000046574548800
+SellKey - snt_btc	SellPrice - 0.00000465
+precent - -0.160%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00012896	buyPricePotential (ConversionPrice) - 0.00000466
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000465	sellPricePotential (ConversionPrice) - 0.00000465
+percentPotential - -0.160%
+
+
+

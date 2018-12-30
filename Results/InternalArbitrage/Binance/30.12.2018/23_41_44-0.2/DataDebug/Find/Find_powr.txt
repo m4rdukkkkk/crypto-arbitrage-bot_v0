@@ -1,0 +1,222 @@
+30/12/2018 23:42:13
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - powr_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 73.7
+request - 162.90000000,0.01357000,
+price - 0.0000210158590000
+
+Sell	Symbol - powr_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 74.6
+request - 2225.10000000,0.01342000,
+price - 0.0000207835540000
+
+Buy	Symbol - powr_btc
+while (amaunt < item.MinAmount) count - 2
+MinAmount - 48
+request - 2143.00000000,0.00002095,
+price - 0.00002095
+
+Sell	Symbol - powr_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 48
+request - 1575.00000000,0.00002084,
+price - 0.00002084
+
+Buy	Symbol - powr_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 18
+request - 223.00000000,0.00058340,
+price - 0.0000211024531000
+
+Sell	Symbol - powr_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 18
+request - 173.00000000,0.00057562,
+price - 0.0000208210388300
+
+BuyPriceList
+powr_bnb,	0.0000210158590000
+powr_btc,	0.00002095
+powr_eth,	0.0000211024531000
+
+SellPriceList
+powr_bnb,	0.0000207835540000
+powr_btc,	0.00002084
+powr_eth,	0.0000208210388300
+
+BuyKey - powr_btc	BuyPrice - 0.00002095
+SellKey - powr_btc	SellPrice - 0.00002084
+BuyNextOffer - 0.00002095	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00002084	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+powr_bnb,	0.0000210158590000
+powr_eth,	0.0000211024531000
+
+SellPriceList
+powr_bnb,	0.0000207835540000
+powr_btc,	0.00002084
+powr_eth,	0.0000208210388300
+
+BuyKey - powr_bnb	BuyPrice - 0.0000210158590000
+SellKey - powr_btc	SellPrice - 0.00002084
+precent - -0.837%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.01357000	buyPricePotential (ConversionPrice) - 0.00002102
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00002084	sellPricePotential (ConversionPrice) - 0.00002084
+percentPotential - -0.837%
+
+
+
+30/12/2018 23:42:42
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - powr_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 74.6
+request - 742.90000000,0.01357000,
+price - 0.0000210022890000
+
+Sell	Symbol - powr_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 74.6
+request - 2225.10000000,0.01342000,
+price - 0.0000207701340000
+
+Buy	Symbol - powr_btc
+while (amaunt < item.MinAmount) count - 2
+MinAmount - 48
+request - 2143.00000000,0.00002095,
+price - 0.00002095
+
+Sell	Symbol - powr_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 48
+request - 1575.00000000,0.00002084,
+price - 0.00002084
+
+Buy	Symbol - powr_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 18
+request - 916.00000000,0.00058332,
+price - 0.0000210724350000
+
+Sell	Symbol - powr_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 18
+request - 495.00000000,0.00057574,
+price - 0.0000207986075000
+
+BuyPriceList
+powr_bnb,	0.0000210022890000
+powr_btc,	0.00002095
+powr_eth,	0.0000210724350000
+
+SellPriceList
+powr_bnb,	0.0000207701340000
+powr_btc,	0.00002084
+powr_eth,	0.0000207986075000
+
+BuyKey - powr_btc	BuyPrice - 0.00002095
+SellKey - powr_btc	SellPrice - 0.00002084
+BuyNextOffer - 0.00002095	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00002084	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+powr_bnb,	0.0000210022890000
+powr_eth,	0.0000210724350000
+
+SellPriceList
+powr_bnb,	0.0000207701340000
+powr_btc,	0.00002084
+powr_eth,	0.0000207986075000
+
+BuyKey - powr_bnb	BuyPrice - 0.0000210022890000
+SellKey - powr_btc	SellPrice - 0.00002084
+precent - -0.773%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.01357000	buyPricePotential (ConversionPrice) - 0.00002100
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00002084	sellPricePotential (ConversionPrice) - 0.00002084
+percentPotential - -0.773%
+
+
+
+30/12/2018 23:43:09
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - powr_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 74.6
+request - 123.20000000,0.01356000,
+price - 0.0000209827440000
+
+Sell	Symbol - powr_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 74.6
+request - 2225.10000000,0.01342000,
+price - 0.0000207661080000
+
+Buy	Symbol - powr_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 48
+request - 2390.00000000,0.00002092,
+price - 0.00002092
+
+Sell	Symbol - powr_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 49
+request - 1179.00000000,0.00002082,
+price - 0.00002082
+
+Buy	Symbol - powr_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 18
+request - 223.00000000,0.00058330,
+price - 0.0000210661711500
+
+Sell	Symbol - powr_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 18
+request - 495.00000000,0.00057578,
+price - 0.0000207945825900
+
+BuyPriceList
+powr_bnb,	0.0000209827440000
+powr_btc,	0.00002092
+powr_eth,	0.0000210661711500
+
+SellPriceList
+powr_bnb,	0.0000207661080000
+powr_btc,	0.00002082
+powr_eth,	0.0000207945825900
+
+BuyKey - powr_btc	BuyPrice - 0.00002092
+SellKey - powr_btc	SellPrice - 0.00002082
+BuyNextOffer - 0.00002092	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00002082	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+powr_bnb,	0.0000209827440000
+powr_eth,	0.0000210661711500
+
+SellPriceList
+powr_bnb,	0.0000207661080000
+powr_btc,	0.00002082
+powr_eth,	0.0000207945825900
+
+BuyKey - powr_bnb	BuyPrice - 0.0000209827440000
+SellKey - powr_btc	SellPrice - 0.00002082
+precent - -0.776%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.01356000	buyPricePotential (ConversionPrice) - 0.00002098
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00002082	sellPricePotential (ConversionPrice) - 0.00002082
+percentPotential - -0.776%
+
+
+

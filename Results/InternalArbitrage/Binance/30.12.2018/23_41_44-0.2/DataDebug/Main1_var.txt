@@ -1,0 +1,13 @@
+paymentWeighted - btc
+usdName - usdt
+roundingPrice - True
+eachAddPercentage - 0.1
+orderType - Limit
+FeeTrade - 0.0750%
+maxTradeInUsdt - 100
+maxTradeInPaymentWeighted - 0.0263518498998629703805207126
+revnuTrade - 0.4250%
+maxCount - 5
+CurrencyTradingFeeReduction - False
+rateGateLimit - False
+

@@ -1,0 +1,208 @@
+30/12/2018 23:42:07
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - bnb_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.65
+request - 12.90000000,0.00154960,
+price - 0.00154960
+
+Sell	Symbol - bnb_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.65
+request - 19.49000000,0.00154780,
+price - 0.00154780
+
+Buy	Symbol - bnb_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.24
+request - 1.80000000,0.04292500,
+price - 0.0015526616375000
+
+Sell	Symbol - bnb_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.24
+request - 3.40000000,0.04277200,
+price - 0.0015471273980000
+
+Buy	Symbol - bnb_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.71
+request - 1336.08000000,5.87850000,
+price - 0.0015494344307340737197101183
+
+Sell	Symbol - bnb_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.71
+request - 2.04000000,5.86440000,
+price - 0.0015457180021428769110943298
+
+BuyPriceList
+bnb_btc,	0.00154960
+bnb_eth,	0.0015526616375000
+bnb_usdt,	0.0015494344307340737197101183
+
+SellPriceList
+bnb_btc,	0.00154780
+bnb_eth,	0.0015471273980000
+bnb_usdt,	0.0015457180021428769110943298
+
+BuyKey - bnb_usdt	BuyPrice - 0.0015494344307340737197101183
+SellKey - bnb_btc	SellPrice - 0.00154780
+precent - -0.105%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 5.87850000	buyPricePotential (ConversionPrice) - 0.00154943
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00154780	sellPricePotential (ConversionPrice) - 0.00154780
+percentPotential - -0.105%
+
+
+
+30/12/2018 23:42:36
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - bnb_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.65
+request - 4.70000000,0.00154800,
+price - 0.00154800
+
+Sell	Symbol - bnb_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.65
+request - 42.70000000,0.00154740,
+price - 0.00154740
+
+Buy	Symbol - bnb_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.24
+request - 1.90000000,0.04292100,
+price - 0.0015505211250000
+
+Sell	Symbol - bnb_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.24
+request - 3.40000000,0.04277200,
+price - 0.0015451385000000
+
+Buy	Symbol - bnb_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.71
+request - 2.04000000,5.86620000,
+price - 0.0015487233236486424052178526
+
+Sell	Symbol - bnb_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.71
+request - 75.97000000,5.85690000,
+price - 0.0015462680498922187622516179
+
+BuyPriceList
+bnb_btc,	0.00154800
+bnb_eth,	0.0015505211250000
+bnb_usdt,	0.0015487233236486424052178526
+
+SellPriceList
+bnb_btc,	0.00154740
+bnb_eth,	0.0015451385000000
+bnb_usdt,	0.0015462680498922187622516179
+
+BuyKey - bnb_btc	BuyPrice - 0.00154800
+SellKey - bnb_btc	SellPrice - 0.00154740
+BuyNextOffer - 0.0015505211250000	BuyNextOfferDifrent - 0.0000025211250000
+SellNextOffer - 0.0015451385000000	SellNextOfferDifrent - 0.0000022615000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - True
+BuyPriceList
+bnb_btc,	0.00154800
+bnb_eth,	0.0015505211250000
+bnb_usdt,	0.0015487233236486424052178526
+
+SellPriceList
+bnb_eth,	0.0015451385000000
+bnb_usdt,	0.0015462680498922187622516179
+
+BuyKey - bnb_btc	BuyPrice - 0.00154800
+SellKey - bnb_usdt	SellPrice - 0.0015462680498922187622516179
+precent - -0.112%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00154800	buyPricePotential (ConversionPrice) - 0.00154800
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 5.85690000	sellPricePotential (ConversionPrice) - 0.00154627
+percentPotential - -0.112%
+
+
+
+30/12/2018 23:43:04
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - bnb_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.65
+request - 4.70000000,0.00154800,
+price - 0.00154800
+
+Sell	Symbol - bnb_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.65
+request - 42.70000000,0.00154740,
+price - 0.00154740
+
+Buy	Symbol - bnb_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.24
+request - 1.90000000,0.04292100,
+price - 0.0015505211250000
+
+Sell	Symbol - bnb_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 0.24
+request - 3.40000000,0.04277200,
+price - 0.0015451385000000
+
+Buy	Symbol - bnb_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.71
+request - 2.04000000,5.86620000,
+price - 0.0015487233236486424052178526
+
+Sell	Symbol - bnb_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.71
+request - 75.97000000,5.85690000,
+price - 0.0015462680498922187622516179
+
+BuyPriceList
+bnb_btc,	0.00154800
+bnb_eth,	0.0015505211250000
+bnb_usdt,	0.0015487233236486424052178526
+
+SellPriceList
+bnb_btc,	0.00154740
+bnb_eth,	0.0015451385000000
+bnb_usdt,	0.0015462680498922187622516179
+
+BuyKey - bnb_btc	BuyPrice - 0.00154800
+SellKey - bnb_btc	SellPrice - 0.00154740
+BuyNextOffer - 0.0015505211250000	BuyNextOfferDifrent - 0.0000025211250000
+SellNextOffer - 0.0015451385000000	SellNextOfferDifrent - 0.0000022615000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - True
+BuyPriceList
+bnb_btc,	0.00154800
+bnb_eth,	0.0015505211250000
+bnb_usdt,	0.0015487233236486424052178526
+
+SellPriceList
+bnb_eth,	0.0015451385000000
+bnb_usdt,	0.0015462680498922187622516179
+
+BuyKey - bnb_btc	BuyPrice - 0.00154800
+SellKey - bnb_usdt	SellPrice - 0.0015462680498922187622516179
+precent - -0.112%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00154800	buyPricePotential (ConversionPrice) - 0.00154800
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 5.85690000	sellPricePotential (ConversionPrice) - 0.00154627
+percentPotential - -0.112%
+
+
+

@@ -1,0 +1,180 @@
+30/12/2018 23:42:07
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - bat_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 43.3
+request - 195.00000000,0.02321000,
+price - 0.0000359453270000
+
+Sell	Symbol - bat_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 43.4
+request - 2297.90000000,0.02309000,
+price - 0.0000357594830000
+
+Buy	Symbol - bat_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 28
+request - 120.00000000,0.00003593,
+price - 0.00003593
+
+Sell	Symbol - bat_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 28
+request - 1465.00000000,0.00003580,
+price - 0.00003580
+
+Buy	Symbol - bat_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 11
+request - 1650.00000000,0.00099458,
+price - 0.0000359754504700
+
+Sell	Symbol - bat_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 11
+request - 132.00000000,0.00099048,
+price - 0.0000358271473200
+
+BuyPriceList
+bat_bnb,	0.0000359453270000
+bat_btc,	0.00003593
+bat_eth,	0.0000359754504700
+
+SellPriceList
+bat_bnb,	0.0000357594830000
+bat_btc,	0.00003580
+bat_eth,	0.0000358271473200
+
+BuyKey - bat_btc	BuyPrice - 0.00003593
+SellKey - bat_eth	SellPrice - 0.0000358271473200
+precent - -0.286%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00003593	buyPricePotential (ConversionPrice) - 0.00003593
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00099048	sellPricePotential (ConversionPrice) - 0.00003583
+percentPotential - -0.286%
+
+
+
+30/12/2018 23:42:35
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - bat_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 43.4
+request - 195.00000000,0.02321000,
+price - 0.0000359221170000
+
+Sell	Symbol - bat_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 43.4
+request - 339.70000000,0.02309000,
+price - 0.0000357363930000
+
+Buy	Symbol - bat_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 28
+request - 256.00000000,0.00003590,
+price - 0.00003590
+
+Sell	Symbol - bat_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 28
+request - 1208.00000000,0.00003578,
+price - 0.00003578
+
+Buy	Symbol - bat_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 11
+request - 585.00000000,0.00099481,
+price - 0.0000359375112500
+
+Sell	Symbol - bat_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 11
+request - 132.00000000,0.00099063,
+price - 0.0000357865087500
+
+BuyPriceList
+bat_bnb,	0.0000359221170000
+bat_btc,	0.00003590
+bat_eth,	0.0000359375112500
+
+SellPriceList
+bat_bnb,	0.0000357363930000
+bat_btc,	0.00003578
+bat_eth,	0.0000357865087500
+
+BuyKey - bat_btc	BuyPrice - 0.00003590
+SellKey - bat_eth	SellPrice - 0.0000357865087500
+precent - -0.316%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00003590	buyPricePotential (ConversionPrice) - 0.00003590
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00099063	sellPricePotential (ConversionPrice) - 0.00003579
+percentPotential - -0.316%
+
+
+
+30/12/2018 23:43:04
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - bat_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 43.4
+request - 195.00000000,0.02321000,
+price - 0.0000359221170000
+
+Sell	Symbol - bat_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 43.4
+request - 339.70000000,0.02309000,
+price - 0.0000357363930000
+
+Buy	Symbol - bat_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 28
+request - 256.00000000,0.00003590,
+price - 0.00003590
+
+Sell	Symbol - bat_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 28
+request - 1208.00000000,0.00003578,
+price - 0.00003578
+
+Buy	Symbol - bat_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 11
+request - 585.00000000,0.00099481,
+price - 0.0000359375112500
+
+Sell	Symbol - bat_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 11
+request - 132.00000000,0.00099063,
+price - 0.0000357865087500
+
+BuyPriceList
+bat_bnb,	0.0000359221170000
+bat_btc,	0.00003590
+bat_eth,	0.0000359375112500
+
+SellPriceList
+bat_bnb,	0.0000357363930000
+bat_btc,	0.00003578
+bat_eth,	0.0000357865087500
+
+BuyKey - bat_btc	BuyPrice - 0.00003590
+SellKey - bat_eth	SellPrice - 0.0000357865087500
+precent - -0.316%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00003590	buyPricePotential (ConversionPrice) - 0.00003590
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00099063	sellPricePotential (ConversionPrice) - 0.00003579
+percentPotential - -0.316%
+
+
+

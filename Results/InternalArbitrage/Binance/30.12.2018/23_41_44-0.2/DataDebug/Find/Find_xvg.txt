@@ -1,0 +1,174 @@
+30/12/2018 23:42:17
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - xvg_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 530
+request - 229020.00000000,0.00000189,
+price - 0.00000189
+
+Sell	Symbol - xvg_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 532
+request - 1394989.00000000,0.00000188,
+price - 0.00000188
+
+Buy	Symbol - xvg_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 192
+request - 36117.00000000,0.00005216,
+price - 0.0000018867054400
+
+Sell	Symbol - xvg_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 192
+request - 2628.00000000,0.00005215,
+price - 0.0000018863437250
+
+BuyPriceList
+xvg_btc,	0.00000189
+xvg_eth,	0.0000018867054400
+
+SellPriceList
+xvg_btc,	0.00000188
+xvg_eth,	0.0000018863437250
+
+BuyKey - xvg_eth	BuyPrice - 0.0000018867054400
+SellKey - xvg_eth	SellPrice - 0.0000018863437250
+BuyNextOffer - 0.00000189	BuyNextOfferDifrent - 0.0000000032945600
+SellNextOffer - 0.00000188	SellNextOfferDifrent - 0.0000000063437250
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+xvg_btc,	0.00000189
+
+SellPriceList
+xvg_btc,	0.00000188
+xvg_eth,	0.0000018863437250
+
+BuyKey - xvg_btc	BuyPrice - 0.00000189
+SellKey - xvg_eth	SellPrice - 0.0000018863437250
+precent - -0.193%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000189	buyPricePotential (ConversionPrice) - 0.00000189
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00005215	sellPricePotential (ConversionPrice) - 0.00000189
+percentPotential - -0.193%
+
+
+
+30/12/2018 23:42:47
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - xvg_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 532
+request - 228438.00000000,0.00000189,
+price - 0.00000189
+
+Sell	Symbol - xvg_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 532
+request - 1392959.00000000,0.00000188,
+price - 0.00000188
+
+Buy	Symbol - xvg_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 192
+request - 36117.00000000,0.00005216,
+price - 0.0000018842800000
+
+Sell	Symbol - xvg_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 192
+request - 2628.00000000,0.00005215,
+price - 0.0000018839187500
+
+BuyPriceList
+xvg_btc,	0.00000189
+xvg_eth,	0.0000018842800000
+
+SellPriceList
+xvg_btc,	0.00000188
+xvg_eth,	0.0000018839187500
+
+BuyKey - xvg_eth	BuyPrice - 0.0000018842800000
+SellKey - xvg_eth	SellPrice - 0.0000018839187500
+BuyNextOffer - 0.00000189	BuyNextOfferDifrent - 0.0000000057200000
+SellNextOffer - 0.00000188	SellNextOfferDifrent - 0.0000000039187500
+(BuyNextOfferDifrent > SellNextOfferDifrent) - True
+BuyPriceList
+xvg_btc,	0.00000189
+xvg_eth,	0.0000018842800000
+
+SellPriceList
+xvg_btc,	0.00000188
+
+BuyKey - xvg_eth	BuyPrice - 0.0000018842800000
+SellKey - xvg_btc	SellPrice - 0.00000188
+precent - -0.227%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00005216	buyPricePotential (ConversionPrice) - 0.00000188
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000188	sellPricePotential (ConversionPrice) - 0.00000188
+percentPotential - -0.227%
+
+
+
+30/12/2018 23:43:26
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - xvg_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 532
+request - 228438.00000000,0.00000189,
+price - 0.00000189
+
+Sell	Symbol - xvg_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 532
+request - 1392959.00000000,0.00000188,
+price - 0.00000188
+
+Buy	Symbol - xvg_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 192
+request - 36117.00000000,0.00005216,
+price - 0.0000018837844800
+
+Sell	Symbol - xvg_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 192
+request - 2628.00000000,0.00005215,
+price - 0.0000018834233250
+
+BuyPriceList
+xvg_btc,	0.00000189
+xvg_eth,	0.0000018837844800
+
+SellPriceList
+xvg_btc,	0.00000188
+xvg_eth,	0.0000018834233250
+
+BuyKey - xvg_eth	BuyPrice - 0.0000018837844800
+SellKey - xvg_eth	SellPrice - 0.0000018834233250
+BuyNextOffer - 0.00000189	BuyNextOfferDifrent - 0.0000000062155200
+SellNextOffer - 0.00000188	SellNextOfferDifrent - 0.0000000034233250
+(BuyNextOfferDifrent > SellNextOfferDifrent) - True
+BuyPriceList
+xvg_btc,	0.00000189
+xvg_eth,	0.0000018837844800
+
+SellPriceList
+xvg_btc,	0.00000188
+
+BuyKey - xvg_eth	BuyPrice - 0.0000018837844800
+SellKey - xvg_btc	SellPrice - 0.00000188
+precent - -0.201%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00005216	buyPricePotential (ConversionPrice) - 0.00000188
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000188	sellPricePotential (ConversionPrice) - 0.00000188
+percentPotential - -0.201%
+
+
+

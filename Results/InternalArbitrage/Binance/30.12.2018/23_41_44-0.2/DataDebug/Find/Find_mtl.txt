@@ -1,0 +1,138 @@
+30/12/2018 23:42:11
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - mtl_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 15.32
+request - 341.39000000,0.00006560,
+price - 0.00006560
+
+Sell	Symbol - mtl_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 15.32
+request - 156.78000000,0.00006530,
+price - 0.00006530
+
+Buy	Symbol - mtl_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.53
+request - 35.94000000,0.00181900,
+price - 0.0000657959585000
+
+Sell	Symbol - mtl_eth
+while (amaunt < item.MinAmount) count - 2
+MinAmount - 5.53
+request - 24.48000000,0.00180900,
+price - 0.0000654342435000
+
+BuyPriceList
+mtl_btc,	0.00006560
+mtl_eth,	0.0000657959585000
+
+SellPriceList
+mtl_btc,	0.00006530
+mtl_eth,	0.0000654342435000
+
+BuyKey - mtl_btc	BuyPrice - 0.00006560
+SellKey - mtl_eth	SellPrice - 0.0000654342435000
+precent - -0.253%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00006560	buyPricePotential (ConversionPrice) - 0.00006560
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00180900	sellPricePotential (ConversionPrice) - 0.00006543
+percentPotential - -0.253%
+
+
+
+30/12/2018 23:42:40
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - mtl_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 15.32
+request - 341.42000000,0.00006560,
+price - 0.00006560
+
+Sell	Symbol - mtl_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 15.32
+request - 156.78000000,0.00006530,
+price - 0.00006530
+
+Buy	Symbol - mtl_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.53
+request - 35.94000000,0.00181900,
+price - 0.0000657113750000
+
+Sell	Symbol - mtl_eth
+while (amaunt < item.MinAmount) count - 2
+MinAmount - 5.53
+request - 24.48000000,0.00180900,
+price - 0.0000653501250000
+
+BuyPriceList
+mtl_btc,	0.00006560
+mtl_eth,	0.0000657113750000
+
+SellPriceList
+mtl_btc,	0.00006530
+mtl_eth,	0.0000653501250000
+
+BuyKey - mtl_btc	BuyPrice - 0.00006560
+SellKey - mtl_eth	SellPrice - 0.0000653501250000
+precent - -0.381%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00006560	buyPricePotential (ConversionPrice) - 0.00006560
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00180900	sellPricePotential (ConversionPrice) - 0.00006535
+percentPotential - -0.381%
+
+
+
+30/12/2018 23:43:08
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - mtl_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 15.32
+request - 341.42000000,0.00006560,
+price - 0.00006560
+
+Sell	Symbol - mtl_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 15.32
+request - 156.78000000,0.00006530,
+price - 0.00006530
+
+Buy	Symbol - mtl_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.53
+request - 35.94000000,0.00181900,
+price - 0.0000656940945000
+
+Sell	Symbol - mtl_eth
+while (amaunt < item.MinAmount) count - 2
+MinAmount - 5.53
+request - 24.48000000,0.00180900,
+price - 0.0000653329395000
+
+BuyPriceList
+mtl_btc,	0.00006560
+mtl_eth,	0.0000656940945000
+
+SellPriceList
+mtl_btc,	0.00006530
+mtl_eth,	0.0000653329395000
+
+BuyKey - mtl_btc	BuyPrice - 0.00006560
+SellKey - mtl_eth	SellPrice - 0.0000653329395000
+precent - -0.407%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00006560	buyPricePotential (ConversionPrice) - 0.00006560
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00180900	sellPricePotential (ConversionPrice) - 0.00006533
+percentPotential - -0.407%
+
+
+

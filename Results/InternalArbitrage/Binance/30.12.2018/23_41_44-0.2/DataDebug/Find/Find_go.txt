@@ -1,0 +1,138 @@
+30/12/2018 23:42:08
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - go_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 253
+request - 505.00000000,0.00396200,
+price - 0.0000061359494000
+
+Sell	Symbol - go_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 254
+request - 9702.00000000,0.00394300,
+price - 0.0000061065241000
+
+Buy	Symbol - go_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 164
+request - 10980.00000000,0.00000614,
+price - 0.00000614
+
+Sell	Symbol - go_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 164
+request - 28235.00000000,0.00000612,
+price - 0.00000612
+
+BuyPriceList
+go_bnb,	0.0000061359494000
+go_btc,	0.00000614
+
+SellPriceList
+go_bnb,	0.0000061065241000
+go_btc,	0.00000612
+
+BuyKey - go_bnb	BuyPrice - 0.0000061359494000
+SellKey - go_btc	SellPrice - 0.00000612
+precent - -0.260%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00396200	buyPricePotential (ConversionPrice) - 0.00000614
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000612	sellPricePotential (ConversionPrice) - 0.00000612
+percentPotential - -0.260%
+
+
+
+30/12/2018 23:42:37
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - go_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 254
+request - 505.00000000,0.00396200,
+price - 0.0000061319874000
+
+Sell	Symbol - go_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 254
+request - 9702.00000000,0.00394300,
+price - 0.0000061025811000
+
+Buy	Symbol - go_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 164
+request - 10980.00000000,0.00000614,
+price - 0.00000614
+
+Sell	Symbol - go_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 164
+request - 28235.00000000,0.00000612,
+price - 0.00000612
+
+BuyPriceList
+go_bnb,	0.0000061319874000
+go_btc,	0.00000614
+
+SellPriceList
+go_bnb,	0.0000061025811000
+go_btc,	0.00000612
+
+BuyKey - go_bnb	BuyPrice - 0.0000061319874000
+SellKey - go_btc	SellPrice - 0.00000612
+precent - -0.195%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00396200	buyPricePotential (ConversionPrice) - 0.00000613
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000612	sellPricePotential (ConversionPrice) - 0.00000612
+percentPotential - -0.195%
+
+
+
+30/12/2018 23:43:06
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - go_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 254
+request - 505.00000000,0.00396200,
+price - 0.0000061307988000
+
+Sell	Symbol - go_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 254
+request - 9702.00000000,0.00394300,
+price - 0.0000061013982000
+
+Buy	Symbol - go_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 164
+request - 10980.00000000,0.00000614,
+price - 0.00000614
+
+Sell	Symbol - go_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 164
+request - 28235.00000000,0.00000612,
+price - 0.00000612
+
+BuyPriceList
+go_bnb,	0.0000061307988000
+go_btc,	0.00000614
+
+SellPriceList
+go_bnb,	0.0000061013982000
+go_btc,	0.00000612
+
+BuyKey - go_bnb	BuyPrice - 0.0000061307988000
+SellKey - go_btc	SellPrice - 0.00000612
+precent - -0.176%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00396200	buyPricePotential (ConversionPrice) - 0.00000613
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000612	sellPricePotential (ConversionPrice) - 0.00000612
+percentPotential - -0.176%
+
+
+

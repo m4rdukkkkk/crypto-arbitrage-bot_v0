@@ -1,0 +1,222 @@
+30/12/2018 23:42:10
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - iota_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.7
+request - 51.60000000,0.05991000,
+price - 0.0000927826170000
+
+Sell	Symbol - iota_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.8
+request - 45.20000000,0.05965000,
+price - 0.0000923799550000
+
+Buy	Symbol - iota_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 11
+request - 337.00000000,0.00009258,
+price - 0.00009258
+
+Sell	Symbol - iota_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 11
+request - 324.00000000,0.00009237,
+price - 0.00009237
+
+Buy	Symbol - iota_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4
+request - 653.00000000,0.00256588,
+price - 0.0000928117284200
+
+Sell	Symbol - iota_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4
+request - 7.00000000,0.00255837,
+price - 0.0000925400804550
+
+Buy	Symbol - iota_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 28.55
+request - 105.68000000,0.35150000,
+price - 0.0000926471382840906544999756
+
+Sell	Symbol - iota_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 28.55
+request - 330.35000000,0.35030000,
+price - 0.0000923308464890951814262915
+
+BuyPriceList
+iota_bnb,	0.0000927826170000
+iota_btc,	0.00009258
+iota_eth,	0.0000928117284200
+iota_usdt,	0.0000926471382840906544999756
+
+SellPriceList
+iota_bnb,	0.0000923799550000
+iota_btc,	0.00009237
+iota_eth,	0.0000925400804550
+iota_usdt,	0.0000923308464890951814262915
+
+BuyKey - iota_btc	BuyPrice - 0.00009258
+SellKey - iota_eth	SellPrice - 0.0000925400804550
+precent - -0.043%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00009258	buyPricePotential (ConversionPrice) - 0.00009258
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00255837	sellPricePotential (ConversionPrice) - 0.00009254
+percentPotential - -0.043%
+
+
+
+30/12/2018 23:42:39
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - iota_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.8
+request - 214.00000000,0.05988000,
+price - 0.0000926762760000
+
+Sell	Symbol - iota_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.8
+request - 45.20000000,0.05965000,
+price - 0.0000923203050000
+
+Buy	Symbol - iota_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 11
+request - 269.00000000,0.00009260,
+price - 0.00009260
+
+Sell	Symbol - iota_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 11
+request - 324.00000000,0.00009237,
+price - 0.00009237
+
+Buy	Symbol - iota_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4
+request - 7.00000000,0.00256619,
+price - 0.0000927036137500
+
+Sell	Symbol - iota_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4
+request - 7.00000000,0.00255837,
+price - 0.0000924211162500
+
+Buy	Symbol - iota_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 28.55
+request - 335.55000000,0.35140000,
+price - 0.0000927723868825019503585888
+
+Sell	Symbol - iota_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 28.56
+request - 357.01000000,0.35020000,
+price - 0.0000924555773655440609435907
+
+BuyPriceList
+iota_bnb,	0.0000926762760000
+iota_btc,	0.00009260
+iota_eth,	0.0000927036137500
+iota_usdt,	0.0000927723868825019503585888
+
+SellPriceList
+iota_bnb,	0.0000923203050000
+iota_btc,	0.00009237
+iota_eth,	0.0000924211162500
+iota_usdt,	0.0000924555773655440609435907
+
+BuyKey - iota_btc	BuyPrice - 0.00009260
+SellKey - iota_usdt	SellPrice - 0.0000924555773655440609435907
+precent - -0.156%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00009260	buyPricePotential (ConversionPrice) - 0.00009260
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.35020000	sellPricePotential (ConversionPrice) - 0.00009246
+percentPotential - -0.156%
+
+
+
+30/12/2018 23:43:07
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - iota_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.8
+request - 214.00000000,0.05988000,
+price - 0.0000926583120000
+
+Sell	Symbol - iota_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.8
+request - 45.20000000,0.05965000,
+price - 0.0000923024100000
+
+Buy	Symbol - iota_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 11
+request - 269.00000000,0.00009260,
+price - 0.00009260
+
+Sell	Symbol - iota_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 11
+request - 141.00000000,0.00009231,
+price - 0.00009231
+
+Buy	Symbol - iota_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4
+request - 7.00000000,0.00256619,
+price - 0.0000926792349450
+
+Sell	Symbol - iota_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4
+request - 7.00000000,0.00255837,
+price - 0.0000923968117350
+
+Buy	Symbol - iota_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 28.56
+request - 1756.60000000,0.35090000,
+price - 0.0000927635692164531747531878
+
+Sell	Symbol - iota_usdt
+while (amaunt < item.MinAmount) count - 2
+MinAmount - 28.63
+request - 307.40000000,0.34930000,
+price - 0.0000923405948341609972678499
+
+BuyPriceList
+iota_bnb,	0.0000926583120000
+iota_btc,	0.00009260
+iota_eth,	0.0000926792349450
+iota_usdt,	0.0000927635692164531747531878
+
+SellPriceList
+iota_bnb,	0.0000923024100000
+iota_btc,	0.00009231
+iota_eth,	0.0000923968117350
+iota_usdt,	0.0000923405948341609972678499
+
+BuyKey - iota_btc	BuyPrice - 0.00009260
+SellKey - iota_eth	SellPrice - 0.0000923968117350
+precent - -0.219%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00009260	buyPricePotential (ConversionPrice) - 0.00009260
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00255837	sellPricePotential (ConversionPrice) - 0.00009240
+percentPotential - -0.219%
+
+
+

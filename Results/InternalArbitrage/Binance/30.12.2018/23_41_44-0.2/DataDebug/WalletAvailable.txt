@@ -1,0 +1,10 @@
+Time,30/12/2018 23:42:00,
+1,btc,  True
+2,eth,  True
+3,bnb,  True
+4,usdt,  True
+Time,30/12/2018 23:42:00,
+1,btc,  True
+2,eth,  True
+3,bnb,  True
+4,usdt,  True

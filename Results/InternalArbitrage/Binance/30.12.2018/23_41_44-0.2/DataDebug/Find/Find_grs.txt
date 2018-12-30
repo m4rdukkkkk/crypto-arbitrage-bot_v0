@@ -1,0 +1,138 @@
+30/12/2018 23:42:08
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - grs_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 17
+request - 71.00000000,0.00006168,
+price - 0.00006168
+
+Sell	Symbol - grs_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 17
+request - 97.00000000,0.00006131,
+price - 0.00006131
+
+Buy	Symbol - grs_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6
+request - 71.00000000,0.00171734,
+price - 0.0000621187638100
+
+Sell	Symbol - grs_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6
+request - 6.00000000,0.00170286,
+price - 0.0000615950004900
+
+BuyPriceList
+grs_btc,	0.00006168
+grs_eth,	0.0000621187638100
+
+SellPriceList
+grs_btc,	0.00006131
+grs_eth,	0.0000615950004900
+
+BuyKey - grs_btc	BuyPrice - 0.00006168
+SellKey - grs_eth	SellPrice - 0.0000615950004900
+precent - -0.138%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00006168	buyPricePotential (ConversionPrice) - 0.00006168
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00170286	sellPricePotential (ConversionPrice) - 0.00006160
+percentPotential - -0.138%
+
+
+
+30/12/2018 23:42:37
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - grs_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 17
+request - 71.00000000,0.00006168,
+price - 0.00006168
+
+Sell	Symbol - grs_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 17
+request - 97.00000000,0.00006131,
+price - 0.00006131
+
+Buy	Symbol - grs_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6
+request - 71.00000000,0.00171732,
+price - 0.0000620381850000
+
+Sell	Symbol - grs_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6
+request - 6.00000000,0.00170286,
+price - 0.0000615158175000
+
+BuyPriceList
+grs_btc,	0.00006168
+grs_eth,	0.0000620381850000
+
+SellPriceList
+grs_btc,	0.00006131
+grs_eth,	0.0000615158175000
+
+BuyKey - grs_btc	BuyPrice - 0.00006168
+SellKey - grs_eth	SellPrice - 0.0000615158175000
+precent - -0.266%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00006168	buyPricePotential (ConversionPrice) - 0.00006168
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00170286	sellPricePotential (ConversionPrice) - 0.00006152
+percentPotential - -0.266%
+
+
+
+30/12/2018 23:43:06
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - grs_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 17
+request - 71.00000000,0.00006168,
+price - 0.00006168
+
+Sell	Symbol - grs_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 17
+request - 97.00000000,0.00006131,
+price - 0.00006131
+
+Buy	Symbol - grs_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6
+request - 71.00000000,0.00171724,
+price - 0.0000620189812200
+
+Sell	Symbol - grs_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6
+request - 6.00000000,0.00170286,
+price - 0.0000614996403300
+
+BuyPriceList
+grs_btc,	0.00006168
+grs_eth,	0.0000620189812200
+
+SellPriceList
+grs_btc,	0.00006131
+grs_eth,	0.0000614996403300
+
+BuyKey - grs_btc	BuyPrice - 0.00006168
+SellKey - grs_eth	SellPrice - 0.0000614996403300
+precent - -0.292%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00006168	buyPricePotential (ConversionPrice) - 0.00006168
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00170286	sellPricePotential (ConversionPrice) - 0.00006150
+percentPotential - -0.292%
+
+
+

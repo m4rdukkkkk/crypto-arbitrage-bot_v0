@@ -1,0 +1,208 @@
+30/12/2018 23:42:12
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - nano_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6.22
+request - 60.41000000,0.16030000,
+price - 0.0002482566100000
+
+Sell	Symbol - nano_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6.27
+request - 51.36000000,0.15960000,
+price - 0.0002471725200000
+
+Buy	Symbol - nano_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.05
+request - 117.89000000,0.00024780,
+price - 0.00024780
+
+Sell	Symbol - nano_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.05
+request - 114.97000000,0.00024740,
+price - 0.00024740
+
+Buy	Symbol - nano_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.47
+request - 2.67000000,0.00685600,
+price - 0.0002479918040000
+
+Sell	Symbol - nano_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.47
+request - 39.71000000,0.00683700,
+price - 0.0002473045455000
+
+BuyPriceList
+nano_bnb,	0.0002482566100000
+nano_btc,	0.00024780
+nano_eth,	0.0002479918040000
+
+SellPriceList
+nano_bnb,	0.0002471725200000
+nano_btc,	0.00024740
+nano_eth,	0.0002473045455000
+
+BuyKey - nano_btc	BuyPrice - 0.00024780
+SellKey - nano_btc	SellPrice - 0.00024740
+BuyNextOffer - 0.00024780	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00024740	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+nano_bnb,	0.0002482566100000
+nano_eth,	0.0002479918040000
+
+SellPriceList
+nano_bnb,	0.0002471725200000
+nano_btc,	0.00024740
+nano_eth,	0.0002473045455000
+
+BuyKey - nano_eth	BuyPrice - 0.0002479918040000
+SellKey - nano_btc	SellPrice - 0.00024740
+precent - -0.239%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00685600	buyPricePotential (ConversionPrice) - 0.00024799
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00024740	sellPricePotential (ConversionPrice) - 0.00024740
+percentPotential - -0.239%
+
+
+
+30/12/2018 23:42:41
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - nano_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6.27
+request - 60.41000000,0.16030000,
+price - 0.0002480963100000
+
+Sell	Symbol - nano_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6.27
+request - 51.36000000,0.15960000,
+price - 0.0002470129200000
+
+Buy	Symbol - nano_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.05
+request - 117.89000000,0.00024780,
+price - 0.00024780
+
+Sell	Symbol - nano_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.05
+request - 87.04000000,0.00024750,
+price - 0.00024750
+
+Buy	Symbol - nano_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.47
+request - 19.36000000,0.00685700,
+price - 0.0002477091250000
+
+Sell	Symbol - nano_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.47
+request - 39.71000000,0.00683700,
+price - 0.0002469866250000
+
+BuyPriceList
+nano_bnb,	0.0002480963100000
+nano_btc,	0.00024780
+nano_eth,	0.0002477091250000
+
+SellPriceList
+nano_bnb,	0.0002470129200000
+nano_btc,	0.00024750
+nano_eth,	0.0002469866250000
+
+BuyKey - nano_eth	BuyPrice - 0.0002477091250000
+SellKey - nano_btc	SellPrice - 0.00024750
+precent - -0.084%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00685700	buyPricePotential (ConversionPrice) - 0.00024771
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00024750	sellPricePotential (ConversionPrice) - 0.00024750
+percentPotential - -0.084%
+
+
+
+30/12/2018 23:43:08
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - nano_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6.27
+request - 72.06000000,0.16010000,
+price - 0.0002477387400000
+
+Sell	Symbol - nano_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6.27
+request - 33.30000000,0.15950000,
+price - 0.0002468103000000
+
+Buy	Symbol - nano_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.05
+request - 20.80000000,0.00024750,
+price - 0.00024750
+
+Sell	Symbol - nano_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.05
+request - 114.97000000,0.00024740,
+price - 0.00024740
+
+Buy	Symbol - nano_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.47
+request - 8.32000000,0.00685600,
+price - 0.0002476078680000
+
+Sell	Symbol - nano_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.47
+request - 39.71000000,0.00683700,
+price - 0.0002469216735000
+
+BuyPriceList
+nano_bnb,	0.0002477387400000
+nano_btc,	0.00024750
+nano_eth,	0.0002476078680000
+
+SellPriceList
+nano_bnb,	0.0002468103000000
+nano_btc,	0.00024740
+nano_eth,	0.0002469216735000
+
+BuyKey - nano_btc	BuyPrice - 0.00024750
+SellKey - nano_btc	SellPrice - 0.00024740
+BuyNextOffer - 0.00024750	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00024740	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+nano_bnb,	0.0002477387400000
+nano_eth,	0.0002476078680000
+
+SellPriceList
+nano_bnb,	0.0002468103000000
+nano_btc,	0.00024740
+nano_eth,	0.0002469216735000
+
+BuyKey - nano_eth	BuyPrice - 0.0002476078680000
+SellKey - nano_btc	SellPrice - 0.00024740
+precent - -0.084%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00685600	buyPricePotential (ConversionPrice) - 0.00024761
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00024740	sellPricePotential (ConversionPrice) - 0.00024740
+percentPotential - -0.084%
+
+
+

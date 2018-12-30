@@ -1,0 +1,254 @@
+30/12/2018 23:42:10
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - icx_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 24.5
+request - 132.00000000,0.04118000,
+price - 0.0000637754660000
+
+Sell	Symbol - icx_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 24.5
+request - 341.00000000,0.04086000,
+price - 0.0000632798820000
+
+Buy	Symbol - icx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 15.78
+request - 2167.34000000,0.00006360,
+price - 0.00006360
+
+Sell	Symbol - icx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 15.78
+request - 3577.11000000,0.00006340,
+price - 0.00006340
+
+Buy	Symbol - icx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.69
+request - 328.26000000,0.00176000,
+price - 0.0000636618400000
+
+Sell	Symbol - icx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.7
+request - 989.52000000,0.00175600,
+price - 0.0000635171540000
+
+Buy	Symbol - icx_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 41.48
+request - 420.17000000,0.24190000,
+price - 0.0000637591543411707804368253
+
+Sell	Symbol - icx_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 41.46
+request - 42.91000000,0.24120000,
+price - 0.0000635746507940900878105096
+
+BuyPriceList
+icx_bnb,	0.0000637754660000
+icx_btc,	0.00006360
+icx_eth,	0.0000636618400000
+icx_usdt,	0.0000637591543411707804368253
+
+SellPriceList
+icx_bnb,	0.0000632798820000
+icx_btc,	0.00006340
+icx_eth,	0.0000635171540000
+icx_usdt,	0.0000635746507940900878105096
+
+BuyKey - icx_btc	BuyPrice - 0.00006360
+SellKey - icx_usdt	SellPrice - 0.0000635746507940900878105096
+precent - -0.040%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00006360	buyPricePotential (ConversionPrice) - 0.00006360
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.24120000	sellPricePotential (ConversionPrice) - 0.00006357
+percentPotential - -0.040%
+
+
+
+30/12/2018 23:42:38
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - icx_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 24.5
+request - 398.00000000,0.04117000,
+price - 0.0000637188090000
+
+Sell	Symbol - icx_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 24.5
+request - 1352.80000000,0.04087000,
+price - 0.0000632544990000
+
+Buy	Symbol - icx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 15.78
+request - 3592.98000000,0.00006370,
+price - 0.00006370
+
+Sell	Symbol - icx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 15.73
+request - 1501.44000000,0.00006360,
+price - 0.00006360
+
+Buy	Symbol - icx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.7
+request - 5268.42000000,0.00176400,
+price - 0.0000637245000000
+
+Sell	Symbol - icx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.7
+request - 1501.44000000,0.00175500,
+price - 0.0000633993750000
+
+Buy	Symbol - icx_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 41.46
+request - 51.68000000,0.24130000,
+price - 0.0000637051137016155965325198
+
+Sell	Symbol - icx_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 41.6
+request - 1003.43000000,0.24040000,
+price - 0.0000634675065638971794712713
+
+BuyPriceList
+icx_bnb,	0.0000637188090000
+icx_btc,	0.00006370
+icx_eth,	0.0000637245000000
+icx_usdt,	0.0000637051137016155965325198
+
+SellPriceList
+icx_bnb,	0.0000632544990000
+icx_btc,	0.00006360
+icx_eth,	0.0000633993750000
+icx_usdt,	0.0000634675065638971794712713
+
+BuyKey - icx_btc	BuyPrice - 0.00006370
+SellKey - icx_btc	SellPrice - 0.00006360
+BuyNextOffer - 0.0000637245000000	BuyNextOfferDifrent - 0.0000000245000000
+SellNextOffer - 0.0000633993750000	SellNextOfferDifrent - 0.0000002006250000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+icx_bnb,	0.0000637188090000
+icx_eth,	0.0000637245000000
+icx_usdt,	0.0000637051137016155965325198
+
+SellPriceList
+icx_bnb,	0.0000632544990000
+icx_btc,	0.00006360
+icx_eth,	0.0000633993750000
+icx_usdt,	0.0000634675065638971794712713
+
+BuyKey - icx_usdt	BuyPrice - 0.0000637051137016155965325198
+SellKey - icx_btc	SellPrice - 0.00006360
+precent - -0.165%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.24130000	buyPricePotential (ConversionPrice) - 0.00006371
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00006360	sellPricePotential (ConversionPrice) - 0.00006360
+percentPotential - -0.165%
+
+
+
+30/12/2018 23:43:07
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - icx_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 24.5
+request - 398.00000000,0.04117000,
+price - 0.0000637064580000
+
+Sell	Symbol - icx_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 24.5
+request - 900.50000000,0.04087000,
+price - 0.0000632422380000
+
+Buy	Symbol - icx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 15.73
+request - 3802.32000000,0.00006360,
+price - 0.00006360
+
+Sell	Symbol - icx_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 15.78
+request - 511.70000000,0.00006340,
+price - 0.00006340
+
+Buy	Symbol - icx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.7
+request - 2610.12000000,0.00176300,
+price - 0.0000636716265000
+
+Sell	Symbol - icx_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.7
+request - 412.23000000,0.00175500,
+price - 0.0000633827025000
+
+Buy	Symbol - icx_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 41.6
+request - 1081.27000000,0.24060000,
+price - 0.0000636047727371861893577002
+
+Sell	Symbol - icx_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 41.71
+request - 514.94000000,0.23980000,
+price - 0.0000633932855460401006150312
+
+BuyPriceList
+icx_bnb,	0.0000637064580000
+icx_btc,	0.00006360
+icx_eth,	0.0000636716265000
+icx_usdt,	0.0000636047727371861893577002
+
+SellPriceList
+icx_bnb,	0.0000632422380000
+icx_btc,	0.00006340
+icx_eth,	0.0000633827025000
+icx_usdt,	0.0000633932855460401006150312
+
+BuyKey - icx_btc	BuyPrice - 0.00006360
+SellKey - icx_btc	SellPrice - 0.00006340
+BuyNextOffer - 0.0000636716265000	BuyNextOfferDifrent - 0.0000000716265000
+SellNextOffer - 0.0000633827025000	SellNextOfferDifrent - 0.0000000172975000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - True
+BuyPriceList
+icx_bnb,	0.0000637064580000
+icx_btc,	0.00006360
+icx_eth,	0.0000636716265000
+icx_usdt,	0.0000636047727371861893577002
+
+SellPriceList
+icx_bnb,	0.0000632422380000
+icx_eth,	0.0000633827025000
+icx_usdt,	0.0000633932855460401006150312
+
+BuyKey - icx_btc	BuyPrice - 0.00006360
+SellKey - icx_usdt	SellPrice - 0.0000633932855460401006150312
+precent - -0.325%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00006360	buyPricePotential (ConversionPrice) - 0.00006360
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.23980000	sellPricePotential (ConversionPrice) - 0.00006339
+percentPotential - -0.325%
+
+
+

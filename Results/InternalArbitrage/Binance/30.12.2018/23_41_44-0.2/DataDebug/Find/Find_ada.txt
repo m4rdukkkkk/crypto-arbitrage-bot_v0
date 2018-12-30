@@ -1,0 +1,254 @@
+30/12/2018 23:42:06
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - ada_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 137.6
+request - 1231.00000000,0.00727000,
+price - 0.0000112590490000
+
+Sell	Symbol - ada_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 138.2
+request - 642.00000000,0.00724000,
+price - 0.0000112125880000
+
+Buy	Symbol - ada_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 90
+request - 5090.00000000,0.00001123,
+price - 0.00001123
+
+Sell	Symbol - ada_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 90
+request - 80106.00000000,0.00001121,
+price - 0.00001121
+
+Buy	Symbol - ada_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 33
+request - 3229.00000000,0.00031056,
+price - 0.0000112334210400
+
+Sell	Symbol - ada_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 33
+request - 2541.00000000,0.00030983,
+price - 0.0000112070158450
+
+Buy	Symbol - ada_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 234.6
+request - 281.20000000,0.04265000,
+price - 0.0000112415375471307721605234
+
+Sell	Symbol - ada_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 234.6
+request - 1984.70000000,0.04263000,
+price - 0.0000112362660172141809426286
+
+BuyPriceList
+ada_bnb,	0.0000112590490000
+ada_btc,	0.00001123
+ada_eth,	0.0000112334210400
+ada_usdt,	0.0000112415375471307721605234
+
+SellPriceList
+ada_bnb,	0.0000112125880000
+ada_btc,	0.00001121
+ada_eth,	0.0000112070158450
+ada_usdt,	0.0000112362660172141809426286
+
+BuyKey - ada_btc	BuyPrice - 0.00001123
+SellKey - ada_usdt	SellPrice - 0.0000112362660172141809426286
+precent - 0.056%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00001123	buyPricePotential (ConversionPrice) - 0.00001123
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.04263000	sellPricePotential (ConversionPrice) - 0.00001124
+percentPotential - 0.056%
+
+
+
+30/12/2018 23:42:35
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - ada_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 138.2
+request - 963.00000000,0.00727000,
+price - 0.0000112517790000
+
+Sell	Symbol - ada_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 138.4
+request - 1391.00000000,0.00723000,
+price - 0.0000111898710000
+
+Buy	Symbol - ada_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 90
+request - 212.00000000,0.00001123,
+price - 0.00001123
+
+Sell	Symbol - ada_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 90
+request - 13535.00000000,0.00001122,
+price - 0.00001122
+
+Buy	Symbol - ada_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 33
+request - 160.00000000,0.00031112,
+price - 0.0000112392100000
+
+Sell	Symbol - ada_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 33
+request - 3424.00000000,0.00031026,
+price - 0.0000112081425000
+
+Buy	Symbol - ada_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 234.6
+request - 562.70000000,0.04257000,
+price - 0.0000112388176140811269970550
+
+Sell	Symbol - ada_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 235.5
+request - 281.60000000,0.04248000,
+price - 0.0000112150569003092852909301
+
+BuyPriceList
+ada_bnb,	0.0000112517790000
+ada_btc,	0.00001123
+ada_eth,	0.0000112392100000
+ada_usdt,	0.0000112388176140811269970550
+
+SellPriceList
+ada_bnb,	0.0000111898710000
+ada_btc,	0.00001122
+ada_eth,	0.0000112081425000
+ada_usdt,	0.0000112150569003092852909301
+
+BuyKey - ada_btc	BuyPrice - 0.00001123
+SellKey - ada_btc	SellPrice - 0.00001122
+BuyNextOffer - 0.0000112392100000	BuyNextOfferDifrent - 0.0000000092100000
+SellNextOffer - 0.0000112081425000	SellNextOfferDifrent - 0.0000000118575000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+ada_bnb,	0.0000112517790000
+ada_eth,	0.0000112392100000
+ada_usdt,	0.0000112388176140811269970550
+
+SellPriceList
+ada_bnb,	0.0000111898710000
+ada_btc,	0.00001122
+ada_eth,	0.0000112081425000
+ada_usdt,	0.0000112150569003092852909301
+
+BuyKey - ada_usdt	BuyPrice - 0.0000112388176140811269970550
+SellKey - ada_btc	SellPrice - 0.00001122
+precent - -0.167%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.04257000	buyPricePotential (ConversionPrice) - 0.00001124
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00001122	sellPricePotential (ConversionPrice) - 0.00001122
+percentPotential - -0.167%
+
+
+
+30/12/2018 23:43:04
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - ada_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 138.4
+request - 963.00000000,0.00727000,
+price - 0.0000112517790000
+
+Sell	Symbol - ada_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 138.4
+request - 1391.00000000,0.00723000,
+price - 0.0000111898710000
+
+Buy	Symbol - ada_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 90
+request - 212.00000000,0.00001123,
+price - 0.00001123
+
+Sell	Symbol - ada_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 90
+request - 13535.00000000,0.00001122,
+price - 0.00001122
+
+Buy	Symbol - ada_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 33
+request - 160.00000000,0.00031112,
+price - 0.0000112392100000
+
+Sell	Symbol - ada_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 33
+request - 3424.00000000,0.00031026,
+price - 0.0000112081425000
+
+Buy	Symbol - ada_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 235.5
+request - 562.70000000,0.04257000,
+price - 0.0000112388176140811269970550
+
+Sell	Symbol - ada_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 235.5
+request - 281.60000000,0.04248000,
+price - 0.0000112150569003092852909301
+
+BuyPriceList
+ada_bnb,	0.0000112517790000
+ada_btc,	0.00001123
+ada_eth,	0.0000112392100000
+ada_usdt,	0.0000112388176140811269970550
+
+SellPriceList
+ada_bnb,	0.0000111898710000
+ada_btc,	0.00001122
+ada_eth,	0.0000112081425000
+ada_usdt,	0.0000112150569003092852909301
+
+BuyKey - ada_btc	BuyPrice - 0.00001123
+SellKey - ada_btc	SellPrice - 0.00001122
+BuyNextOffer - 0.0000112392100000	BuyNextOfferDifrent - 0.0000000092100000
+SellNextOffer - 0.0000112081425000	SellNextOfferDifrent - 0.0000000118575000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+ada_bnb,	0.0000112517790000
+ada_eth,	0.0000112392100000
+ada_usdt,	0.0000112388176140811269970550
+
+SellPriceList
+ada_bnb,	0.0000111898710000
+ada_btc,	0.00001122
+ada_eth,	0.0000112081425000
+ada_usdt,	0.0000112150569003092852909301
+
+BuyKey - ada_usdt	BuyPrice - 0.0000112388176140811269970550
+SellKey - ada_btc	SellPrice - 0.00001122
+precent - -0.167%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.04257000	buyPricePotential (ConversionPrice) - 0.00001124
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00001122	sellPricePotential (ConversionPrice) - 0.00001122
+percentPotential - -0.167%
+
+
+

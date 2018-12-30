@@ -1,0 +1,208 @@
+30/12/2018 23:42:16
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - theta_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 119.5
+request - 1072.40000000,0.00837000,
+price - 0.0000129626190000
+
+Sell	Symbol - theta_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 120.4
+request - 200.00000000,0.00831000,
+price - 0.0000128696970000
+
+Buy	Symbol - theta_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 78
+request - 11313.00000000,0.00001292,
+price - 0.00001292
+
+Sell	Symbol - theta_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 78
+request - 85.00000000,0.00001289,
+price - 0.00001289
+
+Buy	Symbol - theta_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 29
+request - 385.00000000,0.00035775,
+price - 0.0000129403541250
+
+Sell	Symbol - theta_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 29
+request - 138.00000000,0.00035652,
+price - 0.0000128958631800
+
+BuyPriceList
+theta_bnb,	0.0000129626190000
+theta_btc,	0.00001292
+theta_eth,	0.0000129403541250
+
+SellPriceList
+theta_bnb,	0.0000128696970000
+theta_btc,	0.00001289
+theta_eth,	0.0000128958631800
+
+BuyKey - theta_btc	BuyPrice - 0.00001292
+SellKey - theta_eth	SellPrice - 0.0000128958631800
+precent - -0.187%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00001292	buyPricePotential (ConversionPrice) - 0.00001292
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00035652	sellPricePotential (ConversionPrice) - 0.00001290
+percentPotential - -0.187%
+
+
+
+30/12/2018 23:42:44
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - theta_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 120.4
+request - 1072.40000000,0.00837000,
+price - 0.0000129542490000
+
+Sell	Symbol - theta_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 120.4
+request - 200.00000000,0.00831000,
+price - 0.0000128613870000
+
+Buy	Symbol - theta_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 78
+request - 11313.00000000,0.00001292,
+price - 0.00001292
+
+Sell	Symbol - theta_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 78
+request - 85.00000000,0.00001289,
+price - 0.00001289
+
+Buy	Symbol - theta_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 29
+request - 385.00000000,0.00035889,
+price - 0.0000129649012500
+
+Sell	Symbol - theta_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 29
+request - 138.00000000,0.00035652,
+price - 0.0000128792850000
+
+BuyPriceList
+theta_bnb,	0.0000129542490000
+theta_btc,	0.00001292
+theta_eth,	0.0000129649012500
+
+SellPriceList
+theta_bnb,	0.0000128613870000
+theta_btc,	0.00001289
+theta_eth,	0.0000128792850000
+
+BuyKey - theta_btc	BuyPrice - 0.00001292
+SellKey - theta_btc	SellPrice - 0.00001289
+BuyNextOffer - 0.00001292	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00001289	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+theta_bnb,	0.0000129542490000
+theta_eth,	0.0000129649012500
+
+SellPriceList
+theta_bnb,	0.0000128613870000
+theta_btc,	0.00001289
+theta_eth,	0.0000128792850000
+
+BuyKey - theta_bnb	BuyPrice - 0.0000129542490000
+SellKey - theta_btc	SellPrice - 0.00001289
+precent - -0.496%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00837000	buyPricePotential (ConversionPrice) - 0.00001295
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00001289	sellPricePotential (ConversionPrice) - 0.00001289
+percentPotential - -0.496%
+
+
+
+30/12/2018 23:43:12
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - theta_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 120.4
+request - 1072.40000000,0.00837000,
+price - 0.0000129517380000
+
+Sell	Symbol - theta_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 120.4
+request - 200.00000000,0.00831000,
+price - 0.0000128588940000
+
+Buy	Symbol - theta_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 78
+request - 11156.00000000,0.00001292,
+price - 0.00001292
+
+Sell	Symbol - theta_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 78
+request - 85.00000000,0.00001289,
+price - 0.00001289
+
+Buy	Symbol - theta_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 29
+request - 385.00000000,0.00035870,
+price - 0.0000129546298500
+
+Sell	Symbol - theta_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 29
+request - 138.00000000,0.00035652,
+price - 0.0000128758980600
+
+BuyPriceList
+theta_bnb,	0.0000129517380000
+theta_btc,	0.00001292
+theta_eth,	0.0000129546298500
+
+SellPriceList
+theta_bnb,	0.0000128588940000
+theta_btc,	0.00001289
+theta_eth,	0.0000128758980600
+
+BuyKey - theta_btc	BuyPrice - 0.00001292
+SellKey - theta_btc	SellPrice - 0.00001289
+BuyNextOffer - 0.00001292	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00001289	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+theta_bnb,	0.0000129517380000
+theta_eth,	0.0000129546298500
+
+SellPriceList
+theta_bnb,	0.0000128588940000
+theta_btc,	0.00001289
+theta_eth,	0.0000128758980600
+
+BuyKey - theta_bnb	BuyPrice - 0.0000129517380000
+SellKey - theta_btc	SellPrice - 0.00001289
+precent - -0.477%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00837000	buyPricePotential (ConversionPrice) - 0.00001295
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00001289	sellPricePotential (ConversionPrice) - 0.00001289
+percentPotential - -0.477%
+
+
+

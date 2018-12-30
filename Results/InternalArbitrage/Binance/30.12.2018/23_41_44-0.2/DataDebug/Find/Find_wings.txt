@@ -1,0 +1,174 @@
+30/12/2018 23:42:17
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - wings_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 48
+request - 916.00000000,0.00002102,
+price - 0.00002102
+
+Sell	Symbol - wings_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 48
+request - 1000.00000000,0.00002100,
+price - 0.00002100
+
+Buy	Symbol - wings_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 18
+request - 172.00000000,0.00058360,
+price - 0.0000211096874000
+
+Sell	Symbol - wings_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 18
+request - 136.00000000,0.00057960,
+price - 0.0000209650014000
+
+BuyPriceList
+wings_btc,	0.00002102
+wings_eth,	0.0000211096874000
+
+SellPriceList
+wings_btc,	0.00002100
+wings_eth,	0.0000209650014000
+
+BuyKey - wings_btc	BuyPrice - 0.00002102
+SellKey - wings_btc	SellPrice - 0.00002100
+BuyNextOffer - 0.00002102	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00002100	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+wings_eth,	0.0000211096874000
+
+SellPriceList
+wings_btc,	0.00002100
+wings_eth,	0.0000209650014000
+
+BuyKey - wings_eth	BuyPrice - 0.0000211096874000
+SellKey - wings_btc	SellPrice - 0.00002100
+precent - -0.520%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00058360	buyPricePotential (ConversionPrice) - 0.00002111
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00002100	sellPricePotential (ConversionPrice) - 0.00002100
+percentPotential - -0.520%
+
+
+
+30/12/2018 23:42:46
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - wings_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 48
+request - 916.00000000,0.00002102,
+price - 0.00002102
+
+Sell	Symbol - wings_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 48
+request - 1000.00000000,0.00002100,
+price - 0.00002100
+
+Buy	Symbol - wings_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 18
+request - 172.00000000,0.00058360,
+price - 0.0000210825500000
+
+Sell	Symbol - wings_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 18
+request - 1217.00000000,0.00057970,
+price - 0.0000209416625000
+
+BuyPriceList
+wings_btc,	0.00002102
+wings_eth,	0.0000210825500000
+
+SellPriceList
+wings_btc,	0.00002100
+wings_eth,	0.0000209416625000
+
+BuyKey - wings_btc	BuyPrice - 0.00002102
+SellKey - wings_btc	SellPrice - 0.00002100
+BuyNextOffer - 0.00002102	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00002100	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+wings_eth,	0.0000210825500000
+
+SellPriceList
+wings_btc,	0.00002100
+wings_eth,	0.0000209416625000
+
+BuyKey - wings_eth	BuyPrice - 0.0000210825500000
+SellKey - wings_btc	SellPrice - 0.00002100
+precent - -0.392%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00058360	buyPricePotential (ConversionPrice) - 0.00002108
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00002100	sellPricePotential (ConversionPrice) - 0.00002100
+percentPotential - -0.392%
+
+
+
+30/12/2018 23:43:25
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - wings_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 48
+request - 608.00000000,0.00002100,
+price - 0.00002100
+
+Sell	Symbol - wings_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 48
+request - 375.00000000,0.00002095,
+price - 0.00002095
+
+Buy	Symbol - wings_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 18
+request - 172.00000000,0.00058360,
+price - 0.0000210770058000
+
+Sell	Symbol - wings_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 18
+request - 217.00000000,0.00057970,
+price - 0.0000209361553500
+
+BuyPriceList
+wings_btc,	0.00002100
+wings_eth,	0.0000210770058000
+
+SellPriceList
+wings_btc,	0.00002095
+wings_eth,	0.0000209361553500
+
+BuyKey - wings_btc	BuyPrice - 0.00002100
+SellKey - wings_btc	SellPrice - 0.00002095
+BuyNextOffer - 0.00002100	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00002095	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+wings_eth,	0.0000210770058000
+
+SellPriceList
+wings_btc,	0.00002095
+wings_eth,	0.0000209361553500
+
+BuyKey - wings_eth	BuyPrice - 0.0000210770058000
+SellKey - wings_btc	SellPrice - 0.00002095
+precent - -0.603%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00058360	buyPricePotential (ConversionPrice) - 0.00002108
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00002095	sellPricePotential (ConversionPrice) - 0.00002095
+percentPotential - -0.603%
+
+
+

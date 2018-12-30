@@ -1,0 +1,222 @@
+30/12/2018 23:42:12
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - nav_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 34.7
+request - 90.00000000,0.02896000,
+price - 0.0000448503520000
+
+Sell	Symbol - nav_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 34.8
+request - 76.70000000,0.02881000,
+price - 0.0000446180470000
+
+Buy	Symbol - nav_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 22.33
+request - 1421.65000000,0.00004480,
+price - 0.00004480
+
+Sell	Symbol - nav_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 22.38
+request - 383.10000000,0.00004470,
+price - 0.00004470
+
+Buy	Symbol - nav_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 8.04
+request - 805.85000000,0.00124100,
+price - 0.0000448888315000
+
+Sell	Symbol - nav_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 8.12
+request - 475.23000000,0.00123200,
+price - 0.0000445632880000
+
+BuyPriceList
+nav_bnb,	0.0000448503520000
+nav_btc,	0.00004480
+nav_eth,	0.0000448888315000
+
+SellPriceList
+nav_bnb,	0.0000446180470000
+nav_btc,	0.00004470
+nav_eth,	0.0000445632880000
+
+BuyKey - nav_btc	BuyPrice - 0.00004480
+SellKey - nav_btc	SellPrice - 0.00004470
+BuyNextOffer - 0.00004480	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00004470	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+nav_bnb,	0.0000448503520000
+nav_eth,	0.0000448888315000
+
+SellPriceList
+nav_bnb,	0.0000446180470000
+nav_btc,	0.00004470
+nav_eth,	0.0000445632880000
+
+BuyKey - nav_bnb	BuyPrice - 0.0000448503520000
+SellKey - nav_btc	SellPrice - 0.00004470
+precent - -0.335%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.02896000	buyPricePotential (ConversionPrice) - 0.00004485
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00004470	sellPricePotential (ConversionPrice) - 0.00004470
+percentPotential - -0.335%
+
+
+
+30/12/2018 23:42:41
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - nav_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 34.8
+request - 90.00000000,0.02896000,
+price - 0.0000448213920000
+
+Sell	Symbol - nav_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 34.8
+request - 76.70000000,0.02881000,
+price - 0.0000445892370000
+
+Buy	Symbol - nav_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 22.38
+request - 1448.65000000,0.00004480,
+price - 0.00004480
+
+Sell	Symbol - nav_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 22.38
+request - 383.10000000,0.00004470,
+price - 0.00004470
+
+Buy	Symbol - nav_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 8.12
+request - 805.85000000,0.00124100,
+price - 0.0000448311250000
+
+Sell	Symbol - nav_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 8.12
+request - 383.10000000,0.00123300,
+price - 0.0000445421250000
+
+BuyPriceList
+nav_bnb,	0.0000448213920000
+nav_btc,	0.00004480
+nav_eth,	0.0000448311250000
+
+SellPriceList
+nav_bnb,	0.0000445892370000
+nav_btc,	0.00004470
+nav_eth,	0.0000445421250000
+
+BuyKey - nav_btc	BuyPrice - 0.00004480
+SellKey - nav_btc	SellPrice - 0.00004470
+BuyNextOffer - 0.00004480	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00004470	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+nav_bnb,	0.0000448213920000
+nav_eth,	0.0000448311250000
+
+SellPriceList
+nav_bnb,	0.0000445892370000
+nav_btc,	0.00004470
+nav_eth,	0.0000445421250000
+
+BuyKey - nav_bnb	BuyPrice - 0.0000448213920000
+SellKey - nav_btc	SellPrice - 0.00004470
+precent - -0.271%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.02896000	buyPricePotential (ConversionPrice) - 0.00004482
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00004470	sellPricePotential (ConversionPrice) - 0.00004470
+percentPotential - -0.271%
+
+
+
+30/12/2018 23:43:09
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - nav_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 34.8
+request - 90.00000000,0.02896000,
+price - 0.0000448127040000
+
+Sell	Symbol - nav_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 34.8
+request - 76.70000000,0.02881000,
+price - 0.0000445805940000
+
+Buy	Symbol - nav_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 22.38
+request - 1448.65000000,0.00004480,
+price - 0.00004480
+
+Sell	Symbol - nav_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 22.38
+request - 383.10000000,0.00004470,
+price - 0.00004470
+
+Buy	Symbol - nav_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 8.12
+request - 805.85000000,0.00124100,
+price - 0.0000448193355000
+
+Sell	Symbol - nav_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 8.12
+request - 383.10000000,0.00123300,
+price - 0.0000445304115000
+
+BuyPriceList
+nav_bnb,	0.0000448127040000
+nav_btc,	0.00004480
+nav_eth,	0.0000448193355000
+
+SellPriceList
+nav_bnb,	0.0000445805940000
+nav_btc,	0.00004470
+nav_eth,	0.0000445304115000
+
+BuyKey - nav_btc	BuyPrice - 0.00004480
+SellKey - nav_btc	SellPrice - 0.00004470
+BuyNextOffer - 0.00004480	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00004470	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+nav_bnb,	0.0000448127040000
+nav_eth,	0.0000448193355000
+
+SellPriceList
+nav_bnb,	0.0000445805940000
+nav_btc,	0.00004470
+nav_eth,	0.0000445304115000
+
+BuyKey - nav_bnb	BuyPrice - 0.0000448127040000
+SellKey - nav_btc	SellPrice - 0.00004470
+precent - -0.252%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.02896000	buyPricePotential (ConversionPrice) - 0.00004481
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00004470	sellPricePotential (ConversionPrice) - 0.00004470
+percentPotential - -0.252%
+
+
+

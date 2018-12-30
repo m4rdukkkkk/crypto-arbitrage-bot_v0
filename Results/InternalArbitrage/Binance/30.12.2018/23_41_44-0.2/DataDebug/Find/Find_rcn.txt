@@ -1,0 +1,208 @@
+30/12/2018 23:42:14
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - rcn_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 491
+request - 1193.00000000,0.00204300,
+price - 0.0000031639941000
+
+Sell	Symbol - rcn_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 494
+request - 4671.00000000,0.00202700,
+price - 0.0000031392149000
+
+Buy	Symbol - rcn_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 319
+request - 49660.00000000,0.00000316,
+price - 0.00000316
+
+Sell	Symbol - rcn_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 319
+request - 6358.00000000,0.00000314,
+price - 0.00000314
+
+Buy	Symbol - rcn_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 115
+request - 354.00000000,0.00008820,
+price - 0.0000031903263000
+
+Sell	Symbol - rcn_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 116
+request - 1150.00000000,0.00008690,
+price - 0.0000031433033500
+
+BuyPriceList
+rcn_bnb,	0.0000031639941000
+rcn_btc,	0.00000316
+rcn_eth,	0.0000031903263000
+
+SellPriceList
+rcn_bnb,	0.0000031392149000
+rcn_btc,	0.00000314
+rcn_eth,	0.0000031433033500
+
+BuyKey - rcn_btc	BuyPrice - 0.00000316
+SellKey - rcn_eth	SellPrice - 0.0000031433033500
+precent - -0.528%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000316	buyPricePotential (ConversionPrice) - 0.00000316
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00008690	sellPricePotential (ConversionPrice) - 0.00000314
+percentPotential - -0.528%
+
+
+
+30/12/2018 23:42:43
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - rcn_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 494
+request - 1193.00000000,0.00204300,
+price - 0.0000031619511000
+
+Sell	Symbol - rcn_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 494
+request - 4671.00000000,0.00202700,
+price - 0.0000031371879000
+
+Buy	Symbol - rcn_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 319
+request - 49660.00000000,0.00000316,
+price - 0.00000316
+
+Sell	Symbol - rcn_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 319
+request - 6358.00000000,0.00000314,
+price - 0.00000314
+
+Buy	Symbol - rcn_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 116
+request - 354.00000000,0.00008820,
+price - 0.0000031862250000
+
+Sell	Symbol - rcn_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 116
+request - 1150.00000000,0.00008690,
+price - 0.0000031392625000
+
+BuyPriceList
+rcn_bnb,	0.0000031619511000
+rcn_btc,	0.00000316
+rcn_eth,	0.0000031862250000
+
+SellPriceList
+rcn_bnb,	0.0000031371879000
+rcn_btc,	0.00000314
+rcn_eth,	0.0000031392625000
+
+BuyKey - rcn_btc	BuyPrice - 0.00000316
+SellKey - rcn_btc	SellPrice - 0.00000314
+BuyNextOffer - 0.00000316	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00000314	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+rcn_bnb,	0.0000031619511000
+rcn_eth,	0.0000031862250000
+
+SellPriceList
+rcn_bnb,	0.0000031371879000
+rcn_btc,	0.00000314
+rcn_eth,	0.0000031392625000
+
+BuyKey - rcn_bnb	BuyPrice - 0.0000031619511000
+SellKey - rcn_btc	SellPrice - 0.00000314
+precent - -0.694%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00204300	buyPricePotential (ConversionPrice) - 0.00000316
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000314	sellPricePotential (ConversionPrice) - 0.00000314
+percentPotential - -0.694%
+
+
+
+30/12/2018 23:43:10
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - rcn_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 494
+request - 1193.00000000,0.00204300,
+price - 0.0000031613382000
+
+Sell	Symbol - rcn_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 494
+request - 4671.00000000,0.00202700,
+price - 0.0000031365798000
+
+Buy	Symbol - rcn_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 319
+request - 49660.00000000,0.00000316,
+price - 0.00000316
+
+Sell	Symbol - rcn_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 319
+request - 6358.00000000,0.00000314,
+price - 0.00000314
+
+Buy	Symbol - rcn_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 116
+request - 354.00000000,0.00008820,
+price - 0.0000031853871000
+
+Sell	Symbol - rcn_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 116
+request - 1150.00000000,0.00008690,
+price - 0.0000031384369500
+
+BuyPriceList
+rcn_bnb,	0.0000031613382000
+rcn_btc,	0.00000316
+rcn_eth,	0.0000031853871000
+
+SellPriceList
+rcn_bnb,	0.0000031365798000
+rcn_btc,	0.00000314
+rcn_eth,	0.0000031384369500
+
+BuyKey - rcn_btc	BuyPrice - 0.00000316
+SellKey - rcn_btc	SellPrice - 0.00000314
+BuyNextOffer - 0.00000316	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00000314	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+rcn_bnb,	0.0000031613382000
+rcn_eth,	0.0000031853871000
+
+SellPriceList
+rcn_bnb,	0.0000031365798000
+rcn_btc,	0.00000314
+rcn_eth,	0.0000031384369500
+
+BuyKey - rcn_bnb	BuyPrice - 0.0000031613382000
+SellKey - rcn_btc	SellPrice - 0.00000314
+precent - -0.675%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00204300	buyPricePotential (ConversionPrice) - 0.00000316
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000314	sellPricePotential (ConversionPrice) - 0.00000314
+percentPotential - -0.675%
+
+
+

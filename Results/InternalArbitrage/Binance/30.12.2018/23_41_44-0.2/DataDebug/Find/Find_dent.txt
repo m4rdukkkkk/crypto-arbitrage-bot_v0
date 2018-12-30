@@ -1,0 +1,174 @@
+30/12/2018 23:42:07
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - dent_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2778
+request - 81495552.00000000,0.00000036,
+price - 0.00000036
+
+Sell	Symbol - dent_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2858
+request - 233518.00000000,0.00000035,
+price - 0.00000035
+
+Buy	Symbol - dent_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1023
+request - 69080.00000000,0.00000978,
+price - 0.0000003537572700
+
+Sell	Symbol - dent_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1032
+request - 49209.00000000,0.00000969,
+price - 0.0000003505018350
+
+BuyPriceList
+dent_btc,	0.00000036
+dent_eth,	0.0000003537572700
+
+SellPriceList
+dent_btc,	0.00000035
+dent_eth,	0.0000003505018350
+
+BuyKey - dent_eth	BuyPrice - 0.0000003537572700
+SellKey - dent_eth	SellPrice - 0.0000003505018350
+BuyNextOffer - 0.00000036	BuyNextOfferDifrent - 0.0000000062427300
+SellNextOffer - 0.00000035	SellNextOfferDifrent - 0.0000000005018350
+(BuyNextOfferDifrent > SellNextOfferDifrent) - True
+BuyPriceList
+dent_btc,	0.00000036
+dent_eth,	0.0000003537572700
+
+SellPriceList
+dent_btc,	0.00000035
+
+BuyKey - dent_eth	BuyPrice - 0.0000003537572700
+SellKey - dent_btc	SellPrice - 0.00000035
+precent - -1.062%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000978	buyPricePotential (ConversionPrice) - 0.00000035
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000035	sellPricePotential (ConversionPrice) - 0.00000035
+percentPotential - -1.062%
+
+
+
+30/12/2018 23:42:37
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - dent_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2858
+request - 81492497.00000000,0.00000036,
+price - 0.00000036
+
+Sell	Symbol - dent_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2858
+request - 105751.00000000,0.00000035,
+price - 0.00000035
+
+Buy	Symbol - dent_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1032
+request - 69080.00000000,0.00000978,
+price - 0.0000003533025000
+
+Sell	Symbol - dent_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1032
+request - 49209.00000000,0.00000969,
+price - 0.0000003500512500
+
+BuyPriceList
+dent_btc,	0.00000036
+dent_eth,	0.0000003533025000
+
+SellPriceList
+dent_btc,	0.00000035
+dent_eth,	0.0000003500512500
+
+BuyKey - dent_eth	BuyPrice - 0.0000003533025000
+SellKey - dent_eth	SellPrice - 0.0000003500512500
+BuyNextOffer - 0.00000036	BuyNextOfferDifrent - 0.0000000066975000
+SellNextOffer - 0.00000035	SellNextOfferDifrent - 0.0000000000512500
+(BuyNextOfferDifrent > SellNextOfferDifrent) - True
+BuyPriceList
+dent_btc,	0.00000036
+dent_eth,	0.0000003533025000
+
+SellPriceList
+dent_btc,	0.00000035
+
+BuyKey - dent_eth	BuyPrice - 0.0000003533025000
+SellKey - dent_btc	SellPrice - 0.00000035
+precent - -0.935%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000978	buyPricePotential (ConversionPrice) - 0.00000035
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000035	sellPricePotential (ConversionPrice) - 0.00000035
+percentPotential - -0.935%
+
+
+
+30/12/2018 23:43:05
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - dent_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2858
+request - 81492497.00000000,0.00000036,
+price - 0.00000036
+
+Sell	Symbol - dent_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2858
+request - 105751.00000000,0.00000035,
+price - 0.00000035
+
+Buy	Symbol - dent_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1032
+request - 69080.00000000,0.00000978,
+price - 0.0000003533025000
+
+Sell	Symbol - dent_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1032
+request - 49209.00000000,0.00000969,
+price - 0.0000003500512500
+
+BuyPriceList
+dent_btc,	0.00000036
+dent_eth,	0.0000003533025000
+
+SellPriceList
+dent_btc,	0.00000035
+dent_eth,	0.0000003500512500
+
+BuyKey - dent_eth	BuyPrice - 0.0000003533025000
+SellKey - dent_eth	SellPrice - 0.0000003500512500
+BuyNextOffer - 0.00000036	BuyNextOfferDifrent - 0.0000000066975000
+SellNextOffer - 0.00000035	SellNextOfferDifrent - 0.0000000000512500
+(BuyNextOfferDifrent > SellNextOfferDifrent) - True
+BuyPriceList
+dent_btc,	0.00000036
+dent_eth,	0.0000003533025000
+
+SellPriceList
+dent_btc,	0.00000035
+
+BuyKey - dent_eth	BuyPrice - 0.0000003533025000
+SellKey - dent_btc	SellPrice - 0.00000035
+precent - -0.935%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000978	buyPricePotential (ConversionPrice) - 0.00000035
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000035	sellPricePotential (ConversionPrice) - 0.00000035
+percentPotential - -0.935%
+
+
+

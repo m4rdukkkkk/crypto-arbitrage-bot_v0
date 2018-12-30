@@ -1,0 +1,174 @@
+30/12/2018 23:42:15
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - storj_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 26
+request - 31.00000000,0.00003874,
+price - 0.00003874
+
+Sell	Symbol - storj_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 26
+request - 155.00000000,0.00003851,
+price - 0.00003851
+
+Buy	Symbol - storj_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 10
+request - 50.00000000,0.00107380,
+price - 0.0000388409567000
+
+Sell	Symbol - storj_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 10
+request - 417.00000000,0.00106140,
+price - 0.0000383924301000
+
+BuyPriceList
+storj_btc,	0.00003874
+storj_eth,	0.0000388409567000
+
+SellPriceList
+storj_btc,	0.00003851
+storj_eth,	0.0000383924301000
+
+BuyKey - storj_btc	BuyPrice - 0.00003874
+SellKey - storj_btc	SellPrice - 0.00003851
+BuyNextOffer - 0.00003874	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00003851	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+storj_eth,	0.0000388409567000
+
+SellPriceList
+storj_btc,	0.00003851
+storj_eth,	0.0000383924301000
+
+BuyKey - storj_eth	BuyPrice - 0.0000388409567000
+SellKey - storj_btc	SellPrice - 0.00003851
+precent - -0.852%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00107380	buyPricePotential (ConversionPrice) - 0.00003884
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00003851	sellPricePotential (ConversionPrice) - 0.00003851
+percentPotential - -0.852%
+
+
+
+30/12/2018 23:42:44
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - storj_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 26
+request - 425.00000000,0.00003871,
+price - 0.00003871
+
+Sell	Symbol - storj_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 26
+request - 155.00000000,0.00003851,
+price - 0.00003851
+
+Buy	Symbol - storj_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 10
+request - 50.00000000,0.00107380,
+price - 0.0000387910250000
+
+Sell	Symbol - storj_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 10
+request - 417.00000000,0.00106240,
+price - 0.0000383792000000
+
+BuyPriceList
+storj_btc,	0.00003871
+storj_eth,	0.0000387910250000
+
+SellPriceList
+storj_btc,	0.00003851
+storj_eth,	0.0000383792000000
+
+BuyKey - storj_btc	BuyPrice - 0.00003871
+SellKey - storj_btc	SellPrice - 0.00003851
+BuyNextOffer - 0.00003871	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00003851	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+storj_eth,	0.0000387910250000
+
+SellPriceList
+storj_btc,	0.00003851
+storj_eth,	0.0000383792000000
+
+BuyKey - storj_eth	BuyPrice - 0.0000387910250000
+SellKey - storj_btc	SellPrice - 0.00003851
+precent - -0.724%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00107380	buyPricePotential (ConversionPrice) - 0.00003879
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00003851	sellPricePotential (ConversionPrice) - 0.00003851
+percentPotential - -0.724%
+
+
+
+30/12/2018 23:43:11
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - storj_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 26
+request - 425.00000000,0.00003871,
+price - 0.00003871
+
+Sell	Symbol - storj_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 26
+request - 155.00000000,0.00003851,
+price - 0.00003851
+
+Buy	Symbol - storj_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 10
+request - 50.00000000,0.00107380,
+price - 0.0000387808239000
+
+Sell	Symbol - storj_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 10
+request - 417.00000000,0.00106240,
+price - 0.0000383691072000
+
+BuyPriceList
+storj_btc,	0.00003871
+storj_eth,	0.0000387808239000
+
+SellPriceList
+storj_btc,	0.00003851
+storj_eth,	0.0000383691072000
+
+BuyKey - storj_btc	BuyPrice - 0.00003871
+SellKey - storj_btc	SellPrice - 0.00003851
+BuyNextOffer - 0.00003871	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00003851	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+storj_eth,	0.0000387808239000
+
+SellPriceList
+storj_btc,	0.00003851
+storj_eth,	0.0000383691072000
+
+BuyKey - storj_eth	BuyPrice - 0.0000387808239000
+SellKey - storj_btc	SellPrice - 0.00003851
+precent - -0.698%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00107380	buyPricePotential (ConversionPrice) - 0.00003878
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00003851	sellPricePotential (ConversionPrice) - 0.00003851
+percentPotential - -0.698%
+
+
+

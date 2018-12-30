@@ -1,0 +1,180 @@
+30/12/2018 23:42:16
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - via_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 18.8
+request - 141.60000000,0.05365000,
+price - 0.0000830877550000
+
+Sell	Symbol - via_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 19
+request - 141.50000000,0.05286000,
+price - 0.0000818642820000
+
+Buy	Symbol - via_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 12.1
+request - 331.47000000,0.00008270,
+price - 0.00008270
+
+Sell	Symbol - via_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 12.17
+request - 1741.07000000,0.00008220,
+price - 0.00008220
+
+Buy	Symbol - via_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.39
+request - 57.00000000,0.00230500,
+price - 0.0000833753075000
+
+Sell	Symbol - via_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.39
+request - 77.50000000,0.00228000,
+price - 0.0000824710200000
+
+BuyPriceList
+via_bnb,	0.0000830877550000
+via_btc,	0.00008270
+via_eth,	0.0000833753075000
+
+SellPriceList
+via_bnb,	0.0000818642820000
+via_btc,	0.00008220
+via_eth,	0.0000824710200000
+
+BuyKey - via_btc	BuyPrice - 0.00008270
+SellKey - via_eth	SellPrice - 0.0000824710200000
+precent - -0.277%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00008270	buyPricePotential (ConversionPrice) - 0.00008270
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00228000	sellPricePotential (ConversionPrice) - 0.00008247
+percentPotential - -0.277%
+
+
+
+30/12/2018 23:42:45
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - via_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 19
+request - 141.60000000,0.05365000,
+price - 0.0000830341050000
+
+Sell	Symbol - via_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 19
+request - 77.50000000,0.05287000,
+price - 0.0000818268990000
+
+Buy	Symbol - via_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 12.17
+request - 331.47000000,0.00008270,
+price - 0.00008270
+
+Sell	Symbol - via_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 12.17
+request - 1663.57000000,0.00008220,
+price - 0.00008220
+
+Buy	Symbol - via_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.39
+request - 43.65000000,0.00230400,
+price - 0.0000832320000000
+
+Sell	Symbol - via_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.39
+request - 77.50000000,0.00228000,
+price - 0.0000823650000000
+
+BuyPriceList
+via_bnb,	0.0000830341050000
+via_btc,	0.00008270
+via_eth,	0.0000832320000000
+
+SellPriceList
+via_bnb,	0.0000818268990000
+via_btc,	0.00008220
+via_eth,	0.0000823650000000
+
+BuyKey - via_btc	BuyPrice - 0.00008270
+SellKey - via_eth	SellPrice - 0.0000823650000000
+precent - -0.405%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00008270	buyPricePotential (ConversionPrice) - 0.00008270
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00228000	sellPricePotential (ConversionPrice) - 0.00008237
+percentPotential - -0.405%
+
+
+
+30/12/2018 23:43:24
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - via_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 19
+request - 141.60000000,0.05365000,
+price - 0.0000830180100000
+
+Sell	Symbol - via_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 19
+request - 488.80000000,0.05288000,
+price - 0.0000818265120000
+
+Buy	Symbol - via_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 12.17
+request - 331.47000000,0.00008270,
+price - 0.00008270
+
+Sell	Symbol - via_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 12.17
+request - 1663.57000000,0.00008220,
+price - 0.00008220
+
+Buy	Symbol - via_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.39
+request - 1009.73000000,0.00230300,
+price - 0.0000831739965000
+
+Sell	Symbol - via_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.39
+request - 77.50000000,0.00228000,
+price - 0.0000823433400000
+
+BuyPriceList
+via_bnb,	0.0000830180100000
+via_btc,	0.00008270
+via_eth,	0.0000831739965000
+
+SellPriceList
+via_bnb,	0.0000818265120000
+via_btc,	0.00008220
+via_eth,	0.0000823433400000
+
+BuyKey - via_btc	BuyPrice - 0.00008270
+SellKey - via_eth	SellPrice - 0.0000823433400000
+precent - -0.431%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00008270	buyPricePotential (ConversionPrice) - 0.00008270
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00228000	sellPricePotential (ConversionPrice) - 0.00008234
+percentPotential - -0.431%
+
+
+

@@ -1,0 +1,174 @@
+30/12/2018 23:42:10
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - lend_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 481
+request - 58399.00000000,0.00000207,
+price - 0.00000207
+
+Sell	Symbol - lend_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 486
+request - 81442.00000000,0.00000206,
+price - 0.00000206
+
+Buy	Symbol - lend_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 176
+request - 1753.00000000,0.00005751,
+price - 0.0000020802229650
+
+Sell	Symbol - lend_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 176
+request - 767.00000000,0.00005694,
+price - 0.0000020596052100
+
+BuyPriceList
+lend_btc,	0.00000207
+lend_eth,	0.0000020802229650
+
+SellPriceList
+lend_btc,	0.00000206
+lend_eth,	0.0000020596052100
+
+BuyKey - lend_btc	BuyPrice - 0.00000207
+SellKey - lend_btc	SellPrice - 0.00000206
+BuyNextOffer - 0.00000207	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00000206	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+lend_eth,	0.0000020802229650
+
+SellPriceList
+lend_btc,	0.00000206
+lend_eth,	0.0000020596052100
+
+BuyKey - lend_eth	BuyPrice - 0.0000020802229650
+SellKey - lend_btc	SellPrice - 0.00000206
+precent - -0.972%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00005751	buyPricePotential (ConversionPrice) - 0.00000208
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000206	sellPricePotential (ConversionPrice) - 0.00000206
+percentPotential - -0.972%
+
+
+
+30/12/2018 23:42:39
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - lend_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 486
+request - 58216.00000000,0.00000207,
+price - 0.00000207
+
+Sell	Symbol - lend_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 486
+request - 81442.00000000,0.00000206,
+price - 0.00000206
+
+Buy	Symbol - lend_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 176
+request - 1753.00000000,0.00005751,
+price - 0.0000020775487500
+
+Sell	Symbol - lend_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 176
+request - 767.00000000,0.00005694,
+price - 0.0000020569575000
+
+BuyPriceList
+lend_btc,	0.00000207
+lend_eth,	0.0000020775487500
+
+SellPriceList
+lend_btc,	0.00000206
+lend_eth,	0.0000020569575000
+
+BuyKey - lend_btc	BuyPrice - 0.00000207
+SellKey - lend_btc	SellPrice - 0.00000206
+BuyNextOffer - 0.00000207	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00000206	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+lend_eth,	0.0000020775487500
+
+SellPriceList
+lend_btc,	0.00000206
+lend_eth,	0.0000020569575000
+
+BuyKey - lend_eth	BuyPrice - 0.0000020775487500
+SellKey - lend_btc	SellPrice - 0.00000206
+precent - -0.845%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00005751	buyPricePotential (ConversionPrice) - 0.00000208
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000206	sellPricePotential (ConversionPrice) - 0.00000206
+percentPotential - -0.845%
+
+
+
+30/12/2018 23:43:07
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - lend_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 486
+request - 58216.00000000,0.00000207,
+price - 0.00000207
+
+Sell	Symbol - lend_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 486
+request - 81442.00000000,0.00000206,
+price - 0.00000206
+
+Buy	Symbol - lend_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 176
+request - 1753.00000000,0.00005751,
+price - 0.0000020770024050
+
+Sell	Symbol - lend_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 176
+request - 767.00000000,0.00005694,
+price - 0.0000020564165700
+
+BuyPriceList
+lend_btc,	0.00000207
+lend_eth,	0.0000020770024050
+
+SellPriceList
+lend_btc,	0.00000206
+lend_eth,	0.0000020564165700
+
+BuyKey - lend_btc	BuyPrice - 0.00000207
+SellKey - lend_btc	SellPrice - 0.00000206
+BuyNextOffer - 0.00000207	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00000206	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+lend_eth,	0.0000020770024050
+
+SellPriceList
+lend_btc,	0.00000206
+lend_eth,	0.0000020564165700
+
+BuyKey - lend_eth	BuyPrice - 0.0000020770024050
+SellKey - lend_btc	SellPrice - 0.00000206
+precent - -0.819%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00005751	buyPricePotential (ConversionPrice) - 0.00000208
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000206	sellPricePotential (ConversionPrice) - 0.00000206
+percentPotential - -0.819%
+
+
+

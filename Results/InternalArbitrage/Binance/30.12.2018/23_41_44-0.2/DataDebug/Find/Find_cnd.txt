@@ -1,0 +1,208 @@
+30/12/2018 23:42:07
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - cnd_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 591
+request - 10176.00000000,0.00169500,
+price - 0.0000026250465000
+
+Sell	Symbol - cnd_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 596
+request - 1870.00000000,0.00167800,
+price - 0.0000025987186000
+
+Buy	Symbol - cnd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 385
+request - 91581.00000000,0.00000261,
+price - 0.00000261
+
+Sell	Symbol - cnd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 385
+request - 292809.00000000,0.00000260,
+price - 0.00000260
+
+Buy	Symbol - cnd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 140
+request - 30530.00000000,0.00007286,
+price - 0.0000026354554900
+
+Sell	Symbol - cnd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 139
+request - 29327.00000000,0.00007195,
+price - 0.0000026025394250
+
+BuyPriceList
+cnd_bnb,	0.0000026250465000
+cnd_btc,	0.00000261
+cnd_eth,	0.0000026354554900
+
+SellPriceList
+cnd_bnb,	0.0000025987186000
+cnd_btc,	0.00000260
+cnd_eth,	0.0000026025394250
+
+BuyKey - cnd_btc	BuyPrice - 0.00000261
+SellKey - cnd_eth	SellPrice - 0.0000026025394250
+precent - -0.286%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000261	buyPricePotential (ConversionPrice) - 0.00000261
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00007195	sellPricePotential (ConversionPrice) - 0.00000260
+percentPotential - -0.286%
+
+
+
+30/12/2018 23:42:37
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - cnd_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 596
+request - 10176.00000000,0.00169500,
+price - 0.0000026233515000
+
+Sell	Symbol - cnd_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 596
+request - 1870.00000000,0.00167800,
+price - 0.0000025970406000
+
+Buy	Symbol - cnd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 385
+request - 91581.00000000,0.00000261,
+price - 0.00000261
+
+Sell	Symbol - cnd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 385
+request - 292809.00000000,0.00000260,
+price - 0.00000260
+
+Buy	Symbol - cnd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 139
+request - 2889.00000000,0.00007286,
+price - 0.0000026320675000
+
+Sell	Symbol - cnd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 139
+request - 1531.00000000,0.00007195,
+price - 0.0000025991937500
+
+BuyPriceList
+cnd_bnb,	0.0000026233515000
+cnd_btc,	0.00000261
+cnd_eth,	0.0000026320675000
+
+SellPriceList
+cnd_bnb,	0.0000025970406000
+cnd_btc,	0.00000260
+cnd_eth,	0.0000025991937500
+
+BuyKey - cnd_btc	BuyPrice - 0.00000261
+SellKey - cnd_btc	SellPrice - 0.00000260
+BuyNextOffer - 0.00000261	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00000260	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+cnd_bnb,	0.0000026233515000
+cnd_eth,	0.0000026320675000
+
+SellPriceList
+cnd_bnb,	0.0000025970406000
+cnd_btc,	0.00000260
+cnd_eth,	0.0000025991937500
+
+BuyKey - cnd_bnb	BuyPrice - 0.0000026233515000
+SellKey - cnd_btc	SellPrice - 0.00000260
+precent - -0.890%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00169500	buyPricePotential (ConversionPrice) - 0.00000262
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000260	sellPricePotential (ConversionPrice) - 0.00000260
+percentPotential - -0.890%
+
+
+
+30/12/2018 23:43:05
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - cnd_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 596
+request - 10176.00000000,0.00169500,
+price - 0.0000026233515000
+
+Sell	Symbol - cnd_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 596
+request - 1870.00000000,0.00167800,
+price - 0.0000025970406000
+
+Buy	Symbol - cnd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 385
+request - 91581.00000000,0.00000261,
+price - 0.00000261
+
+Sell	Symbol - cnd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 385
+request - 292809.00000000,0.00000260,
+price - 0.00000260
+
+Buy	Symbol - cnd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 139
+request - 2889.00000000,0.00007286,
+price - 0.0000026320675000
+
+Sell	Symbol - cnd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 139
+request - 1531.00000000,0.00007195,
+price - 0.0000025991937500
+
+BuyPriceList
+cnd_bnb,	0.0000026233515000
+cnd_btc,	0.00000261
+cnd_eth,	0.0000026320675000
+
+SellPriceList
+cnd_bnb,	0.0000025970406000
+cnd_btc,	0.00000260
+cnd_eth,	0.0000025991937500
+
+BuyKey - cnd_btc	BuyPrice - 0.00000261
+SellKey - cnd_btc	SellPrice - 0.00000260
+BuyNextOffer - 0.00000261	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00000260	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+cnd_bnb,	0.0000026233515000
+cnd_eth,	0.0000026320675000
+
+SellPriceList
+cnd_bnb,	0.0000025970406000
+cnd_btc,	0.00000260
+cnd_eth,	0.0000025991937500
+
+BuyKey - cnd_bnb	BuyPrice - 0.0000026233515000
+SellKey - cnd_btc	SellPrice - 0.00000260
+precent - -0.890%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00169500	buyPricePotential (ConversionPrice) - 0.00000262
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000260	sellPricePotential (ConversionPrice) - 0.00000260
+percentPotential - -0.890%
+
+
+

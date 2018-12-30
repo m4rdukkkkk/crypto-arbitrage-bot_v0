@@ -1,0 +1,222 @@
+30/12/2018 23:42:13
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - ost_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 239
+request - 470.00000000,0.00420200,
+price - 0.0000065076374000
+
+Sell	Symbol - ost_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 240
+request - 11469.00000000,0.00418100,
+price - 0.0000064751147000
+
+Buy	Symbol - ost_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 155
+request - 15146.00000000,0.00000649,
+price - 0.00000649
+
+Sell	Symbol - ost_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 155
+request - 11118.00000000,0.00000648,
+price - 0.00000648
+
+Buy	Symbol - ost_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 56
+request - 2629.00000000,0.00018108,
+price - 0.0000065499352200
+
+Sell	Symbol - ost_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 56
+request - 446.00000000,0.00017911,
+price - 0.0000064786773650
+
+BuyPriceList
+ost_bnb,	0.0000065076374000
+ost_btc,	0.00000649
+ost_eth,	0.0000065499352200
+
+SellPriceList
+ost_bnb,	0.0000064751147000
+ost_btc,	0.00000648
+ost_eth,	0.0000064786773650
+
+BuyKey - ost_btc	BuyPrice - 0.00000649
+SellKey - ost_btc	SellPrice - 0.00000648
+BuyNextOffer - 0.00000649	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00000648	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+ost_bnb,	0.0000065076374000
+ost_eth,	0.0000065499352200
+
+SellPriceList
+ost_bnb,	0.0000064751147000
+ost_btc,	0.00000648
+ost_eth,	0.0000064786773650
+
+BuyKey - ost_bnb	BuyPrice - 0.0000065076374000
+SellKey - ost_btc	SellPrice - 0.00000648
+precent - -0.425%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00420200	buyPricePotential (ConversionPrice) - 0.00000651
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000648	sellPricePotential (ConversionPrice) - 0.00000648
+percentPotential - -0.425%
+
+
+
+30/12/2018 23:42:42
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - ost_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 240
+request - 470.00000000,0.00420200,
+price - 0.0000065034354000
+
+Sell	Symbol - ost_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 240
+request - 11469.00000000,0.00418100,
+price - 0.0000064709337000
+
+Buy	Symbol - ost_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 155
+request - 15721.00000000,0.00000649,
+price - 0.00000649
+
+Sell	Symbol - ost_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 155
+request - 11118.00000000,0.00000648,
+price - 0.00000648
+
+Buy	Symbol - ost_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 56
+request - 1378.00000000,0.00017991,
+price - 0.0000064992487500
+
+Sell	Symbol - ost_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 56
+request - 446.00000000,0.00017911,
+price - 0.0000064703487500
+
+BuyPriceList
+ost_bnb,	0.0000065034354000
+ost_btc,	0.00000649
+ost_eth,	0.0000064992487500
+
+SellPriceList
+ost_bnb,	0.0000064709337000
+ost_btc,	0.00000648
+ost_eth,	0.0000064703487500
+
+BuyKey - ost_btc	BuyPrice - 0.00000649
+SellKey - ost_btc	SellPrice - 0.00000648
+BuyNextOffer - 0.00000649	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00000648	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+ost_bnb,	0.0000065034354000
+ost_eth,	0.0000064992487500
+
+SellPriceList
+ost_bnb,	0.0000064709337000
+ost_btc,	0.00000648
+ost_eth,	0.0000064703487500
+
+BuyKey - ost_eth	BuyPrice - 0.0000064992487500
+SellKey - ost_btc	SellPrice - 0.00000648
+precent - -0.296%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00017991	buyPricePotential (ConversionPrice) - 0.00000650
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000648	sellPricePotential (ConversionPrice) - 0.00000648
+percentPotential - -0.296%
+
+
+
+30/12/2018 23:43:09
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - ost_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 240
+request - 470.00000000,0.00420200,
+price - 0.0000065021748000
+
+Sell	Symbol - ost_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 240
+request - 11469.00000000,0.00418100,
+price - 0.0000064696794000
+
+Buy	Symbol - ost_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 155
+request - 15721.00000000,0.00000649,
+price - 0.00000649
+
+Sell	Symbol - ost_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 155
+request - 11118.00000000,0.00000648,
+price - 0.00000648
+
+Buy	Symbol - ost_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 56
+request - 1378.00000000,0.00017991,
+price - 0.0000064975396050
+
+Sell	Symbol - ost_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 56
+request - 446.00000000,0.00017911,
+price - 0.0000064686472050
+
+BuyPriceList
+ost_bnb,	0.0000065021748000
+ost_btc,	0.00000649
+ost_eth,	0.0000064975396050
+
+SellPriceList
+ost_bnb,	0.0000064696794000
+ost_btc,	0.00000648
+ost_eth,	0.0000064686472050
+
+BuyKey - ost_btc	BuyPrice - 0.00000649
+SellKey - ost_btc	SellPrice - 0.00000648
+BuyNextOffer - 0.00000649	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00000648	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+ost_bnb,	0.0000065021748000
+ost_eth,	0.0000064975396050
+
+SellPriceList
+ost_bnb,	0.0000064696794000
+ost_btc,	0.00000648
+ost_eth,	0.0000064686472050
+
+BuyKey - ost_eth	BuyPrice - 0.0000064975396050
+SellKey - ost_btc	SellPrice - 0.00000648
+precent - -0.270%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00017991	buyPricePotential (ConversionPrice) - 0.00000650
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000648	sellPricePotential (ConversionPrice) - 0.00000648
+percentPotential - -0.270%
+
+
+

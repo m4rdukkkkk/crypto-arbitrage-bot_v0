@@ -1,0 +1,138 @@
+30/12/2018 23:42:16
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - strat_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.2
+request - 131.70000000,0.00031300,
+price - 0.00031300
+
+Sell	Symbol - strat_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.21
+request - 29.39000000,0.00031230,
+price - 0.00031230
+
+Buy	Symbol - strat_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.16
+request - 72.95000000,0.00866500,
+price - 0.0003134260475000
+
+Sell	Symbol - strat_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.16
+request - 44.94000000,0.00863500,
+price - 0.0003123409025000
+
+BuyPriceList
+strat_btc,	0.00031300
+strat_eth,	0.0003134260475000
+
+SellPriceList
+strat_btc,	0.00031230
+strat_eth,	0.0003123409025000
+
+BuyKey - strat_btc	BuyPrice - 0.00031300
+SellKey - strat_eth	SellPrice - 0.0003123409025000
+precent - -0.211%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00031300	buyPricePotential (ConversionPrice) - 0.00031300
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00863500	sellPricePotential (ConversionPrice) - 0.00031234
+percentPotential - -0.211%
+
+
+
+30/12/2018 23:42:44
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - strat_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.21
+request - 3.83000000,0.00031310,
+price - 0.00031310
+
+Sell	Symbol - strat_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.2
+request - 29.38000000,0.00031260,
+price - 0.00031260
+
+Buy	Symbol - strat_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.16
+request - 72.95000000,0.00866500,
+price - 0.0003130231250000
+
+Sell	Symbol - strat_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.16
+request - 12.92000000,0.00863200,
+price - 0.0003118310000000
+
+BuyPriceList
+strat_btc,	0.00031310
+strat_eth,	0.0003130231250000
+
+SellPriceList
+strat_btc,	0.00031260
+strat_eth,	0.0003118310000000
+
+BuyKey - strat_eth	BuyPrice - 0.0003130231250000
+SellKey - strat_btc	SellPrice - 0.00031260
+precent - -0.135%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00866500	buyPricePotential (ConversionPrice) - 0.00031302
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00031260	sellPricePotential (ConversionPrice) - 0.00031260
+percentPotential - -0.135%
+
+
+
+30/12/2018 23:43:11
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - strat_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.2
+request - 3.83000000,0.00031180,
+price - 0.00031180
+
+Sell	Symbol - strat_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.22
+request - 19.28000000,0.00031110,
+price - 0.00031110
+
+Buy	Symbol - strat_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.16
+request - 44.94000000,0.00866400,
+price - 0.0003129046920000
+
+Sell	Symbol - strat_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.16
+request - 3.20000000,0.00863200,
+price - 0.0003117489960000
+
+BuyPriceList
+strat_btc,	0.00031180
+strat_eth,	0.0003129046920000
+
+SellPriceList
+strat_btc,	0.00031110
+strat_eth,	0.0003117489960000
+
+BuyKey - strat_btc	BuyPrice - 0.00031180
+SellKey - strat_eth	SellPrice - 0.0003117489960000
+precent - -0.016%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00031180	buyPricePotential (ConversionPrice) - 0.00031180
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00863200	sellPricePotential (ConversionPrice) - 0.00031175
+percentPotential - -0.016%
+
+
+

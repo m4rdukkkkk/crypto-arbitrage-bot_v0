@@ -1,0 +1,180 @@
+30/12/2018 23:42:14
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - qsp_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 393
+request - 1140.00000000,0.00258100,
+price - 0.0000039971947000
+
+Sell	Symbol - qsp_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 393
+request - 785.00000000,0.00254900,
+price - 0.0000039476363000
+
+Buy	Symbol - qsp_btc
+while (amaunt < item.MinAmount) count - 2
+MinAmount - 254
+request - 43619.00000000,0.00000395,
+price - 0.00000395
+
+Sell	Symbol - qsp_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 255
+request - 1816.00000000,0.00000393,
+price - 0.00000393
+
+Buy	Symbol - qsp_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 92
+request - 331.00000000,0.00010941,
+price - 0.0000039575238150
+
+Sell	Symbol - qsp_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 92
+request - 1968.00000000,0.00010913,
+price - 0.0000039473957950
+
+BuyPriceList
+qsp_bnb,	0.0000039971947000
+qsp_btc,	0.00000395
+qsp_eth,	0.0000039575238150
+
+SellPriceList
+qsp_bnb,	0.0000039476363000
+qsp_btc,	0.00000393
+qsp_eth,	0.0000039473957950
+
+BuyKey - qsp_btc	BuyPrice - 0.00000395
+SellKey - qsp_bnb	SellPrice - 0.0000039476363000
+precent - -0.060%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000395	buyPricePotential (ConversionPrice) - 0.00000395
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00254900	sellPricePotential (ConversionPrice) - 0.00000395
+percentPotential - -0.060%
+
+
+
+30/12/2018 23:42:42
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - qsp_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 393
+request - 1140.00000000,0.00258100,
+price - 0.0000039946137000
+
+Sell	Symbol - qsp_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 393
+request - 785.00000000,0.00254900,
+price - 0.0000039450873000
+
+Buy	Symbol - qsp_btc
+while (amaunt < item.MinAmount) count - 2
+MinAmount - 255
+request - 43619.00000000,0.00000395,
+price - 0.00000395
+
+Sell	Symbol - qsp_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 255
+request - 2246.00000000,0.00000393,
+price - 0.00000393
+
+Buy	Symbol - qsp_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 92
+request - 331.00000000,0.00010938,
+price - 0.0000039513525000
+
+Sell	Symbol - qsp_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 92
+request - 1816.00000000,0.00010913,
+price - 0.0000039423212500
+
+BuyPriceList
+qsp_bnb,	0.0000039946137000
+qsp_btc,	0.00000395
+qsp_eth,	0.0000039513525000
+
+SellPriceList
+qsp_bnb,	0.0000039450873000
+qsp_btc,	0.00000393
+qsp_eth,	0.0000039423212500
+
+BuyKey - qsp_btc	BuyPrice - 0.00000395
+SellKey - qsp_bnb	SellPrice - 0.0000039450873000
+precent - -0.124%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000395	buyPricePotential (ConversionPrice) - 0.00000395
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00254900	sellPricePotential (ConversionPrice) - 0.00000395
+percentPotential - -0.124%
+
+
+
+30/12/2018 23:43:10
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - qsp_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 393
+request - 1140.00000000,0.00258100,
+price - 0.0000039938394000
+
+Sell	Symbol - qsp_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 393
+request - 785.00000000,0.00254900,
+price - 0.0000039443226000
+
+Buy	Symbol - qsp_btc
+while (amaunt < item.MinAmount) count - 2
+MinAmount - 255
+request - 43619.00000000,0.00000395,
+price - 0.00000395
+
+Sell	Symbol - qsp_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 255
+request - 2246.00000000,0.00000393,
+price - 0.00000393
+
+Buy	Symbol - qsp_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 92
+request - 331.00000000,0.00010935,
+price - 0.0000039492299250
+
+Sell	Symbol - qsp_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 92
+request - 1816.00000000,0.00010913,
+price - 0.0000039412845150
+
+BuyPriceList
+qsp_bnb,	0.0000039938394000
+qsp_btc,	0.00000395
+qsp_eth,	0.0000039492299250
+
+SellPriceList
+qsp_bnb,	0.0000039443226000
+qsp_btc,	0.00000393
+qsp_eth,	0.0000039412845150
+
+BuyKey - qsp_eth	BuyPrice - 0.0000039492299250
+SellKey - qsp_bnb	SellPrice - 0.0000039443226000
+precent - -0.124%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00010935	buyPricePotential (ConversionPrice) - 0.00000395
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00254900	sellPricePotential (ConversionPrice) - 0.00000394
+percentPotential - -0.124%
+
+
+

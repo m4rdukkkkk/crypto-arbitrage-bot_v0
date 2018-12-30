@@ -1,0 +1,222 @@
+30/12/2018 23:42:12
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - ont_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 9.7
+request - 184.90000000,0.10389000,
+price - 0.0001608944430000
+
+Sell	Symbol - ont_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 9.7
+request - 147.40000000,0.10347000,
+price - 0.0001602439890000
+
+Buy	Symbol - ont_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6.24
+request - 580.79000000,0.00016090,
+price - 0.00016090
+
+Sell	Symbol - ont_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6.24
+request - 150.38000000,0.00016040,
+price - 0.00016040
+
+Buy	Symbol - ont_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2.26
+request - 229.66000000,0.00444500,
+price - 0.0001607823175000
+
+Sell	Symbol - ont_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2.26
+request - 259.78000000,0.00443700,
+price - 0.0001604929455000
+
+Buy	Symbol - ont_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.5
+request - 401.95000000,0.61000000,
+price - 0.0001607816624560321457894313
+
+Sell	Symbol - ont_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.5
+request - 594.24000000,0.60850000,
+price - 0.0001603862977122878044473262
+
+BuyPriceList
+ont_bnb,	0.0001608944430000
+ont_btc,	0.00016090
+ont_eth,	0.0001607823175000
+ont_usdt,	0.0001607816624560321457894313
+
+SellPriceList
+ont_bnb,	0.0001602439890000
+ont_btc,	0.00016040
+ont_eth,	0.0001604929455000
+ont_usdt,	0.0001603862977122878044473262
+
+BuyKey - ont_usdt	BuyPrice - 0.0001607816624560321457894313
+SellKey - ont_eth	SellPrice - 0.0001604929455000
+precent - -0.180%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.61000000	buyPricePotential (ConversionPrice) - 0.00016078
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00443700	sellPricePotential (ConversionPrice) - 0.00016049
+percentPotential - -0.180%
+
+
+
+30/12/2018 23:42:42
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - ont_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 9.7
+request - 184.90000000,0.10389000,
+price - 0.0001607905530000
+
+Sell	Symbol - ont_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 9.7
+request - 147.40000000,0.10347000,
+price - 0.0001601405190000
+
+Buy	Symbol - ont_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6.24
+request - 3986.36000000,0.00016080,
+price - 0.00016080
+
+Sell	Symbol - ont_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6.24
+request - 731.49000000,0.00016030,
+price - 0.00016030
+
+Buy	Symbol - ont_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2.26
+request - 30.05000000,0.00445000,
+price - 0.0001607562500000
+
+Sell	Symbol - ont_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2.26
+request - 21.62000000,0.00443700,
+price - 0.0001602866250000
+
+Buy	Symbol - ont_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.5
+request - 518.02000000,0.60880000,
+price - 0.0001607280282699692298756655
+
+Sell	Symbol - ont_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.5
+request - 472.52000000,0.60700000,
+price - 0.0001602528139945323957531684
+
+BuyPriceList
+ont_bnb,	0.0001607905530000
+ont_btc,	0.00016080
+ont_eth,	0.0001607562500000
+ont_usdt,	0.0001607280282699692298756655
+
+SellPriceList
+ont_bnb,	0.0001601405190000
+ont_btc,	0.00016030
+ont_eth,	0.0001602866250000
+ont_usdt,	0.0001602528139945323957531684
+
+BuyKey - ont_usdt	BuyPrice - 0.0001607280282699692298756655
+SellKey - ont_btc	SellPrice - 0.00016030
+precent - -0.266%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.60880000	buyPricePotential (ConversionPrice) - 0.00016073
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00016030	sellPricePotential (ConversionPrice) - 0.00016030
+percentPotential - -0.266%
+
+
+
+30/12/2018 23:43:09
+ListToCheck_result -4	list.Count - 4
+
+Buy	Symbol - ont_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 9.7
+request - 184.90000000,0.10389000,
+price - 0.0001607593860000
+
+Sell	Symbol - ont_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 9.7
+request - 147.40000000,0.10347000,
+price - 0.0001601094780000
+
+Buy	Symbol - ont_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6.24
+request - 1117.12000000,0.00016060,
+price - 0.00016060
+
+Sell	Symbol - ont_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 6.24
+request - 12.45000000,0.00016030,
+price - 0.00016030
+
+Buy	Symbol - ont_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2.26
+request - 30.05000000,0.00444300,
+price - 0.0001604611665000
+
+Sell	Symbol - ont_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 2.26
+request - 21.62000000,0.00443700,
+price - 0.0001602444735000
+
+Buy	Symbol - ont_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.5
+request - 685.68000000,0.60740000,
+price - 0.0001605716498776678778714343
+
+Sell	Symbol - ont_usdt
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 16.6
+request - 37.48000000,0.60590000,
+price - 0.0001601751113942689614789299
+
+BuyPriceList
+ont_bnb,	0.0001607593860000
+ont_btc,	0.00016060
+ont_eth,	0.0001604611665000
+ont_usdt,	0.0001605716498776678778714343
+
+SellPriceList
+ont_bnb,	0.0001601094780000
+ont_btc,	0.00016030
+ont_eth,	0.0001602444735000
+ont_usdt,	0.0001601751113942689614789299
+
+BuyKey - ont_eth	BuyPrice - 0.0001604611665000
+SellKey - ont_btc	SellPrice - 0.00016030
+precent - -0.100%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00444300	buyPricePotential (ConversionPrice) - 0.00016046
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00016030	sellPricePotential (ConversionPrice) - 0.00016030
+percentPotential - -0.100%
+
+
+

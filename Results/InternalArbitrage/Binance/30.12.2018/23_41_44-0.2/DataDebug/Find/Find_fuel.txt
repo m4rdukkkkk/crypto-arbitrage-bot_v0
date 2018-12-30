@@ -1,0 +1,150 @@
+30/12/2018 23:42:08
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - fuel_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 488
+request - 36310.00000000,0.00000205,
+price - 0.00000205
+
+Sell	Symbol - fuel_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 491
+request - 44903.00000000,0.00000204,
+price - 0.00000204
+
+Buy	Symbol - fuel_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 177
+request - 2295.00000000,0.00005675,
+price - 0.0000020527326250
+
+Sell	Symbol - fuel_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 178
+request - 601.00000000,0.00005644,
+price - 0.0000020415194600
+
+BuyPriceList
+fuel_btc,	0.00000205
+fuel_eth,	0.0000020527326250
+
+SellPriceList
+fuel_btc,	0.00000204
+fuel_eth,	0.0000020415194600
+
+BuyKey - fuel_btc	BuyPrice - 0.00000205
+SellKey - fuel_eth	SellPrice - 0.0000020415194600
+precent - -0.414%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000205	buyPricePotential (ConversionPrice) - 0.00000205
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00005644	sellPricePotential (ConversionPrice) - 0.00000204
+percentPotential - -0.414%
+
+
+
+30/12/2018 23:42:37
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - fuel_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 491
+request - 36310.00000000,0.00000205,
+price - 0.00000205
+
+Sell	Symbol - fuel_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 491
+request - 44903.00000000,0.00000204,
+price - 0.00000204
+
+Buy	Symbol - fuel_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 178
+request - 2295.00000000,0.00005675,
+price - 0.0000020500937500
+
+Sell	Symbol - fuel_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 178
+request - 601.00000000,0.00005644,
+price - 0.0000020388950000
+
+BuyPriceList
+fuel_btc,	0.00000205
+fuel_eth,	0.0000020500937500
+
+SellPriceList
+fuel_btc,	0.00000204
+fuel_eth,	0.0000020388950000
+
+BuyKey - fuel_btc	BuyPrice - 0.00000205
+SellKey - fuel_btc	SellPrice - 0.00000204
+BuyNextOffer - 0.00000205	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00000204	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+fuel_eth,	0.0000020500937500
+
+SellPriceList
+fuel_btc,	0.00000204
+fuel_eth,	0.0000020388950000
+
+BuyKey - fuel_eth	BuyPrice - 0.0000020500937500
+SellKey - fuel_btc	SellPrice - 0.00000204
+precent - -0.492%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00005675	buyPricePotential (ConversionPrice) - 0.00000205
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000204	sellPricePotential (ConversionPrice) - 0.00000204
+percentPotential - -0.492%
+
+
+
+30/12/2018 23:43:06
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - fuel_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 491
+request - 36310.00000000,0.00000205,
+price - 0.00000205
+
+Sell	Symbol - fuel_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 491
+request - 44903.00000000,0.00000204,
+price - 0.00000204
+
+Buy	Symbol - fuel_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 178
+request - 2295.00000000,0.00005675,
+price - 0.0000020495546250
+
+Sell	Symbol - fuel_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 178
+request - 601.00000000,0.00005644,
+price - 0.0000020383588200
+
+BuyPriceList
+fuel_btc,	0.00000205
+fuel_eth,	0.0000020495546250
+
+SellPriceList
+fuel_btc,	0.00000204
+fuel_eth,	0.0000020383588200
+
+BuyKey - fuel_eth	BuyPrice - 0.0000020495546250
+SellKey - fuel_btc	SellPrice - 0.00000204
+precent - -0.466%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00005675	buyPricePotential (ConversionPrice) - 0.00000205
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000204	sellPricePotential (ConversionPrice) - 0.00000204
+percentPotential - -0.466%
+
+
+

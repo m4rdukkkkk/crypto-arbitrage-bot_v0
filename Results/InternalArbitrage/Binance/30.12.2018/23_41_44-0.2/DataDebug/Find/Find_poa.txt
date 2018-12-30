@@ -1,0 +1,180 @@
+30/12/2018 23:42:13
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - poa_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 208.8
+request - 259.30000000,0.00482000,
+price - 0.0000074647340000
+
+Sell	Symbol - poa_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 209.3
+request - 462.00000000,0.00478000,
+price - 0.0000074027860000
+
+Buy	Symbol - poa_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 135
+request - 2310.00000000,0.00000742,
+price - 0.00000742
+
+Sell	Symbol - poa_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 136
+request - 1898.00000000,0.00000739,
+price - 0.00000739
+
+Buy	Symbol - poa_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 49
+request - 16202.00000000,0.00020649,
+price - 0.0000074690530350
+
+Sell	Symbol - poa_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 49
+request - 844.00000000,0.00020500,
+price - 0.0000074151575000
+
+BuyPriceList
+poa_bnb,	0.0000074647340000
+poa_btc,	0.00000742
+poa_eth,	0.0000074690530350
+
+SellPriceList
+poa_bnb,	0.0000074027860000
+poa_btc,	0.00000739
+poa_eth,	0.0000074151575000
+
+BuyKey - poa_btc	BuyPrice - 0.00000742
+SellKey - poa_eth	SellPrice - 0.0000074151575000
+precent - -0.065%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000742	buyPricePotential (ConversionPrice) - 0.00000742
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00020500	sellPricePotential (ConversionPrice) - 0.00000742
+percentPotential - -0.065%
+
+
+
+30/12/2018 23:42:42
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - poa_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 209.3
+request - 783.50000000,0.00484000,
+price - 0.0000074908680000
+
+Sell	Symbol - poa_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 209.3
+request - 462.00000000,0.00478000,
+price - 0.0000073980060000
+
+Buy	Symbol - poa_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 136
+request - 2310.00000000,0.00000742,
+price - 0.00000742
+
+Sell	Symbol - poa_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 136
+request - 2272.00000000,0.00000739,
+price - 0.00000739
+
+Buy	Symbol - poa_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 49
+request - 16202.00000000,0.00020640,
+price - 0.0000074562000000
+
+Sell	Symbol - poa_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 49
+request - 1218.00000000,0.00020510,
+price - 0.0000074092375000
+
+BuyPriceList
+poa_bnb,	0.0000074908680000
+poa_btc,	0.00000742
+poa_eth,	0.0000074562000000
+
+SellPriceList
+poa_bnb,	0.0000073980060000
+poa_btc,	0.00000739
+poa_eth,	0.0000074092375000
+
+BuyKey - poa_btc	BuyPrice - 0.00000742
+SellKey - poa_eth	SellPrice - 0.0000074092375000
+precent - -0.145%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000742	buyPricePotential (ConversionPrice) - 0.00000742
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00020510	sellPricePotential (ConversionPrice) - 0.00000741
+percentPotential - -0.145%
+
+
+
+30/12/2018 23:43:09
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - poa_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 209.3
+request - 783.50000000,0.00484000,
+price - 0.0000074894160000
+
+Sell	Symbol - poa_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 209.3
+request - 462.00000000,0.00478000,
+price - 0.0000073965720000
+
+Buy	Symbol - poa_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 136
+request - 2310.00000000,0.00000742,
+price - 0.00000742
+
+Sell	Symbol - poa_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 136
+request - 1054.00000000,0.00000739,
+price - 0.00000739
+
+Buy	Symbol - poa_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 49
+request - 16202.00000000,0.00020639,
+price - 0.0000074538780450
+
+Sell	Symbol - poa_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 49
+request - 1218.00000000,0.00020510,
+price - 0.0000074072890500
+
+BuyPriceList
+poa_bnb,	0.0000074894160000
+poa_btc,	0.00000742
+poa_eth,	0.0000074538780450
+
+SellPriceList
+poa_bnb,	0.0000073965720000
+poa_btc,	0.00000739
+poa_eth,	0.0000074072890500
+
+BuyKey - poa_btc	BuyPrice - 0.00000742
+SellKey - poa_eth	SellPrice - 0.0000074072890500
+precent - -0.171%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000742	buyPricePotential (ConversionPrice) - 0.00000742
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00020510	sellPricePotential (ConversionPrice) - 0.00000741
+percentPotential - -0.171%
+
+
+

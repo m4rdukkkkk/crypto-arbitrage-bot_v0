@@ -1,0 +1,174 @@
+30/12/2018 23:42:14
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - rvn_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 437
+request - 565.00000000,0.00228600,
+price - 0.0000035403282000
+
+Sell	Symbol - rvn_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 441
+request - 7771.00000000,0.00227100,
+price - 0.0000035170977000
+
+Buy	Symbol - rvn_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 285
+request - 228818.00000000,0.00000353,
+price - 0.00000353
+
+Sell	Symbol - rvn_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 285
+request - 108124.00000000,0.00000352,
+price - 0.00000352
+
+BuyPriceList
+rvn_bnb,	0.0000035403282000
+rvn_btc,	0.00000353
+
+SellPriceList
+rvn_bnb,	0.0000035170977000
+rvn_btc,	0.00000352
+
+BuyKey - rvn_btc	BuyPrice - 0.00000353
+SellKey - rvn_btc	SellPrice - 0.00000352
+BuyNextOffer - 0.0000035403282000	BuyNextOfferDifrent - 0.0000000103282000
+SellNextOffer - 0.0000035170977000	SellNextOfferDifrent - 0.0000000029023000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - True
+BuyPriceList
+rvn_bnb,	0.0000035403282000
+rvn_btc,	0.00000353
+
+SellPriceList
+rvn_bnb,	0.0000035170977000
+
+BuyKey - rvn_btc	BuyPrice - 0.00000353
+SellKey - rvn_bnb	SellPrice - 0.0000035170977000
+precent - -0.366%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000353	buyPricePotential (ConversionPrice) - 0.00000353
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00227100	sellPricePotential (ConversionPrice) - 0.00000352
+percentPotential - -0.366%
+
+
+
+30/12/2018 23:42:43
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - rvn_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 441
+request - 565.00000000,0.00228600,
+price - 0.0000035380422000
+
+Sell	Symbol - rvn_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 441
+request - 24579.00000000,0.00227100,
+price - 0.0000035148267000
+
+Buy	Symbol - rvn_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 285
+request - 228818.00000000,0.00000353,
+price - 0.00000353
+
+Sell	Symbol - rvn_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 285
+request - 110220.00000000,0.00000352,
+price - 0.00000352
+
+BuyPriceList
+rvn_bnb,	0.0000035380422000
+rvn_btc,	0.00000353
+
+SellPriceList
+rvn_bnb,	0.0000035148267000
+rvn_btc,	0.00000352
+
+BuyKey - rvn_btc	BuyPrice - 0.00000353
+SellKey - rvn_btc	SellPrice - 0.00000352
+BuyNextOffer - 0.0000035380422000	BuyNextOfferDifrent - 0.0000000080422000
+SellNextOffer - 0.0000035148267000	SellNextOfferDifrent - 0.0000000051733000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - True
+BuyPriceList
+rvn_bnb,	0.0000035380422000
+rvn_btc,	0.00000353
+
+SellPriceList
+rvn_bnb,	0.0000035148267000
+
+BuyKey - rvn_btc	BuyPrice - 0.00000353
+SellKey - rvn_bnb	SellPrice - 0.0000035148267000
+precent - -0.430%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000353	buyPricePotential (ConversionPrice) - 0.00000353
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00227100	sellPricePotential (ConversionPrice) - 0.00000351
+percentPotential - -0.430%
+
+
+
+30/12/2018 23:43:10
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - rvn_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 441
+request - 565.00000000,0.00228600,
+price - 0.0000035373564000
+
+Sell	Symbol - rvn_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 441
+request - 24579.00000000,0.00227100,
+price - 0.0000035141454000
+
+Buy	Symbol - rvn_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 285
+request - 228818.00000000,0.00000353,
+price - 0.00000353
+
+Sell	Symbol - rvn_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 285
+request - 110220.00000000,0.00000352,
+price - 0.00000352
+
+BuyPriceList
+rvn_bnb,	0.0000035373564000
+rvn_btc,	0.00000353
+
+SellPriceList
+rvn_bnb,	0.0000035141454000
+rvn_btc,	0.00000352
+
+BuyKey - rvn_btc	BuyPrice - 0.00000353
+SellKey - rvn_btc	SellPrice - 0.00000352
+BuyNextOffer - 0.0000035373564000	BuyNextOfferDifrent - 0.0000000073564000
+SellNextOffer - 0.0000035141454000	SellNextOfferDifrent - 0.0000000058546000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - True
+BuyPriceList
+rvn_bnb,	0.0000035373564000
+rvn_btc,	0.00000353
+
+SellPriceList
+rvn_bnb,	0.0000035141454000
+
+BuyKey - rvn_btc	BuyPrice - 0.00000353
+SellKey - rvn_bnb	SellPrice - 0.0000035141454000
+precent - -0.449%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00000353	buyPricePotential (ConversionPrice) - 0.00000353
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00227100	sellPricePotential (ConversionPrice) - 0.00000351
+percentPotential - -0.449%
+
+
+

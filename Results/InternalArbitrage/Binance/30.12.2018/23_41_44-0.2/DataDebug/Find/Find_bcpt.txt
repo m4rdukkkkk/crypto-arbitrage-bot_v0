@@ -1,0 +1,180 @@
+30/12/2018 23:42:07
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - bcpt_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 183.5
+request - 1325.10000000,0.00545000,
+price - 0.0000084404150000
+
+Sell	Symbol - bcpt_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 184.6
+request - 623.00000000,0.00542000,
+price - 0.0000083939540000
+
+Buy	Symbol - bcpt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 119
+request - 3714.00000000,0.00000845,
+price - 0.00000845
+
+Sell	Symbol - bcpt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 119
+request - 2084.00000000,0.00000841,
+price - 0.00000841
+
+Buy	Symbol - bcpt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 44
+request - 1000.00000000,0.00023361,
+price - 0.0000084500241150
+
+Sell	Symbol - bcpt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 44
+request - 144.00000000,0.00023212,
+price - 0.0000083961285800
+
+BuyPriceList
+bcpt_bnb,	0.0000084404150000
+bcpt_btc,	0.00000845
+bcpt_eth,	0.0000084500241150
+
+SellPriceList
+bcpt_bnb,	0.0000083939540000
+bcpt_btc,	0.00000841
+bcpt_eth,	0.0000083961285800
+
+BuyKey - bcpt_bnb	BuyPrice - 0.0000084404150000
+SellKey - bcpt_btc	SellPrice - 0.00000841
+precent - -0.360%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00545000	buyPricePotential (ConversionPrice) - 0.00000844
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000841	sellPricePotential (ConversionPrice) - 0.00000841
+percentPotential - -0.360%
+
+
+
+30/12/2018 23:42:36
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - bcpt_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 184.6
+request - 283.40000000,0.00545000,
+price - 0.0000084349650000
+
+Sell	Symbol - bcpt_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 184.6
+request - 623.00000000,0.00542000,
+price - 0.0000083885340000
+
+Buy	Symbol - bcpt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 119
+request - 3714.00000000,0.00000845,
+price - 0.00000845
+
+Sell	Symbol - bcpt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 119
+request - 3714.00000000,0.00000843,
+price - 0.00000843
+
+Buy	Symbol - bcpt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 44
+request - 1000.00000000,0.00023361,
+price - 0.0000084391612500
+
+Sell	Symbol - bcpt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 44
+request - 3714.00000000,0.00023234,
+price - 0.0000083932825000
+
+BuyPriceList
+bcpt_bnb,	0.0000084349650000
+bcpt_btc,	0.00000845
+bcpt_eth,	0.0000084391612500
+
+SellPriceList
+bcpt_bnb,	0.0000083885340000
+bcpt_btc,	0.00000843
+bcpt_eth,	0.0000083932825000
+
+BuyKey - bcpt_bnb	BuyPrice - 0.0000084349650000
+SellKey - bcpt_btc	SellPrice - 0.00000843
+precent - -0.059%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00545000	buyPricePotential (ConversionPrice) - 0.00000843
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000843	sellPricePotential (ConversionPrice) - 0.00000843
+percentPotential - -0.059%
+
+
+
+30/12/2018 23:43:04
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - bcpt_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 184.6
+request - 283.40000000,0.00545000,
+price - 0.0000084349650000
+
+Sell	Symbol - bcpt_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 184.6
+request - 623.00000000,0.00542000,
+price - 0.0000083885340000
+
+Buy	Symbol - bcpt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 119
+request - 3714.00000000,0.00000845,
+price - 0.00000845
+
+Sell	Symbol - bcpt_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 119
+request - 3714.00000000,0.00000843,
+price - 0.00000843
+
+Buy	Symbol - bcpt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 44
+request - 1000.00000000,0.00023361,
+price - 0.0000084391612500
+
+Sell	Symbol - bcpt_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 44
+request - 3714.00000000,0.00023234,
+price - 0.0000083932825000
+
+BuyPriceList
+bcpt_bnb,	0.0000084349650000
+bcpt_btc,	0.00000845
+bcpt_eth,	0.0000084391612500
+
+SellPriceList
+bcpt_bnb,	0.0000083885340000
+bcpt_btc,	0.00000843
+bcpt_eth,	0.0000083932825000
+
+BuyKey - bcpt_bnb	BuyPrice - 0.0000084349650000
+SellKey - bcpt_btc	SellPrice - 0.00000843
+precent - -0.059%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00545000	buyPricePotential (ConversionPrice) - 0.00000843
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00000843	sellPricePotential (ConversionPrice) - 0.00000843
+percentPotential - -0.059%
+
+
+

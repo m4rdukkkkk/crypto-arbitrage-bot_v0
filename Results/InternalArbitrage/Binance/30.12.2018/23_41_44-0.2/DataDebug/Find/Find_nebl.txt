@@ -1,0 +1,180 @@
+30/12/2018 23:42:12
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - nebl_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.7
+request - 37.20000000,0.21793000,
+price - 0.0003375081910000
+
+Sell	Symbol - nebl_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.7
+request - 65.00000000,0.21444000,
+price - 0.0003321032280000
+
+Buy	Symbol - nebl_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.01
+request - 77.17000000,0.00033480,
+price - 0.00033480
+
+Sell	Symbol - nebl_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.01
+request - 172.89000000,0.00033280,
+price - 0.00033280
+
+Buy	Symbol - nebl_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.08
+request - 24.02000000,0.00932400,
+price - 0.0003372630660000
+
+Sell	Symbol - nebl_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.09
+request - 10.83000000,0.00922200,
+price - 0.0003335735730000
+
+BuyPriceList
+nebl_bnb,	0.0003375081910000
+nebl_btc,	0.00033480
+nebl_eth,	0.0003372630660000
+
+SellPriceList
+nebl_bnb,	0.0003321032280000
+nebl_btc,	0.00033280
+nebl_eth,	0.0003335735730000
+
+BuyKey - nebl_btc	BuyPrice - 0.00033480
+SellKey - nebl_eth	SellPrice - 0.0003335735730000
+precent - -0.366%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00033480	buyPricePotential (ConversionPrice) - 0.00033480
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00922200	sellPricePotential (ConversionPrice) - 0.00033357
+percentPotential - -0.366%
+
+
+
+30/12/2018 23:42:41
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - nebl_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.7
+request - 37.20000000,0.21793000,
+price - 0.0003372902610000
+
+Sell	Symbol - nebl_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.7
+request - 20.40000000,0.21440000,
+price - 0.0003318268800000
+
+Buy	Symbol - nebl_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.01
+request - 77.93000000,0.00033460,
+price - 0.00033460
+
+Sell	Symbol - nebl_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.01
+request - 9.13000000,0.00033270,
+price - 0.00033270
+
+Buy	Symbol - nebl_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.09
+request - 24.02000000,0.00932400,
+price - 0.0003368295000000
+
+Sell	Symbol - nebl_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.09
+request - 10.83000000,0.00922200,
+price - 0.0003331447500000
+
+BuyPriceList
+nebl_bnb,	0.0003372902610000
+nebl_btc,	0.00033460
+nebl_eth,	0.0003368295000000
+
+SellPriceList
+nebl_bnb,	0.0003318268800000
+nebl_btc,	0.00033270
+nebl_eth,	0.0003331447500000
+
+BuyKey - nebl_btc	BuyPrice - 0.00033460
+SellKey - nebl_eth	SellPrice - 0.0003331447500000
+precent - -0.435%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00033460	buyPricePotential (ConversionPrice) - 0.00033460
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00922200	sellPricePotential (ConversionPrice) - 0.00033314
+percentPotential - -0.435%
+
+
+
+30/12/2018 23:43:09
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - nebl_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.7
+request - 37.20000000,0.21793000,
+price - 0.0003372248820000
+
+Sell	Symbol - nebl_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 4.7
+request - 65.00000000,0.21444000,
+price - 0.0003318244560000
+
+Buy	Symbol - nebl_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.01
+request - 77.93000000,0.00033460,
+price - 0.00033460
+
+Sell	Symbol - nebl_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.01
+request - 172.99000000,0.00033270,
+price - 0.00033270
+
+Buy	Symbol - nebl_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.09
+request - 24.02000000,0.00932400,
+price - 0.0003367409220000
+
+Sell	Symbol - nebl_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.09
+request - 10.83000000,0.00922200,
+price - 0.0003330571410000
+
+BuyPriceList
+nebl_bnb,	0.0003372248820000
+nebl_btc,	0.00033460
+nebl_eth,	0.0003367409220000
+
+SellPriceList
+nebl_bnb,	0.0003318244560000
+nebl_btc,	0.00033270
+nebl_eth,	0.0003330571410000
+
+BuyKey - nebl_btc	BuyPrice - 0.00033460
+SellKey - nebl_eth	SellPrice - 0.0003330571410000
+precent - -0.461%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00033460	buyPricePotential (ConversionPrice) - 0.00033460
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00922200	sellPricePotential (ConversionPrice) - 0.00033306
+percentPotential - -0.461%
+
+
+

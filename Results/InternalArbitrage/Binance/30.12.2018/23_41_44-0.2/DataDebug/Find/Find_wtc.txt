@@ -1,0 +1,208 @@
+30/12/2018 23:42:17
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - wtc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.03
+request - 19.33000000,0.20080000,
+price - 0.0003109789600000
+
+Sell	Symbol - wtc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.03
+request - 78.34000000,0.19920000,
+price - 0.0003085010400000
+
+Buy	Symbol - wtc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.23
+request - 5.00000000,0.00030940,
+price - 0.00030940
+
+Sell	Symbol - wtc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.25
+request - 67.56000000,0.00030810,
+price - 0.00030810
+
+Buy	Symbol - wtc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.18
+request - 13.69000000,0.00860700,
+price - 0.0003113281005000
+
+Sell	Symbol - wtc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.18
+request - 15.99000000,0.00854500,
+price - 0.0003090854675000
+
+BuyPriceList
+wtc_bnb,	0.0003109789600000
+wtc_btc,	0.00030940
+wtc_eth,	0.0003113281005000
+
+SellPriceList
+wtc_bnb,	0.0003085010400000
+wtc_btc,	0.00030810
+wtc_eth,	0.0003090854675000
+
+BuyKey - wtc_btc	BuyPrice - 0.00030940
+SellKey - wtc_eth	SellPrice - 0.0003090854675000
+precent - -0.102%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00030940	buyPricePotential (ConversionPrice) - 0.00030940
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00854500	sellPricePotential (ConversionPrice) - 0.00030909
+percentPotential - -0.102%
+
+
+
+30/12/2018 23:42:46
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - wtc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.03
+request - 19.33000000,0.20080000,
+price - 0.0003107781600000
+
+Sell	Symbol - wtc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.04
+request - 85.61000000,0.19880000,
+price - 0.0003076827600000
+
+Buy	Symbol - wtc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.25
+request - 24.55000000,0.00031000,
+price - 0.00031000
+
+Sell	Symbol - wtc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.24
+request - 118.34000000,0.00030900,
+price - 0.00030900
+
+Buy	Symbol - wtc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.18
+request - 22.56000000,0.00860400,
+price - 0.0003108195000000
+
+Sell	Symbol - wtc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.18
+request - 44.85000000,0.00854500,
+price - 0.0003086881250000
+
+BuyPriceList
+wtc_bnb,	0.0003107781600000
+wtc_btc,	0.00031000
+wtc_eth,	0.0003108195000000
+
+SellPriceList
+wtc_bnb,	0.0003076827600000
+wtc_btc,	0.00030900
+wtc_eth,	0.0003086881250000
+
+BuyKey - wtc_btc	BuyPrice - 0.00031000
+SellKey - wtc_btc	SellPrice - 0.00030900
+BuyNextOffer - 0.00031000	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00030900	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+wtc_bnb,	0.0003107781600000
+wtc_eth,	0.0003108195000000
+
+SellPriceList
+wtc_bnb,	0.0003076827600000
+wtc_btc,	0.00030900
+wtc_eth,	0.0003086881250000
+
+BuyKey - wtc_bnb	BuyPrice - 0.0003107781600000
+SellKey - wtc_btc	SellPrice - 0.00030900
+precent - -0.572%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.20080000	buyPricePotential (ConversionPrice) - 0.00031078
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00030900	sellPricePotential (ConversionPrice) - 0.00030900
+percentPotential - -0.572%
+
+
+
+30/12/2018 23:43:25
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - wtc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.04
+request - 20.00000000,0.20180000,
+price - 0.0003122653200000
+
+Sell	Symbol - wtc_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 5.04
+request - 58.68000000,0.19880000,
+price - 0.0003076231200000
+
+Buy	Symbol - wtc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.24
+request - 3.27000000,0.00030920,
+price - 0.00030920
+
+Sell	Symbol - wtc_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 3.24
+request - 25.56000000,0.00030900,
+price - 0.00030900
+
+Buy	Symbol - wtc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.18
+request - 4.49000000,0.00860300,
+price - 0.0003107016465000
+
+Sell	Symbol - wtc_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 1.17
+request - 33.32000000,0.00855200,
+price - 0.0003088597560000
+
+BuyPriceList
+wtc_bnb,	0.0003122653200000
+wtc_btc,	0.00030920
+wtc_eth,	0.0003107016465000
+
+SellPriceList
+wtc_bnb,	0.0003076231200000
+wtc_btc,	0.00030900
+wtc_eth,	0.0003088597560000
+
+BuyKey - wtc_btc	BuyPrice - 0.00030920
+SellKey - wtc_btc	SellPrice - 0.00030900
+BuyNextOffer - 0.00030920	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00030900	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+wtc_bnb,	0.0003122653200000
+wtc_eth,	0.0003107016465000
+
+SellPriceList
+wtc_bnb,	0.0003076231200000
+wtc_btc,	0.00030900
+wtc_eth,	0.0003088597560000
+
+BuyKey - wtc_eth	BuyPrice - 0.0003107016465000
+SellKey - wtc_btc	SellPrice - 0.00030900
+precent - -0.548%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00860300	buyPricePotential (ConversionPrice) - 0.00031070
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00030900	sellPricePotential (ConversionPrice) - 0.00030900
+percentPotential - -0.548%
+
+
+

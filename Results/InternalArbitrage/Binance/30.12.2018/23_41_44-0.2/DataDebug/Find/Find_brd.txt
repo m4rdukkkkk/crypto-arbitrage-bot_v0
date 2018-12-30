@@ -1,0 +1,222 @@
+30/12/2018 23:42:07
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - brd_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 28.7
+request - 148.20000000,0.03499000,
+price - 0.0000541890130000
+
+Sell	Symbol - brd_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 28.8
+request - 128.70000000,0.03477000,
+price - 0.0000538482990000
+
+Buy	Symbol - brd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 19
+request - 72.00000000,0.00005411,
+price - 0.00005411
+
+Sell	Symbol - brd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 19
+request - 3410.00000000,0.00005402,
+price - 0.00005402
+
+Buy	Symbol - brd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 7
+request - 90.00000000,0.00150060,
+price - 0.0000542789529000
+
+Sell	Symbol - brd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 7
+request - 66.00000000,0.00149210,
+price - 0.0000539714951500
+
+BuyPriceList
+brd_bnb,	0.0000541890130000
+brd_btc,	0.00005411
+brd_eth,	0.0000542789529000
+
+SellPriceList
+brd_bnb,	0.0000538482990000
+brd_btc,	0.00005402
+brd_eth,	0.0000539714951500
+
+BuyKey - brd_btc	BuyPrice - 0.00005411
+SellKey - brd_btc	SellPrice - 0.00005402
+BuyNextOffer - 0.00005411	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00005402	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+brd_bnb,	0.0000541890130000
+brd_eth,	0.0000542789529000
+
+SellPriceList
+brd_bnb,	0.0000538482990000
+brd_btc,	0.00005402
+brd_eth,	0.0000539714951500
+
+BuyKey - brd_bnb	BuyPrice - 0.0000541890130000
+SellKey - brd_btc	SellPrice - 0.00005402
+precent - -0.312%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.03499000	buyPricePotential (ConversionPrice) - 0.00005419
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00005402	sellPricePotential (ConversionPrice) - 0.00005402
+percentPotential - -0.312%
+
+
+
+30/12/2018 23:42:36
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - brd_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 28.8
+request - 148.20000000,0.03499000,
+price - 0.0000541540230000
+
+Sell	Symbol - brd_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 28.8
+request - 128.70000000,0.03477000,
+price - 0.0000538135290000
+
+Buy	Symbol - brd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 19
+request - 53.00000000,0.00005411,
+price - 0.00005411
+
+Sell	Symbol - brd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 19
+request - 2242.00000000,0.00005402,
+price - 0.00005402
+
+Buy	Symbol - brd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 7
+request - 90.00000000,0.00149890,
+price - 0.0000541477625000
+
+Sell	Symbol - brd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 7
+request - 129.00000000,0.00149180,
+price - 0.0000538912750000
+
+BuyPriceList
+brd_bnb,	0.0000541540230000
+brd_btc,	0.00005411
+brd_eth,	0.0000541477625000
+
+SellPriceList
+brd_bnb,	0.0000538135290000
+brd_btc,	0.00005402
+brd_eth,	0.0000538912750000
+
+BuyKey - brd_btc	BuyPrice - 0.00005411
+SellKey - brd_btc	SellPrice - 0.00005402
+BuyNextOffer - 0.00005411	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00005402	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+brd_bnb,	0.0000541540230000
+brd_eth,	0.0000541477625000
+
+SellPriceList
+brd_bnb,	0.0000538135290000
+brd_btc,	0.00005402
+brd_eth,	0.0000538912750000
+
+BuyKey - brd_eth	BuyPrice - 0.0000541477625000
+SellKey - brd_btc	SellPrice - 0.00005402
+precent - -0.236%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00149890	buyPricePotential (ConversionPrice) - 0.00005415
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00005402	sellPricePotential (ConversionPrice) - 0.00005402
+percentPotential - -0.236%
+
+
+
+30/12/2018 23:43:04
+ListToCheck_result -3	list.Count - 3
+
+Buy	Symbol - brd_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 28.8
+request - 148.20000000,0.03499000,
+price - 0.0000541540230000
+
+Sell	Symbol - brd_bnb
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 28.8
+request - 128.70000000,0.03477000,
+price - 0.0000538135290000
+
+Buy	Symbol - brd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 19
+request - 53.00000000,0.00005411,
+price - 0.00005411
+
+Sell	Symbol - brd_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 19
+request - 2242.00000000,0.00005402,
+price - 0.00005402
+
+Buy	Symbol - brd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 7
+request - 90.00000000,0.00149890,
+price - 0.0000541477625000
+
+Sell	Symbol - brd_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 7
+request - 129.00000000,0.00149180,
+price - 0.0000538912750000
+
+BuyPriceList
+brd_bnb,	0.0000541540230000
+brd_btc,	0.00005411
+brd_eth,	0.0000541477625000
+
+SellPriceList
+brd_bnb,	0.0000538135290000
+brd_btc,	0.00005402
+brd_eth,	0.0000538912750000
+
+BuyKey - brd_btc	BuyPrice - 0.00005411
+SellKey - brd_btc	SellPrice - 0.00005402
+BuyNextOffer - 0.00005411	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00005402	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+brd_bnb,	0.0000541540230000
+brd_eth,	0.0000541477625000
+
+SellPriceList
+brd_bnb,	0.0000538135290000
+brd_btc,	0.00005402
+brd_eth,	0.0000538912750000
+
+BuyKey - brd_eth	BuyPrice - 0.0000541477625000
+SellKey - brd_btc	SellPrice - 0.00005402
+precent - -0.236%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00149890	buyPricePotential (ConversionPrice) - 0.00005415
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00005402	sellPricePotential (ConversionPrice) - 0.00005402
+percentPotential - -0.236%
+
+
+

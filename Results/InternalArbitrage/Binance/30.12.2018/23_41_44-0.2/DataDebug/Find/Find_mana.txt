@@ -1,0 +1,150 @@
+30/12/2018 23:42:10
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - mana_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 81
+request - 11501.00000000,0.00001239,
+price - 0.00001239
+
+Sell	Symbol - mana_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 81
+request - 4789.00000000,0.00001236,
+price - 0.00001236
+
+Buy	Symbol - mana_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 30
+request - 10625.00000000,0.00034287,
+price - 0.0000124021222050
+
+Sell	Symbol - mana_eth
+while (amaunt < item.MinAmount) count - 2
+MinAmount - 30
+request - 177.00000000,0.00034199,
+price - 0.0000123702912850
+
+BuyPriceList
+mana_btc,	0.00001239
+mana_eth,	0.0000124021222050
+
+SellPriceList
+mana_btc,	0.00001236
+mana_eth,	0.0000123702912850
+
+BuyKey - mana_btc	BuyPrice - 0.00001239
+SellKey - mana_eth	SellPrice - 0.0000123702912850
+precent - -0.159%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00001239	buyPricePotential (ConversionPrice) - 0.00001239
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00034199	sellPricePotential (ConversionPrice) - 0.00001237
+percentPotential - -0.159%
+
+
+
+30/12/2018 23:42:39
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - mana_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 81
+request - 11501.00000000,0.00001239,
+price - 0.00001239
+
+Sell	Symbol - mana_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 81
+request - 4552.00000000,0.00001236,
+price - 0.00001236
+
+Buy	Symbol - mana_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 30
+request - 19185.00000000,0.00034279,
+price - 0.0000123832887500
+
+Sell	Symbol - mana_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 30
+request - 174.00000000,0.00034210,
+price - 0.0000123583625000
+
+BuyPriceList
+mana_btc,	0.00001239
+mana_eth,	0.0000123832887500
+
+SellPriceList
+mana_btc,	0.00001236
+mana_eth,	0.0000123583625000
+
+BuyKey - mana_eth	BuyPrice - 0.0000123832887500
+SellKey - mana_btc	SellPrice - 0.00001236
+precent - -0.188%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00034279	buyPricePotential (ConversionPrice) - 0.00001238
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00001236	sellPricePotential (ConversionPrice) - 0.00001236
+percentPotential - -0.188%
+
+
+
+30/12/2018 23:43:07
+ListToCheck_result -2	list.Count - 2
+
+Buy	Symbol - mana_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 81
+request - 11501.00000000,0.00001239,
+price - 0.00001239
+
+Sell	Symbol - mana_btc
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 81
+request - 5905.00000000,0.00001236,
+price - 0.00001236
+
+Buy	Symbol - mana_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 30
+request - 432.00000000,0.00034314,
+price - 0.0000123926726700
+
+Sell	Symbol - mana_eth
+while (amaunt < item.MinAmount) count - 1
+MinAmount - 30
+request - 174.00000000,0.00034210,
+price - 0.0000123551125500
+
+BuyPriceList
+mana_btc,	0.00001239
+mana_eth,	0.0000123926726700
+
+SellPriceList
+mana_btc,	0.00001236
+mana_eth,	0.0000123551125500
+
+BuyKey - mana_btc	BuyPrice - 0.00001239
+SellKey - mana_btc	SellPrice - 0.00001236
+BuyNextOffer - 0.00001239	BuyNextOfferDifrent - 0.00000000
+SellNextOffer - 0.00001236	SellNextOfferDifrent - 0.00000000
+(BuyNextOfferDifrent > SellNextOfferDifrent) - False
+BuyPriceList
+mana_eth,	0.0000123926726700
+
+SellPriceList
+mana_btc,	0.00001236
+mana_eth,	0.0000123551125500
+
+BuyKey - mana_eth	BuyPrice - 0.0000123926726700
+SellKey - mana_btc	SellPrice - 0.00001236
+precent - -0.264%
+after implemation ExtraPercent	extraPercent.Percent - 100.00%
+buy.Price - 0.00034314	buyPricePotential (ConversionPrice) - 0.00001239
+after implemation ExtraPercent	extraPercent.Percent - 0.00%
+sell.Price - 0.00001236	sellPricePotential (ConversionPrice) - 0.00001236
+percentPotential - -0.264%
+
+
+
