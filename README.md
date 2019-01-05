@@ -96,7 +96,7 @@ This version of the bot has been tested. and now operates on Amazon AWS in EC2 I
 Screenshot of the test<br/> 
 ![alt text](Files/img/TestRun.png)
 Screenshot of DB_Query<br/> 
-![alt text](Files/img/DB_Query.png)   
+![alt text](Files/img/DB_Query.PNG)   
 Screenshot of Amazon AWS RDS<br/>
 ![alt text](Files/img/AWS_RDS.png)
  
