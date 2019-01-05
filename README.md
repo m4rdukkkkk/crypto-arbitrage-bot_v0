@@ -1,21 +1,21 @@
 # [crypto-arbitrage-bot_v0]((https://github.com/ShalomMalovicki/crypto-arbitrage-bot_v0))
 crypto-arbitrage-bot is an automatic arbitrage trading application targeting crypto exchanges.  The bot looks for profit opportunities arising from exchange rate differentials, in currency traded against different bases. In the case of identifying an opportunity, the bot automatically sends buy and sell orders to realize the profit [Extended explanation and example](#Extended-explanation)<br/> **The software uses in methods and algorithms as follows:** <br/><br/>
 
-**Machine learning -** Algorithms that use in various method  of analysis and statistics from transaction history data, In order to obtain the optimal percentages for use in  buy/sell orders In relation to the existing prices proposals (order book), In addition using in ML algorithms to set the optimal times wait for the next price/amount update …read more
+**Machine learning -** Algorithms that use in various method  of analysis and statistics from transaction history data, In order to obtain the optimal percentages for use in  buy/sell orders In relation to the existing prices proposals (order book), In addition using in ML algorithms to set the optimal times wait for the next price/amount update […read more](#Machine-learning)
 
-**Databases -**   The implementation is in SQL Server type, the DB supply by using in Amazon AWS RDS. The access and connection made by an extension of EntityFramework DbContext …read more
+**Databases -**   The implementation is in SQL Server type, the DB supply by using in Amazon AWS RDS. The access and connection made by an extension of EntityFramework DbContext […read more](#Databases)
 
-**Security -** Emphasis on the security of confidential information. Such as access passwords to databases and keys and passwords for trading on exchanges. I used three layers of security …read more
+**Security -** Emphasis on the security of confidential information. Such as access passwords to databases and keys and passwords for trading on exchanges. I used three layers of security […read more](#Security)
 
-**Generic -** writing and using generic functions and methods …read more
+**Generic -** writing and using generic functions and methods […read more](#Generic)
 
-**Efficiency -** Writing and reusing in static functions & variables, for writing as short and clean a code as possible …read more
+**Efficiency -** Writing and reusing in static functions & variables, for writing as short and clean a code as possible […read more](#Efficiency)
 
-**Creative solutions for problems -** Examples of problems that arose during the project's construction and solution …read more
+**Creative solutions for problems -** Examples of problems that arose during the project's construction and solution […read more](#Creative-solutions-for-problems)
 
-**by value vs by reference -** A proper use for transferring variables to functions and changing their values …read more
+**by value vs by reference -** A proper use for transferring variables to functions and changing their values […read more](#by-value-vs-by-reference)
 
-**Debug -** Implementing extensive debug options throughout the software …read more
+**Debug -** Implementing extensive debug options throughout the software […read more](#Debug)
 
 #
 
