@@ -42,13 +42,13 @@ In conclusion, we need to reach optimal numbers here that are close to the chanc
 
 simple example of a machine learning algorithm is ML_2. The purpose of this algorithm is to avoid futile efforts and waste of time when we are creating a new order price. We will indicate for each pair of currency and base whether there was success in raising the percentage, and in case of failure avoid from raising the percentage in the next few minutes according to the time value that appears in the MagicTimeHasPassed variable. The algorithm modifies the value of the variable by statistical calculation of past and present transactions. You can see the execution by tracking the MagicTimeHasPassed variable and/or searching for the // USE to ML_2 comment. [link](/InternalArbitrage/MachineLearning/ExtraPercent.cs)
 
-expanded example of machine learning is ML_4. As we detailed in section 2-3 the value of time waiting between updates of the orders is a critical component in trade. In the algorithms used for ML_4, we change the above value in the WaitingTimeForNextPriceUpdate variable by analyzing the success/failure of each transaction and each arbitrage transaction, in addition, the algorithm updates the variable for symbols that have not yet been traded by statistical analyzes and calculations from the database. You can see the implementation of the above algorithms in class [WaitingTimeML](/InternalArbitrage/MachineLearning/WaitingTimeML.cs) & [TradeMagic](/InternalArbitrage/MachineLearning/TradeMagic.cs#L111) and in the search for comment // USE to ML_4 
+expanded example of machine learning is ML_4. As we detailed in section 2-3 the value of time waiting between updates of the orders is a critical component in trade. In the algorithms used for ML_4, we change the above value in the WaitingTimeForNextPriceUpdate variable by analyzing the success/failure of each transaction and each arbitrage transaction, in addition, the algorithm updates the variable for symbols that have not yet been traded by statistical analyzes and calculations from the database. You can see the implementation of the above algorithms in class [WaitingTimeML](/InternalArbitrage/MachineLearning/WaitingTimeML.cs) & [TradeMagic](/InternalArbitrage/Func/TradeMagic.cs#L111) and in the search for comment // USE to ML_4 
 
 ### Databases
 For ML algorithms we need a database. In this project I used SQL Server type. running on Amazon AWS RDS. I implemented the access and connection using by Microsoft Entity Framework 6 extension library. Using in DbContext simplifies procedures and is easy to implement for the following reasons.
 * Automatically build tables by inheritance from DbContext, and that converts the "ExtraPercent" class  fields into columns  [link](/InternalArbitrage/DB/SqlContext.cs)
 * The conversion from tables to class is also done automatically. [link](/InternalArbitrage/DB/SqlMagicNumber.cs#L34)
-* *Access and queries using by "linq" method without the need to implement conversion functions for text etc. [link](/InternalArbitrage/MachineLearning/WaitingTimeML.cs#L81)
+* Access and queries using by "linq" method without the need to implement conversion functions for text etc. [link](/InternalArbitrage/MachineLearning/WaitingTimeML.cs#L81)
 
 ### Security 
 I used three layers of security [link](/InternalArbitrage/Func/Approval.cs)
@@ -58,11 +58,11 @@ I used three layers of security [link](/InternalArbitrage/Func/Approval.cs)
 4.	In addition to avoid exposing the DB server name and user name and password in the App.config file I wrote the class [MyConfiguration](/InternalArbitrage/DB/MyConfiguration.cs) and only at run time does the software receive the access values from the encrypted file.
 
 ### Generic 
-Writing and using generic functions & methods. for writing as short & clean code as possible. example in this link You can see example in this link You can see prints functions for "List" or/and "Dictionary" regardless of class type
+Writing and using generic functions & methods. for writing as short & clean code as possible. example in this [link](/Main/SharedFunctions/PrintFunc.cs) You can see prints functions for "List" or/and "Dictionary" regardless of class type
 
 ### Efficiency  
-Writing reusable static functions Which are often used by many classes. in this link You can see several functions for printing tables that are used to "csv" table file, with caring for printing in relation to the table columns, 
-In addition, the use of static variables to obtain values and lists during the run, prevents the need transfer arguments to functions. example the Reference to this static class, is 255 times!
+Writing reusable static functions Which are often used by many classes. in this [link](/InternalArbitrage/Func/PrintTable.cs) You can see several functions for printing tables that are used to "csv" table file, with caring for printing in relation to the table columns, 
+In addition, the use of static variables to obtain values and lists during the run, prevents the need transfer arguments to functions. example the Reference to [this](/InternalArbitrage/Main/StaticVariables.cs) static class, is 255 times!
 
 ### Creative solutions for problems 
 **Problem:** In order to access non-local database, we need to be defined in the "App.config" file, the setting values of the DB server name, user name, and password, which creates a security problem in the software<br/>
