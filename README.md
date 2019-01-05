@@ -66,17 +66,17 @@ In addition, the use of static variables to obtain values and lists during the r
 
 ### Creative solutions for problems 
 **Problem:** In order to access non-local database, we need to be defined in the "App.config" file, the setting values of the DB server name, user name, and password, which creates a security problem in the software<br/>
-**Solution:** I wrote the class MyConfiguration (which only during runtime gets its values from the encrypted file and adds them to the app settings without saving the data) link, and when I am implementing the DbContext extension I used the base constructor to get the database connection data. [link](/InternalArbitrage/DB/SqlContext.cs#L18)
+**Solution:** I wrote the class MyConfiguration (which only during runtime gets its values from the encrypted file and adds them to the app settings without saving the data) [link](/InternalArbitrage/DB/MyConfiguration.cs), and when I am implementing the DbContext extension I used the base constructor to get the database connection data. [link](/InternalArbitrage/DB/SqlContext.cs#L18)
  
 **Problem:** How to represent a uniform value for a currency traded against different bases<br/>
-**Solution:** Examining the largest common base (usually Bitcoin) and converting the various bases to its value so that all base prices are represented by a single value, in this link You can see the use of conversion functions that maintain static lists of two-way conversion values and return a uniform value (The reference to this static function is 18 times)
+**Solution:** Examining the largest common base (usually Bitcoin) and converting the various bases to its value so that all base prices are represented by a single value, in this [link](/InternalArbitrage/Func/WalletFunc.cs#L104) You can see the use of conversion functions that maintain static lists of two-way conversion values and return a uniform value (The reference to this static function is 18 times)
 
 **Problem:** How to calculate the profit when certain exchanges (Binance) are rounding the price & quantity of trading, Plus we need to calculate the trading commissions out of the amount of currencies we buy and sell (on certain exchanges like Bitfinex)<br/>
-**Solution:** Calculate from the order details received from the API, in this link, Plus change the quantities in this link
+**Solution:** Calculate from the order details received from the API, in this [link](/InternalArbitrage/Model/Trade%20package.cs#L224), Plus change the quantities in this [link](/InternalArbitrage/Func/TradeMagic.cs#L42)
 
 ### by value vs by reference
-Because we use current trading data for the next trading, For example percent difference, wait times, etc. therefore is important to use in "by reference" Method (Default in C# ) when we use in class "SymbolsDate" (Which contains all the data needed for the next trade), We take this class from "StaticVariables.symbolsDateList" and so when we modified the "ExtraPercent" values during trading, the data modifies in the original list and are used for the next round link <br/>
-In cases where we don't want to change the original variable, we use in "by value" method, example in the link
+Because we use current trading data for the next trading, For example percent difference, wait times, etc. therefore is important to use in "by reference" Method (Default in C# ) when we use in class "SymbolsDate" (Which contains all the data needed for the next trade), We take this class from "StaticVariables.symbolsDateList" and so when we modified the "ExtraPercent" values during trading, the data modifies in the original list and are used for the next round [link](/InternalArbitrage/Model/FindingSymbolsTrading.cs#L127) <br/>
+In cases where we don't want to change the original variable, we use in "by value" method, example in the [link](/InternalArbitrage/Model/OrderTrade.cs#L510)
 
 ### Debug 
 Today I work in the FwDebug team at Intel. My experience at work taught me about the importance of Debug, Validation, Testing, In the life cycle of software development, and therefore can be found in the code a lot of prints to logs. Tables, etc. So that there are possibilities for verifying and testing the algorithms & options in the case of a bug get the variables values. For example, searching for the "#if DEBUG" string in code, brings 37 results
@@ -100,6 +100,6 @@ Screenshot of Amazon AWS RDS<br/>
 
 ### Licensed & Copyright
 This project is licensed under the MIT License, each file separately has a license and copyright based on the participants writing and modifying the file<br/>
-In "Main" Project The folder " Utility " has been copied from jjxtra/ExchangeSharp And I did not change them<br/>
-In "Main" Project The following folders "Model" & " API" have been copied from jjxtra/ExchangeSharp And I changed the files<br/>
-All other files and projects were written by shalom malovicki   shalomm2468@gmail.com
+In "Main" Project The folder " Utility " has been copied from [jjxtra/ExchangeSharp](https://github.com/jjxtra/ExchangeSharp) And I did not change them<br/>
+In "Main" Project The following folders "Model" & " API" have been copied from [jjxtra/ExchangeSharp](https://github.com/jjxtra/ExchangeSharp) And I changed the files<br/>
+All other files and projects were written by [shalom malovicki](mailto:shalomm2468@gmail.com)
