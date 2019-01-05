@@ -19,16 +19,17 @@ crypto-arbitrage-bot is an automatic arbitrage trading application targeting cry
 
 #
 
-## Extended explanation
-The bot looks for profit opportunities arising from exchange rate differentials, in currency traded against different bases. 
-Currency -> In a pair like amb_btc, amb is the currency
-Base_1    -> In a pair like amb_btc, btc is the base
-Base_2    -> In a pair like amb_eth, eth is the base
-For example, the currency "Ambrosus". Which is traded against Ethereum and Bitcoin And we found an opportunity when the "Ambrosus" price to buy against the Ethereum base is lower than the price we sell the "Ambrosus" against the base of Bitcoin. When the comparison is made by converting the cost of an Ethereum in the Bitcoin currency,
+### Extended explanation
+The bot looks for profit opportunities arising from exchange rate differentials, in currency traded against different bases.<br/> 
+Currency -> In a pair like amb_btc, amb is the currency<br/>
+Base_1    -> In a pair like amb_btc, btc is the base<br/>
+Base_2    -> In a pair like amb_eth, eth is the base<br/>
+For example, the currency "Ambrosus". Which is traded against Ethereum and Bitcoin And we found an opportunity when the "Ambrosus" price to buy against the Ethereum base is lower than the price we sell the "Ambrosus" against the base of Bitcoin. When the comparison is made by converting the cost of an Ethereum in the Bitcoin currency,<br/>
 This is an opportunity to profit and therefore the bot will automatically launch 3 trading operations
-•	Buy coins "Ambrosus" by paying in Ethereum
-•	We will sell the Ambrosus coins we purchased when the income is in Bitcoin currency
-•	In the Bitcoin coins we received, we will buy back the amount of Ethereum we spent in the first stage
+* Buy coins "Ambrosus" by paying in Ethereum
+* We will sell the Ambrosus coins we purchased when the income is in Bitcoin currency
+* In the Bitcoin coins we received, we will buy back the amount of Ethereum we spent in the first stage
+
 After 3 trades trading remains with a quantity of Bitcoin coins and that's our profit Link for example
 
 ## Machine learning 
@@ -45,9 +46,9 @@ expanded example of machine learning is ML_4. As we detailed in section 2-3 the 
 
 ## Databases
 For ML algorithms we need a database. In this project I used SQL Server type. running on Amazon AWS RDS. I implemented the access and connection using by Microsoft Entity Framework 6 extension library. Using in DbContext simplifies procedures and is easy to implement for the following reasons.
-•	Automatically build tables by inheritance from DbContext, and that converts the "ExtraPercent" class  fields into columns  SqlContext
-•	The conversion from tables to class is also done automatically. GetByInstance
-•	Access and queries using by "linq" method without the need to implement conversion functions for text etc. GetSellWaitingTimeList
+* Automatically build tables by inheritance from DbContext, and that converts the "ExtraPercent" class  fields into columns  SqlContext
+* The conversion from tables to class is also done automatically. GetByInstance
+* *Access and queries using by "linq" method without the need to implement conversion functions for text etc. GetSellWaitingTimeList
 
 ## Security 
 I used three layers of security link
