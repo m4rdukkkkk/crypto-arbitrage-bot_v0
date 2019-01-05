@@ -93,8 +93,10 @@ A screenshot of the example from the main.txt file
 
 ### Test & run
 This version of the bot has been tested. and now operates on Amazon AWS in EC2 Instance type  t2.medium<br/>
-Screenshot of the test<br/>    
+Screenshot of the test<br/> 
+![alt text](Files/img/TestRun.png)   
 Screenshot of Amazon AWS RDS<br/>
+![alt text](Files/img/AWS_RDS.png)
  
 # 
 
