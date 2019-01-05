@@ -63,9 +63,9 @@ Efficiency
 Writing reusable static functions Which are often used by many classes. in this link You can see several functions for printing tables that are used to "csv" table file, with caring for printing in relation to the table columns, 
 In addition, the use of static variables to obtain values and lists during the run, prevents the need transfer arguments to functions. example the Reference to this static class, is 255 times!
 
-Creative solutions for problems 
-Problem: In order to access non-local database, we need to be defined in the "App.config" file, the setting values of the DB server name, user name, and password, which creates a security problem in the software
-Solution: I wrote the class MyConfiguration (which only during runtime gets its values from the encrypted file and adds them to the app settings without saving the data) link, and when I am implementing the DbContext extension I used the base constructor to get the database connection data. link
+## Creative solutions for problems 
+**Problem:** In order to access non-local database, we need to be defined in the "App.config" file, the setting values of the DB server name, user name, and password, which creates a security problem in the software<br/>
+**Solution:** I wrote the class MyConfiguration (which only during runtime gets its values from the encrypted file and adds them to the app settings without saving the data) link, and when I am implementing the DbContext extension I used the base constructor to get the database connection data. [link](../InternalArbitrage/DB/SqlContext.cs#L18)
  
 Problem: How to represent a uniform value for a currency traded against different bases
 Solution: Examining the largest common base (usually Bitcoin) and converting the various bases to its value so that all base prices are represented by a single value, in this link You can see the use of conversion functions that maintain static lists of two-way conversion values and return a uniform value (The reference to this static function is 18 times)
