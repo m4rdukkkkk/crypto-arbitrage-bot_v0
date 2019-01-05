@@ -78,6 +78,10 @@ namespace InternalArbitrage
 
             // Use a reference. For the purpose of machine learning and the use of databases
             StaticVariables.magicNumberList = DBfunc.GetMagicNumberTable();
+            if (StaticVariables.magicNumberList.Count > 0)
+            {
+                WaitingTimeML.Start();      // USE to ML_4
+            }
 
 #if DEBUG
             PrintFunc.PrintList(SymbolsList, "SymbolsList_afterDistinct", StaticVariables.pathDataDebug);

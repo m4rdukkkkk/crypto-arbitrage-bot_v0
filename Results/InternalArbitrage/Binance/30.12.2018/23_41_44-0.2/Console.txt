@@ -1,3 +1,0 @@
-23-42-6	1
-23-42-35	2
-Handling Order - Buy-vet_bnb, ExtraPercent 100%, Percentage(without ExtraPercent) - -0.232%, realPercentage - 0.956%

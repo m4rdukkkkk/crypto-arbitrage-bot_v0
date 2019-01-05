@@ -1,7 +1,0 @@
-Time,30/12/2018 23:42:01,
-1,bnb_btc,  bnb_btc, 1,808.823
-2,bnb_eth,  bnb_eth, 101.537
-3,bnb_usdt,  bnb_usdt, 2,122.085
-4,btc_usdt,  btc_usdt, 38,213.652
-5,eth_btc,  eth_btc, 12,241.040
-6,eth_usdt,  eth_usdt, 30,842.134

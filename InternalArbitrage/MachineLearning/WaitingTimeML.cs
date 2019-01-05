@@ -126,6 +126,8 @@ namespace InternalArbitrage
             {
                 numResult += item.Sell.NumSuccess;
                 sumResult += (item.Sell.WaitingTimeForNextPriceUpdate * item.Sell.NumSuccess);
+                numResult += item.Sell.NumUnSuccess;
+                sumResult += (item.Sell.WaitingTimeForNextPriceUpdate * item.Sell.NumUnSuccess);
             }
 
             result = sumResult / numResult;     // Returns Average waiting time recommended           
