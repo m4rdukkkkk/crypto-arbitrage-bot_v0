@@ -32,7 +32,7 @@ This is an opportunity to profit and therefore the bot will automatically launch
 
 After 3 trades trading remains with a quantity of Bitcoin coins and that's our profit Link for example
 
-## Machine learning 
+### Machine learning 
 The possibility of finding an arbitrage opportunity in the market, according to the bids/asks in the order book is rare (The intention is to buy the currency in cheapest bid, and to sell the currency to highest asking). and therefore to increase the opportunities for arbitrage, I am using the strategy of sending new buy/sell orders that will be within range of That current highest ask-bid. The main factors influencing this strategy are as follows
 1.	In each of the three trading stages, what is the optimal percentage from the range of difference between bis/ask to use for the new trading proposal? The higher the percentage, the greater profit and risk
 2.	The waiting time at each price update for each trading step. The longer the time, the greater the chance of trading, but the higher the risk, because we have moved away from the time of the original price quote and when we update to this price, Perhaps the price of opportunity disappeared
@@ -44,27 +44,27 @@ simple example of a machine learning algorithm is ML_2. The purpose of this algo
 
 expanded example of machine learning is ML_4. As we detailed in section 2-3 the value of time waiting between updates of the orders is a critical component in trade. In the algorithms used for ML_4, we change the above value in the WaitingTimeForNextPriceUpdate variable by analyzing the success/failure of each transaction and each arbitrage transaction, in addition, the algorithm updates the variable for symbols that have not yet been traded by statistical analyzes and calculations from the database. You can see the implementation of the above algorithms in class WaitingTimeML & TradeMagic and in the search for comment // USE to ML_4
 
-## Databases
+### Databases
 For ML algorithms we need a database. In this project I used SQL Server type. running on Amazon AWS RDS. I implemented the access and connection using by Microsoft Entity Framework 6 extension library. Using in DbContext simplifies procedures and is easy to implement for the following reasons.
 * Automatically build tables by inheritance from DbContext, and that converts the "ExtraPercent" class  fields into columns  SqlContext
 * The conversion from tables to class is also done automatically. GetByInstance
 * *Access and queries using by "linq" method without the need to implement conversion functions for text etc. GetSellWaitingTimeList
 
-## Security 
+### Security 
 I used three layers of security link
 1.	Encrypting the location of the password files used access to DB and access to Exchanges
 2.	Encryption of access passwords in the .bin file * by using Crypt32.dll with the possibility of extracting information only from the computer where the keys were encrypted. File creation link 
 3.	When the trading orders are sent to Exchanges. The passwords are encrypted by sha256 and sent encrypted to the stock exchange servers link
 4.	In addition to avoid exposing the DB server name and user name and password in the App.config file I wrote the class MyConfiguration and only at run time does the software receive the access values from the encrypted file.
 
-## Generic 
+### Generic 
 Writing and using generic functions & methods. for writing as short & clean code as possible. example in this link You can see example in this link You can see prints functions for "List" or/and "Dictionary" regardless of class type
 
-## Efficiency  
+### Efficiency  
 Writing reusable static functions Which are often used by many classes. in this link You can see several functions for printing tables that are used to "csv" table file, with caring for printing in relation to the table columns, 
 In addition, the use of static variables to obtain values and lists during the run, prevents the need transfer arguments to functions. example the Reference to this static class, is 255 times!
 
-## Creative solutions for problems 
+### Creative solutions for problems 
 **Problem:** In order to access non-local database, we need to be defined in the "App.config" file, the setting values of the DB server name, user name, and password, which creates a security problem in the software<br/>
 **Solution:** I wrote the class MyConfiguration (which only during runtime gets its values from the encrypted file and adds them to the app settings without saving the data) link, and when I am implementing the DbContext extension I used the base constructor to get the database connection data. [link](/InternalArbitrage/DB/SqlContext.cs#L18)
  
@@ -74,28 +74,31 @@ In addition, the use of static variables to obtain values and lists during the r
 **Problem:** How to calculate the profit when certain exchanges (Binance) are rounding the price & quantity of trading, Plus we need to calculate the trading commissions out of the amount of currencies we buy and sell (on certain exchanges like Bitfinex)<br/>
 **Solution:** Calculate from the order details received from the API, in this link, Plus change the quantities in this link
 
-## by value vs by reference
+### by value vs by reference
 Because we use current trading data for the next trading, For example percent difference, wait times, etc. therefore is important to use in "by reference" Method (Default in C# ) when we use in class "SymbolsDate" (Which contains all the data needed for the next trade), We take this class from "StaticVariables.symbolsDateList" and so when we modified the "ExtraPercent" values during trading, the data modifies in the original list and are used for the next round link <br/>
 In cases where we don't want to change the original variable, we use in "by value" method, example in the link
 
-## Debug 
+### Debug 
 Today I work in the FwDebug team at Intel. My experience at work taught me about the importance of Debug, Validation, Testing, In the life cycle of software development, and therefore can be found in the code a lot of prints to logs. Tables, etc. So that there are possibilities for verifying and testing the algorithms & options in the case of a bug get the variables values. For example, searching for the "#if DEBUG" string in code, brings 37 results
 
-## An example of an opportunity identified and implemented
-•	Buy 49 "Ambrosus" coins, Quoted base "Ethereum" symbol amb_eth. Purchase price 0.00072768, Total buy cost is - 0.03565632 Ethereum
-•	Sell 49 "Ambrosus" coins, Quoted base "Bitcoin" symbol amb_btc . Selling price 0.00002042, The total sell cost is - 0.00100058 Bitcoin
-•	Buy 0.03565632 "Ethereum" coins (The first purchase cost), Quoted base "Bitcoin" symbol eth_btc. Selling price 0.0278699, The total sell cost is -0.000993738 Bitcoin<br/>
+### An example of an opportunity identified and implemented
+* *Buy 49 "Ambrosus" coins, Quoted base "Ethereum" symbol amb_eth. Purchase price 0.00072768, Total buy cost is - 0.03565632 Ethereum
+* Sell 49 "Ambrosus" coins, Quoted base "Bitcoin" symbol amb_btc . Selling price 0.00002042, The total sell cost is - 0.00100058 Bitcoin
+* Buy 0.03565632 "Ethereum" coins (The first purchase cost), Quoted base "Bitcoin" symbol eth_btc. Selling price 0.0278699, The total sell cost is -0.000993738 Bitcoin<br/>
+
 The amount of "Bitcoin" we received (0.00100058) minus the cost of buying the "Ethereum" back (0.000993738) leaves us a profit of 0.00000684 "Bitcoin", in calculating the profit towards the cost, the percentage of profit is 0.689%<br/>
 A screenshot of the example from the main.txt file
  
+#
 
-## Test & run
+### Test & run
 This version of the bot has been tested. and now operates on Amazon AWS in EC2 Instance type  t2.medium<br/>
 Screenshot of the test<br/>    
 Screenshot of Amazon AWS RDS<br/>
  
+# 
 
-## Licensed & Copyright
+### Licensed & Copyright
 This project is licensed under the MIT License, each file separately has a license and copyright based on the participants writing and modifying the file<br/>
 In "Main" Project The folder " Utility " has been copied from jjxtra/ExchangeSharp And I did not change them<br/>
 In "Main" Project The following folders "Model" & " API" have been copied from jjxtra/ExchangeSharp And I changed the files<br/>
